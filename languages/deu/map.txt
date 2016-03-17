@@ -1,6 +1,6 @@
 // This is our font for map graphics
 // Specified in f@37000 in language/eng_script.txt
-{"charset" : " ABCDEFGHIJKLMNOP'RSTUVYW",
+{"charset" : " ABCDEFGHIJKLMNOP'RSTUVYWÄÖÜ",
  "names" : {
   ///
    "0" :  "Stadt Jova",         // YO-BA
@@ -12,38 +12,38 @@
    "6" :  "Stadt Yomi",         // YOMI
   //
    "7" :  "Burg Berkeley",// BA-KUREI NO YAKATA  (yakata = mansion, small castle)
-   "8" :  "Burg Rover",  // RO-BA- NO YAKATA
-   "9" :  "Bram's Burg",  // BURA-MU NO YAKATA
+   "8" :  "Roversburg",  // RO-BA- NO YAKATA
+   "9" :  "Brahmsburg",  // BURA-MU NO YAKATA
   "10" :  "Burg Bathory", // BADORI- NO YAKATA
   "11" :  "Burg Laruba", // RARUBA NO YAKATA
   //
-  "12" :  "Wälder von Sadam",  // ZADAMU
+  "12" :  "Sadams Wald",  // ZADAMU
   "13" :  "Wälder von Jova",    // YO-BA
   "14" :  "Wälder von Veros", // BEROZU
   "15" :  "Denis Wald", // DENISU NO MORI
   "16" :  "Wald von Aljiba",  // ORUJIBA
-  "17" :  "Dora Forst",   // DO-RA. Why is this not forest of Yomi?
-  "18" :  "Wälder von Devious",   // DEBIASU. Debious/Devious woods ("debiazu") includes a river
+  "17" :  "Doras Wald",   // DO-RA. Why is this not forest of Yomi?
+  "18" :  "Verschlagene Wälder",   // DEBIASU. Debious/Devious woods ("debiazu") includes a river
   //
-  "19" :  "Süd-Brücke", // Between Jova and Veros 
-  "20" :  "Nord-Brücke", // Between Doina and Yomi
-  "21" :  "Ost-Brücke",   // Leads to Denis marsh (dead end)
-  "22" :  "West-Brücke",  // Leads to ruins
+  "19" :  "Brücke nach Norden", // Between Jova and Veros 
+  "20" :  "Brücke nach Süden", // Between Doina and Yomi
+  "21" :  "Brücke nach Osten",   // Leads to Denis marsh (dead end)
+  "22" :  "Brücke nach Westen",  // Leads to ruins
 
-  "23" :  "Strigoi Friedhof", // STORIGOI BOCHI
-  "24" :  "Carmilla Friedhof", // KA-MIRA BOCHI
-  "25" :  "Vlad Friedhof",   // VURADO BOCHI
+  "23" :  "Friedhof der Strigoi", // STORIGOI BOCHI
+  "24" :  "Carmillas Friedhof", // KA-MIRA BOCHI
+  "25" :  "Vlads Friedhof",   // VURADO BOCHI
 
-  "26" :  "Moor von Belasco",       // BERASUKO NO NUMA (Note: Bela Lucosi = BERA RUGOJI)
+  "26" :  "Belasco Sumpfland",       // BERASUKO NO NUMA (Note: Bela Lucosi = BERA RUGOJI)
   "27" :  "Joma Sumpf",          // JOMA
-  "28" :  "Denis Sumpfland", // DENISU
+  "28" :  "Denis Tümpfel", // DENISU
 
   "29" :  "Toter Fluss",     // DEDDORIBA-
 
   "30" :  "Klippen von Deborah",  // DEBORA NO GAKE
-  "31" :  "Jam Einöde",    // JAMU NO ARECHI
+  "31" :  "Jams Einöde",    // JAMU NO ARECHI
 
-  "32" :  "Dabis Pfad",   // DABI NO CHIKADOU
+  "32" :  "Dabis Höhlenweg",   // DABI NO CHIKADOU
   "33" :  "Uta Höhlen",   // Does not occur in Japanese
   "34" :  "Böser Graben",  // JAAKU NO MIZO (not in map). Wicked ditch
 

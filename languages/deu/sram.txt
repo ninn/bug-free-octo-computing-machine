@@ -4,28 +4,31 @@
  "cancel":  "Abbrechen",
 
  "charset_required": "NeinLadDfktAbrch",
- 
- // We could do Damaged in red, but "e" is also in Cancel and "a","d" in Load...
- // Used 0xF8 as a filler till vram.txt is done.
- "charset_implemented":
-   { "e": 0x9F,
-     "s": 0xB7,
-     " ": 0xF8,
 
-     "N": 0x65,
-     "i": 0xF8,
-     "n": 0x64,
-     "L": 0x56,
-     "a": 0xDC,
+ // We could do Damaged in red, but "e" is also in Cancel and "a","d" in Load...
+
+ // free: "c": 0x53, "L": 0x56, aDC,
+
+ "charset_implemented":
+   { "a": 0xB6,
+     " ": 0xB7,
+     "e": 0x7D,
+     "r": 0x7F,
+     "h": 0xC7,
+     "c": 0xC6,
+     
+     "i": 0xC5,
+     "f": 0x60,
+     "k": 0x62,
+     "t": 0x5D,
+     "A": 0x63,
+     "b", 0xFA,
+     "J", 0xB5,
+     "n", 0x64,
+     "N", 0x65, 
+     
      "d": 0xAF,
      "D": 0xB4,
-     "f": 0xF8,
-     "k": 0xF8,
-     "t": 0xF8,
-     "A": 0xF8,
-     "b": 0xF8,
-     "r": 0xF8,
-     "c": 0x53,
-     "h": 0xD2
+     "L": 0x7C
    }
 }

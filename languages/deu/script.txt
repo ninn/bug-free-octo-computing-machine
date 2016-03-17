@@ -1,8 +1,3 @@
-
-*** These modified files were found in JOE when it aborted on Tue Nov 17 00:51:29 2015
-*** JOE was aborted by UNIX signal 1
-
-*** Datei 'deu_20151116/script.cv2'
 ; Castlevania II NES reverse engineering tool
 ; Copyright (C) 2012 Joel Yliluoma, http://iki.fi/bisqwit/
 
@@ -144,10 +139,10 @@
    ;   similar to the style in the ending text in the Japanese version.
    ;   Also, the original text speaks nothing of curse here.
    [nl]
-   And then[nl][nl]
-   descends[nl][nl]
-   a horrible[nl][nl]
-   night.
+   Eine[nl][nl]
+   furchtbare[nl][nl]
+   Nacht bricht[nl][nl]
+   herein.
 
 +001: ;JA @AE4F[0:DRQ_MAC0]
    ;ENG: THE MORNING/SUN HAS/VANQUISHED/THE HORRIBLE/NIGHT.
@@ -158,11 +153,9 @@
    ;   The monsters are back to normal strength.
    ; Comments: The night of a nightmare has ended (due to sunrise).
    [nl]
-   The morning[nl][nl]
-   sun has[nl][nl]
-   vanquished[nl][nl]
-   the horrible[nl][nl]
-   night.
+   Der Albtraum[nl][nl]
+   endet mit der[nl][nl]
+   Morgensonne.
 
 
 
@@ -176,13 +169,12 @@
    ; Info: True. Without the white crystal, the entry to that mansion is difficult, but the crystal reveals a hidden moving platform.
    ; Comments: Clue 1, In town of Veros. Hinted by string 78.
    [nl]
-   ;***********.
-   Durch den[nl]
-   Kristall[nl]
-   erspäht man[nl]
-   Geheimwege[nl]
-   in der Burg[nl]
-   Berkeley.
+   Seht durch[nl]
+   den Kristall[nl]
+   in Burg[nl]
+   Berkeley und[nl]
+   der Steig[nl]
+   erscheint.
 +030u: ;JA @64C6[5:DRQ_YK_1]
    ;ENG: A SYMBOL OF/EVIL WILL/APPAER WHEN/YOU STRIKE/THE STAKE.
    ;JAP: KASHINOKINOKUIWO/ARUMONONI UCHIKOMUTOKI/MAOUNO SHOUCHOUHA/ARAWARERU
@@ -195,8 +187,8 @@
    Gepfählt mit[nl]
    einen Pflock[nl]
    aus Eiche[nl]
-   werden[nl]
-   Draculas[nl]
+   werden die[nl]
+   teuflischen[nl]
    Reliquien[nl]
    erscheinen.
 +031u: ;JA @64EF[5:DRQ_YK_1]
@@ -210,13 +202,12 @@
    ;   and he will take you to the coast next to Brahm's mansion that you cannot otherwise access.
    ; Comments: Clue 3, in Berkeley Mansion. Hinted by string 80.
    [nl]
-   Der Fluch[nl]
+   Bannt[nl]
+   den Fluch[nl]
    des Flusses[nl]
-   verschlang[nl]
-   den[nl]
-   Pfad zur[nl]
-   Burge Brahm.
-
+   um die[nl]
+   Brahmsburg[nl]
+   zu erreichen. 
 
 +032u: ;JA @650E[5:DRQ_YK_1]
    ;ENG: A FLAME/FLICKERS/INSIDE THE/RING OF/FIRE.
@@ -226,11 +217,10 @@
    ;   (i.e. in a territory that never sees sunlight).
    ; Info: In other words, the flame is hidden in a cave.
    ; Comments: Clue 4, in Berkeley Mansion. Hinted by string 80.
-   Bis heute[nl]
-   ruht die[nl]
-   Heilige[nl]
-   Flamme an[nl]
-   einem Ort[nl]
+   [nl]
+   Die Heilige[nl]
+   Flamme ruht[nl]
+   an einem Ort[nl]
    fernab des[nl]
    Sonnenlichts.
 +013u: ;JA @6F83[11:DRQ_E_01]
@@ -242,13 +232,12 @@
    ;   progress to the area under the lake. At two distinct locations.
    ; Comments: Clue 5, in Aljiba Woods. Hinted by string 103.
    [nl]
-   Kniet mit[nl]
-   dem Saphier[nl]
-   am Ufer[nl]
-   des Sees, so[nl]
-   das Wasser[nl]
-   versickern.[nl]
-   [nl]
+   Wenn Ihr mit[nl]
+   einem Saphir[nl]
+   am Ufer des[nl]
+   Sees kniet,[nl]
+   versickert[nl]
+   das Wasser.
    
 +092u: ;JA @7321[1:DRQ_MAC1]
    ;ENG: AN OLD GYPSY/HOLDS A/DIAMOND IN/FRONT OF DE-/BORAH CLIFF.
@@ -265,9 +254,8 @@
    aus Jams[nl]
    Einöde wacht[nl]
    über einen[nl]
-   mächtigen[nl]
-   Diamanten.[nl]
-   .
+   wertvollen[nl]
+   Edelstein.
 +034u: ;JA @6478[6:DRQ_YK_2]
    ;ENG: DESTROY THE/CURSE WITH/DRACULA'S/HEART.
    ;JAP: MAOUNOSHINZOUHA/NOROWARESHIMONONO/NOROIWO TOKU
@@ -278,9 +266,9 @@
    ;   saying which curse in particular. It is not "the" curse.
    ; Comments: Clue 7 in Rover Mansion. Hinted by string 105.
    [nl]
-   Draculas[nl]
-   Herz befreit[nl]
-   einen[nl]
+   Das Herz[nl]
+   des Teufels[nl]
+   bannt den[nl]
    Verfluchten.
 +033u: ;JA @644C[6:DRQ_YK_2]
    ;ENG: GARLIC IN/THE/GRAVEYARD/SUMMONS A/STRANGER.
@@ -290,15 +278,15 @@
    ; Info: The original Japanese text uses the word "sonata" here for "you".
    ;   It is an archaic and very polite word.
    ; Comments: Clue 8, in Rover Mansion. Hinted by string 105.
-   [nl]
    Knoblauch am[nl]
-   Totenacker[nl]
-   vertreibt[nl]
-   Dämonen[nl]
-   und lockt[nl]
-   Andere.[nl]
-   Jemand wartet[nl]
-   auf Euch.
+   Friedhof[nl]
+   erlegt[nl]
+   Dämonen.[nl]
+   [nl]
+   Jemand wird[nl]
+   auf Euch[nl]
+   zukommen.
+
 +035u: ;JA @63CC[7:DRQ_YK_3]
    ;ENG: PLACE THE/LAURELS IN A/SILK BAG TO/BRING THEM/TO LIFE.
    ;JAP: KINUNOFUKURONI/KURUMARESHI/GEKKEIJUHA/TAMASHIIWO/FUKIKOMARERU
@@ -311,10 +299,9 @@
    Seidenbeutel[nl]
    gelagerte[nl]
    Kräuter[nl]
-   bleiben[nl]
-   länger[nl]
-   erhalten[nl]
-   ....
+   leben auf![nl]
+   Das ist sehr[nl]
+   mächtig.
 +036u: ;JA @63F1[7:DRQ_YK_3]
    ;ENG: WAIT FOR A/SOUL WITH A/RED CRYSTAL/ON DEBORAH/CLIFF.
    ;JAP: DEBORANOGAKENO/MAEDE/AKASUISHOUWO/KAKAGE/KAZEWOMATE
@@ -324,7 +311,7 @@
    ;   in some languages the words for spirit and wind share the same root.
    ; Comments: Clue 10, in Brahm's Mansion. Not hinted.
    Kniet, und[nl]
-   haltet einen[nl]
+   haltet den[nl]
    Rubin gegen[nl]
    die Klippen[nl]
    von Deborah.[nl]
@@ -355,13 +342,13 @@
    ; Comments: Clue 12, in Bodley Mansion. Hinted by string 104.
    [nl]
    ;***********.
-   Ohne[nl]
+   Ohne den[nl]
    veredelten[nl]
    Lorbeer[nl]
-   werdet Ihr im[nl]
+   geht Ihr im[nl]
    verfluchten[nl]
    Moor zu[nl]
-   Grunde gehen.
+   Grunde.
 +017u: ;JA @67F0[3:DRQ_E_10]
    ;ENG: DRACULA'S/EVIL KNIFE/BLURS/CAMILLA'S/VISION.
    ;JAP: SHINIGAMIGA/KAKUSHIMOTSU NAIFUNI/KAMI-RANO HITOMIHA/KUMORU
@@ -375,7 +362,7 @@
    blendete[nl]
    Carmilla mit[nl]
    einem[nl]
-   verborgenen[nl]
+   versteckten[nl]
    Dolch.
 ;;;; Road signs ;;;;
 
@@ -388,11 +375,11 @@
    ;***********.
    [4D][4D][4D][4D]JOVA[4D][4D][4D][4D]
    [gosubFC:02]
-   Jova[nl]
-   [60][60][60]Woods
+   Wälder von[nl]
+   [60][60][60]Jova
    [gosubFC:03]
    Belasco[nl]
-   [60][60][60]Marsh
+   [60][60][60]Sumpfland
 +059u: ;JA @7277[2:DRQ_MAC2]
    ;JAP: MIGI/DABINO CHIKADOU/HIDARI/BEROSUNO MORI
    ;ENG: TURN RIGHT/FOR DABI'S/PATH LEFT/FOR THE/VEROS WOODS.
@@ -401,11 +388,11 @@
    ; Right: Dabi's Path, Forest of Aljiba
    [4D][4D][4D]VEROS[4D][4D][4D][4D]
    [gosubFC:02]
-   Dabi's[nl]
-   [60][60][60]Path
+   Dabis[nl]
+   [60][60][60]Höhlenweg
    [gosubFC:03]
-   Veros[nl]
-   [60][60][60]Woods
+   Wälder von[nl]
+   [60][60][60]Veros
 +081u: ;JA @7262[1:DRQ_MAC1]
    ;JAP: MIGI/KAMI-RABOCHI/HIDARI/ORUJIBANO MORI
    ;TURN RIGHT/FOR CAMILLA/CEMETERY,/LEFT FOR THE/ALJIBA WOODS.
@@ -415,10 +402,10 @@
    ; Left: Forest of Aljiba, Dabi's Path, Forest of Denis, Mansion of Berkeley
    ; Right: Camilla cemetery, Joma Marsh, Mansion of Laruba, Debious Woods, Uta Lower Road...
    [gosubFC:02]
-   Carmilla[nl]
-   [60][60][60]Cemetery
+   Carmillas[nl]
+   [60][60][60]Friedhof
    [gosubFC:03]
-   Forest of[nl]
+   Wald von[nl]
    [60][60][60]Aljiba
 +060u: ;JA @7338[2:DRQ_MAC2]
    ;JAP: MIGI/ZADAMUNO MORI/HIDARI/JAMUNO ARECHI
@@ -429,12 +416,12 @@
    [4D][4D][4D]ONDOL[4D][4D][4D][4D]
    ;***********.
    [gosubFC:02]
-   Sadam[nl]
-   [60][60][60]Woods
+   Sadams[nl]
+   [60][60][60]Wald
    [gosubFC:03]
-   Northern[nl]
-   [60][60][60]Jam[nl]
-   [60][60][60]Wasteland
+   Nördliche[nl]
+   [60][60][60]Jams[nl]
+   [60][60][60]Einöde
 +082u: ;JA @734D[0:DRQ_MAC0]
    ;JAP: MIGI/DEDDORIBA-/HIDARI/ZADAMUNO MORI
    ;ENG: TURN RIGHT/FOR THE DEAD/RIVER, LEFT/FOR THE /SADAM WOODS.
@@ -444,11 +431,11 @@
    [4D][4D][4D]ALDRA[4D][4D][4D][4D]
    ;***********.
    [gosubFC:02]
-   Dead[nl]
-   [60][60][60]River
+   Toter[nl]
+   [60][60][60]Fluss
    [gosubFC:03]
-   Sadam[nl]
-   [60][60][60]Woods
+   Sadams[nl]
+   [60][60][60]Wald
 +083u: ;JA @7385[1:DRQ_MAC1]
    ;JAP: MIGI/KITANO HASHI/HIDARI/JAAKUNO MIZO
    ;ENG: TURN LEFT/FOR THE/WICKED DITCH/, RIGHT TO/GO NORTH.
@@ -458,11 +445,11 @@
    [4D][4D][4D]DOINA[4D][4D][4D][4D]
    ;***********.
    [gosubFC:02]
-   Northern[nl]
-   [60][60][60]Bridge
+   Brücke nach[nl]
+   [60][60][60]Norden
    [gosubFC:03]
-   Wicked[nl]
-   [60][60][60]Ditch
+   Böser[nl]
+   [60][60][60]Graben
 +084u: ;JA @740E[1:DRQ_MAC1]
    ;JAP: MIGI/VURADOBOCHI/HIDARI/DO-RANO MORI
    ;ENG: TURN RIGHT/FOR VRAD/GRAVEYARD,/LEFT FOR THE/DORA WOODS.
@@ -471,11 +458,11 @@
    ; Right: Vlad Graveyard, West Bridge, CASTLEVANIA
    [4D][4D][4D][4D]YOMI[4D][4D][4D][4D]
    [gosubFC:02]
-   Vlad[nl]
-   [60][60][60]Graveyard
+   Vlads[nl]
+   [60][60][60]Friedhof
    [gosubFC:03]
-   Dora[nl]
-   [60][60][60]Woods
+   Doras[nl]
+   [60][60][60]Wald
 
 
 ;;;; Ondol/Oldon NPCs ;;;;
@@ -504,14 +491,13 @@
    ; Info: Guy in 3rd stair in town of Ondol
    ;***********.
    [nl]
-   Die Leute[nl]
-   erzählen, [nl]
+   Es geht das[nl]
+   Gerücht,[nl]
    am Friedhof[nl]
-   von Strigoi[nl]
-   läge ein[nl]
-   imposanter[nl]
-   Diamant[nl]
-   vergraben.
+   der Strigoi[nl]
+   wären auch[nl]
+   Edelsteine[nl]
+   verscharrt.
 +070u: ;JA @7396[2:DRQ_MAC2]
    ;ENG: BELIEVE IN/MAGIC AND/YOU'LL BE/SAVED.
    ;JAP: KONNICHIHA ANATAHA/KAMIWO SHINJIMASUKA?/SHINJIRUMONOHA/MINA SUKUWARERU
@@ -521,23 +507,22 @@
    ; Info: Guy in 2nd stair in town of Ondol
    ;***********.
    [nl]
-   Seid gegrüßt.[nl][nl]
-   Seid Ihr[nl]
-   fromm und[nl]
-   gottgläubig?[nl]
-   Das wird[nl]
-   letztendlich[nl]
-   alles[nl]
-   entscheiden.
+   Grüß Gott![nl][nl]
+   Glaubt Ihr[nl]
+   an Gott?[nl][nl]
+   Euer Glaube[nl]
+   spricht[nl]
+   das Urteil.
+
 +071u: ;JA @73C0[2:DRQ_MAC2]
    ;ENG: TAKE MY/DAUGHTER,/PLEASE!!
    ;JAP: MORATTEYATTEKUDASAI/UCHINO MUSUMEWO/IMANARA TADADAYO
    ; Literal translation: Please take my daughter. Right now I won't ask for anything else.
    ; Info: Monk in 2nd stair in town of Ondol
    ;***********.
-   Bitte, bringt[nl]
+   Bringt bitte[nl]
    meine Tochter[nl]
-   weg von hier.[nl]
+   weg von hier![nl]
    Das ist mein[nl]
    einziger[nl]
    Wunsch.
@@ -555,14 +540,11 @@
    ;THAT WHO[nl][nl]
    ;SEES[nl][nl]
    ;DEATH.
-   Mir dämmerte,
-   das Leben sei[nl]
-   nur ein[nl]
-   Warten auf[nl]
-   etwas Anderes[nl]
-   als das, was[nl]
-   wir nun tun.[nl][nl]
-   Nun lebe ich.[nl]
+   [nl][nl]
+   Seht Ihr den[nl]
+   Gevatter Tod[nl]
+   ist es um[nl]
+   Euch vorbei!
 
 
 +074u: ;JA @73FB[2:DRQ_MAC2]
@@ -573,12 +555,12 @@
    ; Info: Monk in 1st stair(ground) in town of Ondol
    ;***********.
    Ich flehe[nl]
-   Euch an,[nl]
-   bringt mich[nl]
-   fort von hier![nl][nl]
+   Euch an![nl][nl]
+   Bringt mich[nl]
+   weg von hier![nl][nl]
    Ich will[nl]
    hier nicht[nl]
-   sterben!!
+   sterben!
 +075u: ;JA @741D[2:DRQ_MAC2]
    ;ENG: WHEN I WAS/YOUR AGE,/WOMEN LOVED/ME.
    ;JAP: JIMANJANAIGA/KOREDEMO WASHIHA/MUKASHI ONNANI/YOKU MOTETAMONOJA
@@ -586,13 +568,15 @@
    ;   how I look now, a long time ago I was very popular with women.
    ; Info: Monk in 3rd stair in town of Ondol
    ;***********.
-   Früher, da[nl]
+   [nl]
+   Damals[nl]
    konnte ich[nl]
    Frauenherzen[nl]
    im Sturm[nl]
    erobern.[nl]
-   Nun seht mich[nl]
-   heute an.
+   Damals war[nl]
+   ich noch[nl]
+   ansehnlich.
 
 ;;;; Al..dra? NPCs ;;;;
 
@@ -603,12 +587,12 @@
    ; Info: Lady in 3rd stair in town of Aldra
    ;***********.
    [nl]
-   Bedauere ...[nl]
-   Heute habe[nl]
-   ich keine[nl]
-   Zeit mehr.[nl]
-   Vielleicht[nl] 
-   morgen.
+   Verzeihung.[nl]
+   Es sind sehr[nl]
+   schlechte[nl]
+   Zeiten.[nl]
+   Ich hoffe es[nl]
+   endet bald.[nl]
 +099u: ;JA @73DF[0:DRQ_MAC0]
    ;ENG: I'LL SEE/YOU AT/MIDNIGHT/ON THE/RIVER BANK.
    ;JAP: KONYA 12JI/KAWANOHOTORIDE
@@ -619,7 +603,7 @@
    Zu[nl]
    Mitternacht.[nl][nl]
    Am Ufer[nl]
-   des Flusses.[nl]
+   des Fluss.[nl]
    Seid Dort.
 +093u: ;JA @7370[0:DRQ_MAC0]
    ;ENG: HIT DEBORAH/CLIFF WITH/YOUR HEAD TO/MAKE A HOLE.
@@ -632,14 +616,13 @@
    ; Info: Lady in 3rd stair in town of Aldra
    ;***********.
    [nl]
-   Schlagt mit[nl]
-   Eurem Schädel[nl]
-   gegen die[nl]
-   Klippen von[nl]
-   Deborah.[nl]
-   Was wird wohl[nl]
-   zuerst[nl]
-   nachgeben?
+   Für ein[nl]
+   großes Loch[nl]
+   schlagt doch[nl]
+   Euren[nl]
+   Schädel gegen[nl]
+   die Klippen[nl]
+   von Deborah!
 +104u: ;JA @7418[0:DRQ_MAC0]
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN BODLEY/MANSION.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/BADORI-NOYAKATANI/NEMURUTO/TSUTAERARETEIRU
@@ -653,7 +636,7 @@
    Vermächtnis[nl]
    findet Ihr[nl]
    in Burg[nl]
-   Bathory,
+   Bathory.
 +097u: ;JA @73B4[0:DRQ_MAC0]
    ;ENG: I'VE BEEN/WAITING FOR/A GOOD/LOOKING GUY/LIKE YOU.
    ;JAP: ANATATTE HANSAMUNE/WATASHI/ANATANOYOUNAHITOWO/MATTETANO
@@ -665,9 +648,9 @@
    [nl]
    Ihr seid eine[nl]
    Augenweide![nl][nl]
-   Ich sehne[nl]
+   Ich sehnte[nl]
    mich nach[nl]
-   jemanden wie[nl]
+   einem wie[nl]
    Euch.
    
    
@@ -683,14 +666,12 @@
    ; In dialog_ext mode, replaced with 122 once player has a silk bag.
    ;***********.
    [nl]
-   Mit einem[nl]
-   Seidensack[nl]
-   vom Strigoier[nl]
-   Friedhofs-[nl]
-   Wächter[nl]
-   wird sich[nl]
-   Euer Leben[nl]
-   verlängern
+   Der[nl]
+   Seidenbeutel[nl]
+   vom Wächter[nl]
+   der Strigoi[nl]
+   verlängert[nl]
+   Euer Leben!
 
 +098u: ;JA @73D5[0:DRQ_MAC0]
    ;JAP: ANATAGA HOSHII
@@ -701,7 +682,7 @@
    ; Info: Lady in 1st stair in town of Aldra
    [nl]
    Bleibt heute[nl]
-   Nacht hier,  [nl]
+   Nacht hier.[nl][nl]
    Ich meine es[nl]
    gut mit Euch!
 +089u: ;JA @72DF[1:DRQ_MAC1]
@@ -714,12 +695,11 @@
    ; Info: Elder sitting deep in house in town of Aldra
    ;***********.
    [nl]
-   In Draculas[nl]
-   Auge spiegeln[nl]
-   sich auch[nl]
-   vom Fluch[nl]
-   verdeckte[nl]
-   Gegenstände.
+   Draculas[nl]
+   Auge[nl]
+   übersieht[nl]
+   die Zierden[nl]
+   des Fluches.[nl]
 
 ;;;; Jova NPCs ;;;;
 
@@ -731,12 +711,13 @@
    ; Info: Monk in 2nd stair in town of Jova (first person you meet)
    ; In dialog_ext mode, replaced with 121 once player has a crystal.
    [nl]
-   Geht und[nl]
-   erwerbt einen[nl]
-   Bergkristall![nl]
-   [nl][nl]
-   So beginnt[nl]
-   es.
+   Geht, und[nl]
+   kauft einen[nl]
+   Kristall![nl]
+   [nl]
+   So nimmt es[nl]
+   seinen[nl]
+   Anfang.
 +076u: ;JA @72FF[0:DRQ_MAC0]
    ;ENG: A CROOKED/TRADER IS/OFFERING BUM/DEALS IN/THIS TOWN.
    ;JAP: MACHINIHA KAKURETE/SHOUBAIWO SURU/BAININGA IRU
@@ -766,11 +747,12 @@
    ;***********.
    [nl]
    Dreizehn[nl]
-   Andeutungen[nl]
-   habt ihr zu[nl]
-   deuten um das[nl]
-   Geheimnis zu[nl] 
-   lüften
+   Spuren[nl]
+   könnt Ihr[nl]
+   folgen, -[nl]
+   Jede Spur[nl]
+   lüftet ein[nl]
+   Geheimnis.
 +061u: ;JA @726D[0:DRQ_MAC0]
    ;JAP: ARUDORANOMACHINI/SONATANONAKAMAGA IRU/KANARAZU AINASARE
    ;ENG: YOU HAVE A/FRIEND IN/THE TOWN OF/ALDRA. GO AND/SEE HIM.
@@ -784,7 +766,7 @@
    Ihr müsst[nl]
    Ihn[nl]
    aufsuchen,[nl]
-   egal was [nl]
+   egal was[nl]
    passiert.
 +068u: ;JA @72D5[0:DRQ_MAC0]
    ;JAP: DEDDORIBA-NO/SENDOUHA/NINNIKUGA/KOUBUTSUTO/KIITAKOTOGAARU
@@ -793,13 +775,12 @@
    ; Comments: Nonsense, but he would love to see something else.
    ; Info: Man in 1st stair in town of Jova
    Kennt Ihr den[nl]
-   Fährmann?
-   Man hat mir[nl]
-   erzählt, dass[nl]
-   er immer[nl]
-   Appetit auf[nl]
+   Fährmann am[nl]
+   Toten Fluss?[nl][nl]
+   Man erzählt,[nl]
+   dass er immer[nl]
    Knoblauch[nl]
-   hat.
+   essen kann.
 +077u: ;JA @731F[0:DRQ_MAC0]
    ;JAP: SEINARUHONOOGA/DENISUNOMORINO/6BANMENO KINOUENI/ARU
    ;ENG: A FLAME IS/ON TOP OF/THE 6TH TREE/IN DENIS/WOODS.
@@ -809,14 +790,13 @@
    ; Info: Man in 1st stair in town of Jova
    ; Can be replaced with 123, equally nonsense, if dialog_ext is enabled.
    ;***********.
-   In der Krone[nl]
+   Man sagt,[nl]
+   die heilige[nl]
+   Flamme lodert[nl]
+   in der Krone[nl]
    des sechsten[nl]
-   Baumes im[nl]
-   Wald von[nl]
-   Denis lodert[nl]
-   das[nl]
-   geheiligte[nl]
-   Feuer.
+   Baumes von[nl]
+   Denis Wald.
 +078u: ;JA @7342[0:DRQ_MAC0]
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN THE TOWN/OF VEROS.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/BEROSUNOMACHINI/NEMURUTO/TSUTAERARETEIRU
@@ -825,14 +805,13 @@
    ;   Refers to clue 1. Correct.
    ;***********.
    [nl]
-   Man munkelt,[nl]
-   Im Dorf Veros[nl]
-   läge ein[nl]
-   Buch[nl]
+   In Stadt[nl]
+   Veros liegt[nl]
+   ein Buch[nl]
    versteckt,[nl]
    das Draculas[nl]
-   Rätsel[nl]
-   entschlüsseln[nl]
+   Vermächtnis[nl]
+   entziffern[nl]
    kann.
 +065u: ;JA @72B4[0:DRQ_MAC0]
    ;JAP: SEISUINI/AKUMAHA KURUSHIMI/JAAKUNOKABEHA/KUDAKERU
@@ -846,11 +825,9 @@
    bereitet[nl]
    Dämonen[nl]
    Höllenqualen[nl]
-   und lässt[nl]
-   arglistige[nl]
-   Mauern[nl]
-   weichen.
-
+   und bricht[nl]
+   trügerische[nl]
+   Mauern.
 ;;;; Veros NPCs ;;;;
 
 +064u: ;JA @728F[2:DRQ_MAC2]
@@ -880,10 +857,10 @@
    ; Info: Guy on ground in town of Veros
    [nl]
    Lorbeer[nl]
-   kann das[nl]
-   Blatt wenden,[nl]
-   im Topf wie[nl]
-   im Kampf.
+   kann im Topf[nl]
+   und im Kampf[nl]
+   das Blatt[nl]
+   wenden.
 +072u: ;JA @72EB[2:DRQ_MAC2]: TABINOHITO/KAOIROGA YOKUNAINE/KYOUKAIDE SUKOSHI/YASUMINASAI
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN BERKELEY/MANSION.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/BA-KUREINOYAKATANI/NEMURUTO/TSUTAERARETEIRU
@@ -897,8 +874,7 @@
    Draculas[nl]
    Vermächtnis[nl]
    findet Ihr[nl]
-   in der [nl]
-   Burg[nl]
+   in der Burg[nl]
    Berkeley.
 +080u: ;JA @731F[2:DRQ_MAC2]: DORAKYURANO NAZOWO/TOKU BUNKENGA/BA-KUREINOYAKATANI/NEMURUTO/TSUTAERARETEIRU
    ;JAP: TABINOHITO/KAOIROGA YOKUNAINE/KYOUKAIDE SUKOSHI/YASUMINASAI
@@ -910,12 +886,12 @@
    ;   Note: Dialogs 072 (man) and 080 (monk) have been exchanged.
    ;***********.
    Gütiger[nl]
-   Himmel, seid[nl]
+   Himmel! Seid[nl]
    Ihr blass![nl]
    Bitte ...[nl][nl]
    Ruht Euch in[nl]
    der Kirche[nl]
-   aus. 
+   aus! 
 +079u: ;JA @7312[2:DRQ_MAC2]
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN THE TOWN/OF ALBA.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/ORUJIBANOMACHINI/NEMURUTO/TSUTAERARETEIRU
@@ -924,12 +900,12 @@
    ;   Refers to clue 6. Correct. "ALBA" is mistranslation.
    ;***********.
    [nl]
-   Eine Spur[nl]
-   zur Lösung[nl]
+   Eine Spur zu[nl]
    Draculas[nl]
-   Rätsel[nl]
-   ist in der[nl]
-   Stadt Aljiba.
+   Vermächtnis[nl]
+   wurde in der[nl]
+   Stadt Aljiba[nl]
+   versteckt.
 +057u: ;JA @7253[2:DRQ_MAC2]
    ;ENG: YOU'VE GOT A/FRIEND WAIT-/ING FOR YOU/IN THE TOWN/OF ALJIBA.
    ;JAP: ORUJIBANOMACHINI/SONATANONAKAMAGA IRU/KANARAZU AINASARE
@@ -938,13 +914,13 @@
    ; Info: Monk on ground in town of Veros
    [nl]
    Ein Freund[nl]
-   wartet in der[nl]
-   Stadt Aljiba[nl]
+   wartet in[nl]
+   Aljiba[nl]
    auf Euch.[nl]
    Was auch[nl]
-   passiert, Ihr[nl]
-   müsst ihn[nl]
-   aufsuchen.
+   passiert, [nl]
+   sucht ihn[nl]
+   auf!
 
 ;;;; Alba/Aljiba NPCs ;;;;
 
@@ -961,7 +937,7 @@
    Die[nl]
    Spezialität[nl]
    unserer Stadt[nl]
-   ist unser[nl]
+   ist frischer[nl]
    Knoblauch.[nl]
    Holt Euch[nl]
    welchen!
@@ -979,9 +955,9 @@
    Draculas[nl]
    Vermächtnis?[nl]
    [nl]
-   Sucht in [nl]
-   den Wäldern[nl]
-   von Aljiba.
+   Sucht im[nl]
+   Wald von[nl]
+   Aljiba.
 +105u: ;JA @7378[1:DRQ_MAC1]
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN ROVER/MANSION.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/RO-BA-NOYAKATANI/NEMURUTO/TSUTAERARETEIRU
@@ -993,10 +969,10 @@
    Spuren zu[nl]
    Draculas[nl]
    Vermächtnis?[nl]
-   Sucht in[nl]
-   Burg  Rover.[nl]
+   Sucht in der[nl]
+   Roversburg.[nl]
    [nl]
-   Ich hörte, [nl]
+   Ich hörte,[nl]
    dort findet[nl]
    man welche.
 +091u: ;JA @7308[1:DRQ_MAC1]
@@ -1013,10 +989,10 @@
    Ein[nl]
    Lorbeerblatt[nl]
    kann Euch[nl]
-   vor[nl]
+   vor den[nl]
    bösartigen[nl]
-   Sumpfämpfen[nl]
-   behüten.
+   Sumpfdämpfen[nl]
+   beschützen.
 +088u: ;JA @72B6[1:DRQ_MAC1]
    ;JAP: NOROWARESHI/DEDDORIBA-/IMANAO NOROIWO/TOKUMONO MACHIWABIRU/KAWA
    ;ENG: THE DEAD/RIVER WAITS/TO BE FREED/FROM THE/CURSE.
@@ -1067,7 +1043,7 @@
    [nl]
    Ihr schon[nl]
    wieder![nl][nl]
-   Ich habe[nl]
+   Ich habe so[nl]
    innig gehofft[nl]
    Euch nie[nl]
    wieder sehen[nl]
@@ -1134,9 +1110,10 @@
    ; Info: Elder sitting in house in town of Yomi
    ; Can be replaced with 124, 125 or 126 if dialog_ext is enabled.
    [nl]
-   Es ist[nl]
+   Es ist sehr[nl]
    behaglich[nl]
-   hier. Bleibt[nl]
+   hier.[nl]
+   Bleibt doch[nl]
    auch hier. 
 
 ;;;; Ferryman ;;;;
@@ -1179,9 +1156,9 @@
    Ihr habt es[nl]
    vollendet?[nl]
    Dann auf-auf[nl]
-   zurück, zum[nl][nl]
-   Moor von[nl]
-   Belasco.[nl]
+   zurück ins[nl]
+   Belasco[nl]
+   Sumpfland.[nl]
    Har-Har-Har!
 ;;;; "Friend" ;;;;
 
@@ -1195,7 +1172,7 @@
    Ich überlasse[nl]
    ihn Euch[nl]
    gerne im [nl]
-   Tausche für[nl]
+   Tausch für[nl]
    Euren weißen[nl]
    Bergkristall.
 +086u: ;JA @7364[0:DRQ_MAC0]
@@ -1210,7 +1187,7 @@
    gerne im[nl]
    Tausch für[nl]
    Euren blauen[nl]
-   Saphire.
+   Saphir.
 +107u: ;JA @682C[0:DRQ_MAC0]
    ;JAP: WATASHITO ANATANO/SUISHOUTO DEHA/KOUKANDEKINU
    ;ENG: I REFUSE TO/EXCHANGE MY/CRYSTAL FOR/YOURS.
@@ -1219,7 +1196,7 @@
    Ich biete[nl]
    einen[nl]
    Edelstein zum[nl]
-   Tausche an.[nl]
+   Tausch an.[nl]
    Aber Ihr habt[nl]
    kein Juwel[nl]
    von Interesse[nl]
@@ -1271,6 +1248,7 @@
    Ich[nl]
    überlasse[nl]
    Euch diesen[nl]
+   besonderen[nl]
    Seidenbeutel.
 
 
@@ -1286,8 +1264,8 @@
    silbernen[nl]
    Dolch.[nl][nl]
    Er möge[nl]
-   Euren Hals[nl]
-   retten.
+   Euch den[nl]
+   Hals retten.
 
 +018u: ;JA @6D6E[9:DRQ_ETC2]
    ;JAP: SONATANI/CHOUKOUSEKIWO/SAZUKEYOU
@@ -1402,7 +1380,7 @@
    ; Literal translation: Let your body rest here and then go. In the name of Father, Son and Holy Spirit, amen.
    [nl]
    Ruhe Dich[nl]
-   hier aus[nl]
+   hier aus,[nl]
    mein Sohn.[nl][nl]
    Gottes Segen[nl]
    sei mit Dir.[nl]
@@ -1471,7 +1449,6 @@
    ;JAP: FUNDOUNO MUCHIWO/KATTEYUKANUKA?
    ;ENG: MORNING STAR/- BUY ONE?
    ; In Ondol
-   [nl]
    Der Kopf des[nl]
    Morgensterns[nl]
    ist wuchtig![nl]
@@ -1515,7 +1492,7 @@
    Entschuldigt![nl]
    Ich dachte,[nl]
    Ihr seid[nl]
-   ein Vampier!
+   ein Vampir!
 +121u:
    ; Info: Given as a replacement for 056, if player has a crystal and dialog_ext was enabled
    ; Comments: ADDED DIALOGUE.
@@ -1535,7 +1512,7 @@
    ; Meaning: Helpful instruction.
    [nl]
    Ihr könnt[nl]
-   die Länder[nl]
+   die Sümpfe[nl]
    nicht ohne[nl]
    Knoblauch[nl]
    durchqueren.[nl]
@@ -1564,8 +1541,8 @@
    Wünscht Ihr[nl]
    Euch so sehr[nl]
    Euren Tod?[nl]
-   Es ist hier[nl]
-   nicht sicher![nl]
+   Es ist nicht[nl]
+   sicher hier![nl]
    Lauft fort[nl]
    solange Ihr[nl]
    noch könnt!
@@ -1594,7 +1571,7 @@
    Ruinen des[nl]
    Schlosses[nl]
    gehen?[nl]
-   Gebt Acht,[nl]
+   Seid wachsam,[nl]
    der Tod[nl]
    lauert dort.
    
@@ -1619,7 +1596,7 @@
    ; Meaning: The Ferryman gives this dialogue if there are garlic on screen.
    [nl]
    Knoblauch?[nl]
-   Harharhar.[nl]
+   Harharhar![nl]
    [nl]
    Wer hat Euch[nl]
    das erzählt?[nl]
@@ -1643,7 +1620,7 @@
    Ich hätte[nl]
    nicht an Euch[nl]
    zweifeln[nl]
-   sollen.
+   dürfen.
    
 +152u:
    ; Info: This is Bisqwit secret character in Denis Marsh. Number must be &3 = 0.
@@ -1669,7 +1646,7 @@
    Euch verirrt?[nl]
    Redet auf[nl]
    jeden Fall[nl]
-   mit meinem[nl]
+   mit meiner[nl]
    Freundin in[nl]
    Yomi. Sie[nl]
    will helfen.
@@ -1683,7 +1660,7 @@
    es wirklich.[nl]
    Joel. Nun[nl]
    geht zurück.[nl]
-   Ihr macht [nl]
+   Ihr macht[nl]
    gute Arbeit.[nl]
    Nehmt diese[nl]
    Kräuter.[nl]
@@ -1695,7 +1672,7 @@
    ; Meaning: Talk to the NPC after you have fire whip, and you get this line.
    ;   It is a better line than to say you have too weak whip.
    [nl]
-   Euer [nl]
+   Euer[nl]
    Schicksal[nl]
    wird auch[nl]
    unser[nl]
@@ -1745,7 +1722,7 @@
    jeden Wirbel,[nl]
    ...und nun,[nl]
    jeden Dämon.[nl]
-   Ach...
+   Arr...
 
 ; 13 strings: Short names for each clue
 ; No substring compression for these.
@@ -1758,7 +1735,7 @@
 +160s:
     Eichenpflock
 +161s:
-    Brahms Pfad
+    Brahms Steg
 +162s:
     Das Feuer
 +163s:

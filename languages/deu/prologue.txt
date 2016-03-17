@@ -66,7 +66,7 @@
 [wait][color:28]
 	         Simon's Quest[nl]
 	        Castlevania II[nl]
-	       Bann des Fluches[nl]
+	     Der Bann des Fluches[nl]
 	           Prologue
 [fadeout]
 [LOAD_fadein_PLAY_SCENE:castle_collapse][timer_wait:01E0][SPECIAL_SCENE:01]
@@ -101,10 +101,10 @@
 [stop_scene][PLAY_SCENE:simon_kneels]
 [timer_wait:0900][clear][wait]
 	Als er über sein eigenes Dasein nachsann,[nl]
-	plötzlich, hinter ihm[nl]
+	plötzlich, hinter ihm...[nl]
 [stop_scene][PLAY_SCENE:woman_appears_and_simon_stands_and_looks]
 	Da stand eine Frauengestalt,[nl]
-	Umhüllt vom Morgennebel.
+	Umhüllt von Morgennebel.
 [wait]
 [SPECIAL_SCENE:03]
 [timer_wait:0A8B]
@@ -114,12 +114,11 @@
 [timer_wait:0B62][clear][color:35]
 	`Ein finsterer Fluch hat Euren Körper[nl]
 	in Besitz genommen. Euer Tod ist nah. [nl]
-	.
 [COMMENT: Note: Cannot use capital "Y" here.]
 [timer_wait:0C56][clear]
 	Aber, seid Ihr gewillt und[nl]
 	besitzt die Kühnheit den[nl]
-	Mächte der Finsternis erneut [nl]
+	Mächten der Finsternis erneut[nl]
 	die Stirn zu bieten ...
 [timer_wait:0DB7][clear]
 	... Gott würde euch gewiss die Kraft[nl]
@@ -131,16 +130,16 @@
 	entwich ein unmenschlicher Fluch[nl]
 	aus dem Überresten des Grafen.
 [timer_wait:1011][clear]
-	Der Fluch brodelte und wird stärker[nl]
+	Der Fluch brodelt und wird stärker[nl]
 	und Draculas Körper[nl]
-	hat bereits begonnen [nl]
-	aufzuerstehen .
+	hat bereits begonnen[nl]
+	aufzuerstehen.
 [SPECIAL_SCENE:05]
 [timer_wait:1178][clear]
-	Thus far, five parts of[nl]
-	his body have appeared[nl]
-	throughout the land, each[nl]
-	strengthening the curse.
+	Es sind schon fünf derer[nl]
+	Überreste erschienen,[nl]
+	verteilt auf das ganze Land[nl]
+	Jedes von ihnen stärkt den Fluch.
 [timer_wait:12A5][fadeout]
 [stop_scene][LOAD_SCENE:berkeley_mansion_pan][wait][SPECIAL_SCENE:02][fadein]
 [clear]
@@ -148,8 +147,7 @@
 	diesen Fluch zu brechen.
 [timer_wait:13E0][clear]
 	Finde die fünf Körperteile solange[nl]
-	der Fluch noch schwach ist.[nl]
-	these five body parts,
+	der Fluch noch schwach ist.
 [timer_wait:14E0][fadeout][SPECIAL_SCENE:00]
 [LOAD_fadein_PLAY_SCENE:altar_room]
 [clear]
@@ -158,7 +156,7 @@
 [timer_wait:1640][clear]
 	Läuter sie durch das Feuer[nl]
 	auf dem verborgenem Altar,[nl]
-	und hebe so den Fluch auf.
+	und banne so den Fluch!
 [timer_wait:1744][fadeout]
 [LOAD_SCENE:family_grave]
 [PLAY_SCENE:family_grave_continued]
@@ -190,6 +188,6 @@
 [timer_wait:1D6A][clear]
 	Es gibt keinen anderen Weg![nl]
 	Kämpfe, Simon - Kämpfe![nl]
-	Kehre nach Transsilvanien zurück!
+	Kehre nach Transsylvanien zurück!
 [fadeout]
 [STOP_MUSIC][wait]
