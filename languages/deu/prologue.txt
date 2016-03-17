@@ -64,130 +64,133 @@
 [reset_palette][wait][timer_begin][START_MUSIC][fadein]
 [LOAD_SCENE:prologue_frame2]
 [wait][color:28]
-	         Simon's Quest[nl]
+	        Simon's Quest[nl]
 	        Castlevania II[nl]
 	     Der Bann des Fluches[nl]
-	           Prologue
+	            Prolog
 [fadeout]
 [LOAD_fadein_PLAY_SCENE:castle_collapse][timer_wait:01E0][SPECIAL_SCENE:01]
 [clear][color:20]
-	Sieben Jahre sind seit dem[nl]
-	Ende von Castlevania vergangenen.[nl]
-	Abermals beginnt das Schauspiel[nl]
+	Sieben Jahre sind es nun seit[nl]
+	Ende von Castlevania.[nl]
+	Erneut beginnt das Schauspiel[nl]
 	- in Transsylvanien...
 [timer_wait:034F][fadeout][SPECIAL_SCENE:00]
 [LOAD_fadein_PLAY_SCENE:battle_count]
 [clear]
-	Nachdem Dracula vom[nl]
-	Helden Simon Belmont besiegt wurde[nl]
-	fiel des Grafens Körper[nl]
-	in einen tiefen, dunklen Schlaf.
+	Nachdem Dracula vom Helden[nl]
+	Simon Belmont besiegt wurde,[nl]
+	fiel der Körper des Grafen in[nl]
+	einen tiefen, dunklen Schlaf.
 [wait][PLAY_SCENE:battle_demon]
 [clear]
-	Aber, der Preis für diesen Sieg[nl]
-	war Simons eigene Gesundheit.[nl]
-	
+	Doch der Preis für diesen[nl]
+	Sieg war Simon Belmonts[nl]
+	eigene Gesundheit.
 [timer_wait:065C][clear]
-	Sein Körper wurde langsam immer[nl]
+	Sein Körper wurde stetig[nl]
 	schwächer, - er fühlte,[nl]
-	dass sein eigener Tod nahte.
+	dass sein Tod nahte.
 	
 [LOAD_fadein_PLAY_SCENE:family_grave]
 [clear]
 	So begab es sich, dass[nl]
-	Simon eines Morgens das Grab[nl]
-	seiner Ahnen am Hügel der Engel[nl]
-	aufsuchte.
+	Simon eines Morgens[nl]
+	das Grab seiner Ahnen am[nl]
+	Hügel der Engel aufsuchte.
 [stop_scene][PLAY_SCENE:simon_kneels]
 [timer_wait:0900][clear][wait]
-	Als er über sein eigenes Dasein nachsann,[nl]
-	plötzlich, hinter ihm...[nl]
+	Während er über sein Dasein[nl]
+	nachsann ...[nl]
+	... plötzlich, hinter ihm...[nl]
 [stop_scene][PLAY_SCENE:woman_appears_and_simon_stands_and_looks]
 	Da stand eine Frauengestalt,[nl]
-	Umhüllt von Morgennebel.
+	umhüllt vom Morgennebel.
 [wait]
 [SPECIAL_SCENE:03]
 [timer_wait:0A8B]
 [clear]
-	Die Gestalt näherte sich Simon,[nl]
-	und sprach:
+	Die Gestalt näherte sich[nl]
+	Simon und sprach:
 [timer_wait:0B62][clear][color:35]
-	`Ein finsterer Fluch hat Euren Körper[nl]
-	in Besitz genommen. Euer Tod ist nah. [nl]
+	`Ein finsterer Fluch hat von[nl]
+	Eurem Körper Besitz ergriffen.[nl]
+	Euer Tod ist nah, Simon.
 [COMMENT: Note: Cannot use capital "Y" here.]
 [timer_wait:0C56][clear]
-	Aber, seid Ihr gewillt und[nl]
-	besitzt die Kühnheit den[nl]
-	Mächten der Finsternis erneut[nl]
+	Doch, besitzt Ihr noch den[nl]
+	Willen und die Kühnheit den[nl]
+	Mächten der Finsternis wieder[nl]
 	die Stirn zu bieten ...
 [timer_wait:0DB7][clear]
-	... Gott würde euch gewiss die Kraft[nl]
-	dazu verleihen, die ihr benötigt.
+	... Gott würde euch gewiss[nl]
+	die nötige Kraft verleihen.
 [stop_scene][SPECIAL_SCENE:04]
 [timer_wait:0E97][clear]
-	In den letzten sieben Jahren,[nl]
-	seit dem Ende von Dracula,[nl]
-	entwich ein unmenschlicher Fluch[nl]
-	aus dem Überresten des Grafen.
+	Seit sieben Jahren, seit dem[nl]
+	Ende von Dracula, entweicht[nl]
+	ein unmenschlicher Fluch aus[nl]
+	den Überresten des Grafen.
 [timer_wait:1011][clear]
-	Der Fluch brodelt und wird stärker[nl]
-	und Draculas Körper[nl]
+	Der Fluch gärt und erstarkt,[nl]
+	und der Körper des Grafen[nl]
 	hat bereits begonnen[nl]
-	aufzuerstehen.
+	wieder aufzuerstehen.
 [SPECIAL_SCENE:05]
 [timer_wait:1178][clear]
 	Es sind schon fünf derer[nl]
 	Überreste erschienen,[nl]
-	verteilt auf das ganze Land[nl]
-	Jedes von ihnen stärkt den Fluch.
+	verteilt auf das ganze Land.[nl]
+	Jedes davon stärkt den Fluch.
 [timer_wait:12A5][fadeout]
 [stop_scene][LOAD_SCENE:berkeley_mansion_pan][wait][SPECIAL_SCENE:02][fadein]
 [clear]
-	Es gibt nur einen Ausweg[nl]
-	diesen Fluch zu brechen.
+	Es gibt nur einen einzigen[nl]
+	Weg diesen Fluch zu brechen:
 [timer_wait:13E0][clear]
-	Finde die fünf Körperteile solange[nl]
-	der Fluch noch schwach ist.
+	Findet jene fünf Körperteile[nl]
+	solange der Fluch noch[nl]
+	kraftlos und blutarm ist.
 [timer_wait:14E0][fadeout][SPECIAL_SCENE:00]
 [LOAD_fadein_PLAY_SCENE:altar_room]
 [clear]
-	Bringe sie in die Ruinen von[nl]
-	Graf Draculas Schloss,
+	Bringt die Überreste in die[nl]
+	Ruinen von Draculas Schloss,
 [timer_wait:1640][clear]
-	Läuter sie durch das Feuer[nl]
+	und läutert sie mit Feuer[nl]
 	auf dem verborgenem Altar,[nl]
-	und banne so den Fluch!!
+	und bannt so den Fluch!!
 [timer_wait:1744][fadeout]
 [LOAD_SCENE:family_grave]
 [PLAY_SCENE:family_grave_continued]
 [fadein]
 [clear]
-	Sobald der Fluch gebrochen ist,[nl]
-	wird die Legende von Dracula[nl]
-	ein Ende finden. 
+	Wenn der Fluch gebrochen ist,[nl]
+	wird die Mär von Dracula[nl]
+	endlich ein Ende finden. 
 [timer_wait:190B][clear]
-	Mit der Läuterung des Fluches[nl]
-	wird auch den Körper genesen.
+	Mit dem Bann des Fluches[nl]
+	wird auch Euer Leib genesen.
 [stop_scene][SPECIAL_SCENE:06]
 [timer_wait:19F6][clear]
 	Es bleibt kein anderer Weg - [nl]
-	Tilge Draculas Dasein[nl]
+	Tilgt Draculas Dasein[nl]
 	für immer und ewig."
 [timer_wait:1AF9][SPECIAL_SCENE:00]
 [stop_scene][PLAY_SCENE:woman_disappears_simon_searches]
 [clear][color:20]
-	Nachdem die Frau diese Worte[nl]
+	Nachdem die Gestalt dies[nl]
 	gesprochen hatte, verschwand[nl]
 	sie wieder im Morgennebel.
 [timer_wait:1C28][clear]
 [stop_scene][SPECIAL_SCENE:07][PLAY_SCENE:simon_goes_on_journey]
-	Und so beginnt ein neues [nl]
-	Abenteuer für Simon Belmont,[nl]
-	den Helden, mit fester[nl]
-	Entschlossenheit..
+	Und so beginnt ein neues[nl]
+	Abenteuer für den Helden[nl]
+	Simon Belmont. Mit neu[nl]
+	gefundener Entschlossenheit.
 [timer_wait:1D6A][clear]
 	Es gibt keinen anderen Weg!![nl]
-	Kämpfe, Simon - Kämpfe!![nl]
-	Kehre nach Transsylvanien zurück!!
+	Kämpft, Simon - Kämpft!![nl]
+	Zurück nach Transsylvanien!!
 [fadeout]
 [STOP_MUSIC][wait]
