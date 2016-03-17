@@ -66,75 +66,75 @@
 [wait][color:28]
 	         Simon's Quest[nl]
 	        Castlevania II[nl]
-	      Seal of the Curse[nl]
+	       Bann des Fluches[nl]
 	           Prologue
 [fadeout]
 [LOAD_fadein_PLAY_SCENE:castle_collapse][timer_wait:01E0][SPECIAL_SCENE:01]
 [clear][color:20]
-	It has been 7 years since the[nl]
-	ending scenes of Castlevania.[nl]
-	Once again, the stage is[nl]
-	set - in Transylvania...
+	Sieben Jahre sind seit dem[nl]
+	Ende von Castlevania vergangenen.[nl]
+	Abermals beginnt das Schauspiel[nl]
+	- in Transsylvanien...
 [timer_wait:034F][fadeout][SPECIAL_SCENE:00]
 [LOAD_fadein_PLAY_SCENE:battle_count]
 [clear]
-	When the hero, Simon Belmont,[nl]
-	defeated Count Dracula,[nl]
-	the dark lord's body[nl]
-	succumbed to a long sleep.
+	Nachdem Dracula vom[nl]
+	Helden Simon Belmont besiegt wurde[nl]
+	fiel des Grafens Körper[nl]
+	in einen tiefen, dunklen Schlaf.
 [wait][PLAY_SCENE:battle_demon]
 [clear]
-	However, the cost of that[nl]
-	battle was that of Simon's[nl]
-	own body.
+	Aber, der Preis für diesen Sieg[nl]
+	war Simons eigene Gesundheit.[nl]
+	
 [timer_wait:065C][clear]
-	His health has been slowly[nl]
-	deteriorating, and he is[nl]
-	beginning to feel that[nl]
-	death looms near.
+	Sein Körper wurde langsam immer[nl]
+	schwächer, - er fühlte,[nl]
+	dass sein eigener Tod nahte.
+	
 [LOAD_fadein_PLAY_SCENE:family_grave]
 [clear]
-	One morning Simon was[nl]
-	visiting the graves of[nl]
-	his ancestors, on the[nl]
-	Hill of Angels.
+	So begab es sich, dass[nl]
+	Simon eines Morgens das Grab[nl]
+	seiner Ahnen am Hügel der Engel[nl]
+	aufsuchte.
 [stop_scene][PLAY_SCENE:simon_kneels]
 [timer_wait:0900][clear][wait]
-	As he contemplated his life,[nl]
-	behold, suddenly behind him[nl]
+	Als er über sein eigenes Dasein nachsann,[nl]
+	plötzlich, hinter ihm[nl]
 [stop_scene][PLAY_SCENE:woman_appears_and_simon_stands_and_looks]
-	there was a woman standing[nl]
-	in the morning mist.
+	Da stand eine Frauengestalt,[nl]
+	Umhüllt vom Morgennebel.
 [wait]
 [SPECIAL_SCENE:03]
 [timer_wait:0A8B]
 [clear]
-	The woman approached Simon,[nl]
-	and began to speak.
+	Die Gestalt näherte sich Simon,[nl]
+	und sprach:
 [timer_wait:0B62][clear][color:35]
-	`An evil curse has befallen[nl]
-	you. Death is about to get[nl]
-	ahold of you.
+	`Ein finsterer Fluch hat Euren Körper[nl]
+	in Besitz genommen. Euer Tod ist nah. [nl]
+	.
 [COMMENT: Note: Cannot use capital "Y" here.]
 [timer_wait:0C56][clear]
-	However, if you still[nl]
-	possess the courage and the[nl]
-	will to face the forces[nl]
-	of evil once again,
+	Aber, seid Ihr gewillt und[nl]
+	besitzt die Kühnheit den[nl]
+	Mächte der Finsternis erneut [nl]
+	die Stirn zu bieten ...
 [timer_wait:0DB7][clear]
-	God will surely grant you[nl]
-	the power that you need.
+	... Gott würde euch gewiss die Kraft[nl]
+	dazu verleihen, die ihr benötigt.
 [stop_scene][SPECIAL_SCENE:04]
 [timer_wait:0E97][clear]
-	In the last seven years,[nl]
-	since Dracula was destroyed,[nl]
-	the demonic curse released[nl]
-	from within his body
+	In den letzten sieben Jahren,[nl]
+	seit dem Ende von Dracula,[nl]
+	entwich ein unmenschlicher Fluch[nl]
+	aus dem Überresten des Grafen.
 [timer_wait:1011][clear]
-	has been brooding, growing[nl]
-	stronger, and Dracula's body[nl]
-	has already begun[nl]
-	resurrecting itself.
+	Der Fluch brodelte und wird stärker[nl]
+	und Draculas Körper[nl]
+	hat bereits begonnen [nl]
+	aufzuerstehen .
 [SPECIAL_SCENE:05]
 [timer_wait:1178][clear]
 	Thus far, five parts of[nl]
@@ -144,52 +144,52 @@
 [timer_wait:12A5][fadeout]
 [stop_scene][LOAD_SCENE:berkeley_mansion_pan][wait][SPECIAL_SCENE:02][fadein]
 [clear]
-	There is only one way to[nl]
-	end this curse.
+	Es gibt nur einen Ausweg[nl]
+	diesen Fluch zu brechen.
 [timer_wait:13E0][clear]
-	While the power of the curse[nl]
-	is still weak, you must find[nl]
+	Finde die fünf Körperteile solange[nl]
+	der Fluch noch schwach ist.[nl]
 	these five body parts,
 [timer_wait:14E0][fadeout][SPECIAL_SCENE:00]
 [LOAD_fadein_PLAY_SCENE:altar_room]
 [clear]
-	and bring them into what[nl]
-	remains of Dracula's castle,
+	Bringe sie in die Ruinen von[nl]
+	Graf Draculas Schloss,
 [timer_wait:1640][clear]
-	and purify them by burning[nl]
-	them on a hidden altar,[nl]
-	thereby sealing the curse.
+	Läuter sie durch das Feuer[nl]
+	auf dem verborgenem Altar,[nl]
+	und hebe so den Fluch auf.
 [timer_wait:1744][fadeout]
 [LOAD_SCENE:family_grave]
 [PLAY_SCENE:family_grave_continued]
 [fadein]
 [clear]
-	Once the curse is sealed,[nl]
-	the legend of Dracula will[nl]
-	be finally ended for ever.
+	Sobald der Fluch gebrochen ist,[nl]
+	wird die Legende von Dracula[nl]
+	ein Ende finden. 
 [timer_wait:190B][clear]
-	With the curse gone your[nl]
-	body will begin to heal too.
+	Mit der Läuterung des Fluches[nl]
+	wird auch den Körper genesen.
 [stop_scene][SPECIAL_SCENE:06]
 [timer_wait:19F6][clear]
-	There is no other way to[nl]
-	eliminate Dracula once[nl]
-	and for all."
+	Es bleibt kein anderer Weg - [nl]
+	Tilge Draculas Dasein[nl]
+	für immer und ewig. "
 [timer_wait:1AF9][SPECIAL_SCENE:00]
 [stop_scene][PLAY_SCENE:woman_disappears_simon_searches]
 [clear][color:20]
-	After speaking these words,[nl]
-	the woman disappeared[nl]
-	beyond the morning mist.
+	Nachdem die Frau diese Worte[nl]
+	gesprochen hatte, verschwand[nl]
+	sie wieder im Morgennebel.
 [timer_wait:1C28][clear]
 [stop_scene][SPECIAL_SCENE:07][PLAY_SCENE:simon_goes_on_journey]
-	And so, the hero, Simon[nl]
-	Belmont, began a new[nl]
-	journey with newfound[nl]
-	determination.
+	Und so beginnt ein neues [nl]
+	Abenteuer für Simon Belmont,[nl]
+	den Helden, mit fester[nl]
+	Entschlossenheit..
 [timer_wait:1D6A][clear]
-	There is no other path!![nl]
-	Fight, Simon!![nl]
-	Return to Transylvania!!
+	Es gibt keinen anderen Weg![nl]
+	Kämpfe, Simon - Kämpfe![nl]
+	Kehre nach Transsilvanien zurück!
 [fadeout]
 [STOP_MUSIC][wait]

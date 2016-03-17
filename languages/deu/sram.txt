@@ -1,28 +1,31 @@
-{"no":      "No",
- "load":    "Load",
- "damaged": "Damaged",
- "cancel":  "Cancel",
+{"no":      "Nein",
+ "load":    "Laden",
+ "damaged": "Defekt",
+ "cancel":  "Abbrechen",
 
- "charset_required": "acCdDeglLmnNo",
+ "charset_required": "NeinLadDfktAbrch",
  
  // We could do Damaged in red, but "e" is also in Cancel and "a","d" in Load...
- 
+ // Used 0xF8 as a filler till vram.txt is done.
  "charset_implemented":
    { "e": 0x9F,
      "s": 0xB7,
      " ": 0xF8,
-     
+
+     "N": 0x65,
+     "i": 0xF8,
+     "n": 0x64,
+     "L": 0x56,
      "a": 0xDC,
-     "c": 0x53,
      "d": 0xAF,
      "D": 0xB4,
-     "g": 0x60,
-     "l": 0x62,
-     "L": 0x56,
-     "m": 0x5D,
-     "n": 0x64,
-     "N": 0x65,
-     "o": 0x63,
-     "C": 0xFA
+     "f": 0xF8,
+     "k": 0xF8,
+     "t": 0xF8,
+     "A": 0xF8,
+     "b": 0xF8,
+     "r": 0xF8,
+     "c": 0x53,
+     "h": 0xD2
    }
 }

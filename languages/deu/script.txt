@@ -1,3 +1,8 @@
+
+*** These modified files were found in JOE when it aborted on Tue Nov 17 00:51:29 2015
+*** JOE was aborted by UNIX signal 1
+
+*** Datei 'deu_20151116/script.cv2'
 ; Castlevania II NES reverse engineering tool
 ; Copyright (C) 2012 Joel Yliluoma, http://iki.fi/bisqwit/
 
@@ -172,12 +177,12 @@
    ; Comments: Clue 1, In town of Veros. Hinted by string 78.
    [nl]
    ;***********.
-   A crystal[nl]
-   can reveal[nl]
-   a secret[nl]
-   path in the[nl]
-   Berkeley[nl]
-   Mansion.
+   Durch den[nl]
+   Kristall[nl]
+   erspäht man[nl]
+   Geheimwege[nl]
+   in der Burg[nl]
+   Berkeley.
 +030u: ;JA @64C6[5:DRQ_YK_1]
    ;ENG: A SYMBOL OF/EVIL WILL/APPAER WHEN/YOU STRIKE/THE STAKE.
    ;JAP: KASHINOKINOKUIWO/ARUMONONI UCHIKOMUTOKI/MAOUNO SHOUCHOUHA/ARAWARERU
@@ -187,13 +192,13 @@
    ;   ("maou", literally meaning "king of evil").
    ;   In Chrono Trigger, Magus's name was also "maou".
    ; Comments: Clue 2, in Berkeley Mansion. Hinted by string 80.
-   [nl]
-   A symbol of[nl]
-   Dracula will[nl]
-   appear when[nl]
-   you strike[nl]
-   with a stake[nl]
-   made of oak.
+   Gepfählt mit[nl]
+   einen Pflock[nl]
+   aus Eiche[nl]
+   werden[nl]
+   Draculas[nl]
+   Reliquien[nl]
+   erscheinen.
 +031u: ;JA @64EF[5:DRQ_YK_1]
    ;ENG: DESTROY THE/CURSE AND/YOU'LL RULE/BRAHM'S/MANSION.
    ;JAP: BURA-MUNOYAKATA/KAWANO NOROIWO/TOKUMONO/MUKAEIRERU
@@ -205,14 +210,13 @@
    ;   and he will take you to the coast next to Brahm's mansion that you cannot otherwise access.
    ; Comments: Clue 3, in Berkeley Mansion. Hinted by string 80.
    [nl]
-   The road[nl]
-   to Brahm's[nl]
-   Mansion[nl]
-   will be[nl]
-   heralded by[nl]
-   dispelling[nl]
-   the curse[nl]
-   of the river.
+   Der Fluch[nl]
+   des Flusses[nl]
+   verschlang[nl]
+   den[nl]
+   Pfad zur[nl]
+   Burge Brahm.
+
 
 +032u: ;JA @650E[5:DRQ_YK_1]
    ;ENG: A FLAME/FLICKERS/INSIDE THE/RING OF/FIRE.
@@ -222,13 +226,13 @@
    ;   (i.e. in a territory that never sees sunlight).
    ; Info: In other words, the flame is hidden in a cave.
    ; Comments: Clue 4, in Berkeley Mansion. Hinted by string 80.
-   [nl]
-   Even today[nl]
-   the Sacred[nl]
-   Flame rests[nl]
-   in a realm[nl]
-   hidden from[nl]
-   sunlight.
+   Bis heute[nl]
+   ruht die[nl]
+   Heilige[nl]
+   Flamme an[nl]
+   einem Ort[nl]
+   fernab des[nl]
+   Sonnenlichts.
 +013u: ;JA @6F83[11:DRQ_E_01]
    ;ENG: TO REPLENISH/EARTH ,KNEEL/BY THE LAKE/WITH THE/BLUE CRYSTAL.
    ;JAP: AOSUISHOUWO/KAKAGE KOSUINOMAENI/HIZAMAZUKUTOKI/DAICHIHA MIZUWO/UKEIRERU
@@ -238,14 +242,14 @@
    ;   progress to the area under the lake. At two distinct locations.
    ; Comments: Clue 5, in Aljiba Woods. Hinted by string 103.
    [nl]
-   When the[nl]
-   sapphire[nl]
-   hits the[nl]
-   sand of[nl]
-   a lake beach,[nl]
-   the earth[nl]
-   will swallow[nl]
-   the water.
+   Kniet mit[nl]
+   dem Saphier[nl]
+   am Ufer[nl]
+   des Sees, so[nl]
+   das Wasser[nl]
+   versickern.[nl]
+   [nl]
+   
 +092u: ;JA @7321[1:DRQ_MAC1]
    ;ENG: AN OLD GYPSY/HOLDS A/DIAMOND IN/FRONT OF DE-/BORAH CLIFF.
    ;JAP: DEBORANOGAKENO/MAENI CHOUKOUSEKIWO/MOTSU TOSHIOITA/JIPUSHI-GA IRU
@@ -256,14 +260,14 @@
    ;   One of them has the gypsy and the other has the whirlwind event.
    ; Comments: Clue 6, in town of Aljiba. Hinted by string 79.
    [nl]
-   There is an[nl]
-   old gypsy[nl]
-   who lives[nl]
-   in southern[nl]
-   Jam Waste-[nl]
-   land. She[nl]
-   has a giant[nl]
-   diamond.
+   Die alte[nl]
+   Zigeunerin[nl]
+   aus Jams[nl]
+   Einöde wacht[nl]
+   über einen[nl]
+   mächtigen[nl]
+   Diamanten.[nl]
+   .
 +034u: ;JA @6478[6:DRQ_YK_2]
    ;ENG: DESTROY THE/CURSE WITH/DRACULA'S/HEART.
    ;JAP: MAOUNOSHINZOUHA/NOROWARESHIMONONO/NOROIWO TOKU
@@ -274,11 +278,10 @@
    ;   saying which curse in particular. It is not "the" curse.
    ; Comments: Clue 7 in Rover Mansion. Hinted by string 105.
    [nl]
-   Dracula's[nl]
-   heart will[nl]
-   destroy[nl]
-   a certain[nl]
-   curse.
+   Draculas[nl]
+   Herz befreit[nl]
+   einen[nl]
+   Verfluchten.
 +033u: ;JA @644C[6:DRQ_YK_2]
    ;ENG: GARLIC IN/THE/GRAVEYARD/SUMMONS A/STRANGER.
    ;JAP: HAKABANI NINNIKUWO/OKUTO MAMONOHA/KIEUSE SONATAWO/MATSUHITOGA ARAWARERU
@@ -288,14 +291,14 @@
    ;   It is an archaic and very polite word.
    ; Comments: Clue 8, in Rover Mansion. Hinted by string 105.
    [nl]
-   Put garlic[nl]
-   on cemetery[nl]
-   ground, and[nl]
-   demons will[nl]
-   die.[nl]
-   You may also[nl]
-   meet someone[nl]
-   awaiting you.
+   Knoblauch am[nl]
+   Totenacker[nl]
+   vertreibt[nl]
+   Dämonen[nl]
+   und lockt[nl]
+   Andere.[nl]
+   Jemand wartet[nl]
+   auf Euch.
 +035u: ;JA @63CC[7:DRQ_YK_3]
    ;ENG: PLACE THE/LAURELS IN A/SILK BAG TO/BRING THEM/TO LIFE.
    ;JAP: KINUNOFUKURONI/KURUMARESHI/GEKKEIJUHA/TAMASHIIWO/FUKIKOMARERU
@@ -304,14 +307,14 @@
    ;   The idea is that the silk bag brings the laurels into life, so that they are twice as potent as before.
    ; Comments: Clue 9, in Brahm's Mansion. Not hinted.
    [nl]
-   When you wrap[nl]
-   dry herbs,[nl]
-   such as[nl]
-   laurels, in[nl]
-   a silk bag,[nl]
-   they will[nl]
-   be brought[nl]
-   to life.
+   In einem[nl]
+   Seidenbeutel[nl]
+   gelagerte[nl]
+   Kräuter[nl]
+   bleiben[nl]
+   länger[nl]
+   erhalten[nl]
+   ....
 +036u: ;JA @63F1[7:DRQ_YK_3]
    ;ENG: WAIT FOR A/SOUL WITH A/RED CRYSTAL/ON DEBORAH/CLIFF.
    ;JAP: DEBORANOGAKENO/MAEDE/AKASUISHOUWO/KAKAGE/KAZEWOMATE
@@ -320,13 +323,13 @@
    ;   Why? Kaze does not mean soul/spirit in Japanese, even though
    ;   in some languages the words for spirit and wind share the same root.
    ; Comments: Clue 10, in Brahm's Mansion. Not hinted.
-   [nl]
-   Press a ruby[nl]
-   against the[nl]
-   Deborah[nl]
-   cliff, kneel,[nl]
-   and wait for[nl]
-   a whirlwind.
+   Kniet, und[nl]
+   haltet einen[nl]
+   Rubin gegen[nl]
+   die Klippen[nl]
+   von Deborah.[nl]
+   Erwartet den[nl]
+   Wirbelsturm.
 +020u: ;JA @6D9C[9:DRQ_ETC2]
    ;ENG: DRACULA'S/NAIL MAY/SOLVE/THE EVIL/MYSTERY.
    ;JAP: MAOUNOTSUMEHA/JAAKUNOKABEWO/UCHIKUDAKU CHIKARAWO/MOTSU
@@ -337,12 +340,12 @@
    ;   the whip cannot be lashed vertically.
    ; Comments: Clue 11, at Deborah cliff. Not hinted.
    [nl]
-   The nail[nl]
-   of Dracula[nl]
-   possesses[nl]
-   the power[nl]
-   to shatter[nl]
-   evil walls.
+   Draculas[nl]
+   Nagel besitzt[nl]
+   die Macht[nl]
+   trügerische[nl]
+   Wände[nl]
+   umzureißen.
 +037u: ;JA @647A[8:DRQ_YK_4]
    ;ENG: THE CURSE/HAS KILLED/THE LAUREL/TREE.
    ;JAP: INOCHIARU/GEKKEIJUNAKIMONO/NUMANONOROINI/INOCHITSUKIRU
@@ -352,13 +355,13 @@
    ; Comments: Clue 12, in Bodley Mansion. Hinted by string 104.
    [nl]
    ;***********.
-   Treading[nl]
-   through the[nl]
-   cursed swamp[nl]
-   without[nl]
-   living[nl]
-   laurels[nl]
-   is perilous.
+   Ohne[nl]
+   veredelten[nl]
+   Lorbeer[nl]
+   werdet Ihr im[nl]
+   verfluchten[nl]
+   Moor zu[nl]
+   Grunde gehen.
 +017u: ;JA @67F0[3:DRQ_E_10]
    ;ENG: DRACULA'S/EVIL KNIFE/BLURS/CAMILLA'S/VISION.
    ;JAP: SHINIGAMIGA/KAKUSHIMOTSU NAIFUNI/KAMI-RANO HITOMIHA/KUMORU
@@ -367,14 +370,13 @@
    ;   Defeat him and you get the knife.
    ;   It also offers an explanation for the "weeping" eye of Carmilla.
    ; Comments: Clue 13, in Debious Woods. Not hinted.
-   [nl]
    ;***********.
-   Death poked[nl]
-   Carmilla's[nl]
-   eye with a[nl]
-   concealed[nl]
-   knife.
-
+   Gevatter Tod[nl]
+   blendete[nl]
+   Carmilla mit[nl]
+   einem[nl]
+   verborgenen[nl]
+   Dolch.
 ;;;; Road signs ;;;;
 
 +058u: ;JA @7257[0:DRQ_MAC0]
@@ -486,13 +488,13 @@
    ; Info: Monk in 3rd stair in town of Ondol
    ;***********.
    [nl]
-   A hermit[nl]
-   living in[nl]
-   a cave can[nl]
-   empower[nl]
-   a whip in[nl]
-   a peculiar[nl]
-   manner.
+   Der in der[nl]
+   Grotte[nl]
+   lebende[nl]
+   Einsiedler[nl]
+   vermag Eure[nl]
+   Peitsche zu[nl]
+   entflammen.
 +069u: ;JA @7370[2:DRQ_MAC2]
    ;JAP: SUTORIGOIBOCHINO/ARUHAKAWO/HORUTO/CHOUKOUSEKIGA/DERUTOIU
    ;ENG: DIG UP THE/4TH GRAVE IN/THE CEMETERY/FOR A/DIAMOND.
@@ -502,14 +504,14 @@
    ; Info: Guy in 3rd stair in town of Ondol
    ;***********.
    [nl]
-   Rumor has it[nl]
-   that digging[nl]
-   up graves in[nl]
-   Strigoi[nl]
-   Cemetery[nl]
-   will yield[nl]
-   a giant[nl]
-   diamond!!
+   Die Leute[nl]
+   erzählen, [nl]
+   am Friedhof[nl]
+   von Strigoi[nl]
+   läge ein[nl]
+   imposanter[nl]
+   Diamant[nl]
+   vergraben.
 +070u: ;JA @7396[2:DRQ_MAC2]
    ;ENG: BELIEVE IN/MAGIC AND/YOU'LL BE/SAVED.
    ;JAP: KONNICHIHA ANATAHA/KAMIWO SHINJIMASUKA?/SHINJIRUMONOHA/MINA SUKUWARERU
@@ -519,24 +521,26 @@
    ; Info: Guy in 2nd stair in town of Ondol
    ;***********.
    [nl]
-   Hello.[nl][nl]
-   Do you[nl]
-   believe in[nl]
-   God?[nl][nl]
-   Everything[nl]
-   depends on[nl]
-   that.
+   Seid gegrüßt.[nl][nl]
+   Seid Ihr[nl]
+   fromm und[nl]
+   gottgläubig?[nl]
+   Das wird[nl]
+   letztendlich[nl]
+   alles[nl]
+   entscheiden.
 +071u: ;JA @73C0[2:DRQ_MAC2]
    ;ENG: TAKE MY/DAUGHTER,/PLEASE!!
    ;JAP: MORATTEYATTEKUDASAI/UCHINO MUSUMEWO/IMANARA TADADAYO
    ; Literal translation: Please take my daughter. Right now I won't ask for anything else.
    ; Info: Monk in 2nd stair in town of Ondol
    ;***********.
-   [nl]
-   Please, take[nl]
-   my daughter.[nl][nl]
-   That's all[nl]
-   I am asking.
+   Bitte, bringt[nl]
+   meine Tochter[nl]
+   weg von hier.[nl]
+   Das ist mein[nl]
+   einziger[nl]
+   Wunsch.
 +073u: ;JA @73E2[2:DRQ_MAC2]
    ;ENG: DON'T LOOK/INTO THE/DEATH STAR,/OR YOU WILL/DIE.
    ;JAP: SHICHOUSEIGA/MIERUDEAROU/OWATTANA!!
@@ -551,15 +555,14 @@
    ;THAT WHO[nl][nl]
    ;SEES[nl][nl]
    ;DEATH.
-   There is so[nl]
-   much battle[nl]
-   in the world.[nl]
-   I used to be[nl]
-   a fighter[nl]
-   myself, but[nl]
-   I realized[nl]
-   I need to[nl]
-   live my life.
+   Mir dämmerte,
+   das Leben sei[nl]
+   nur ein[nl]
+   Warten auf[nl]
+   etwas Anderes[nl]
+   als das, was[nl]
+   wir nun tun.[nl][nl]
+   Nun lebe ich.[nl]
 
 
 +074u: ;JA @73FB[2:DRQ_MAC2]
@@ -569,13 +572,13 @@
    ; Comments: I'm not quite sure of the purpose of this line.
    ; Info: Monk in 1st stair(ground) in town of Ondol
    ;***********.
-   [nl]
-   Would you[nl]
-   please take[nl]
-   me with you?[nl][nl]
-   If I stay[nl]
-   here, I[nl]
-   will die!!
+   Ich flehe[nl]
+   Euch an,[nl]
+   bringt mich[nl]
+   fort von hier![nl][nl]
+   Ich will[nl]
+   hier nicht[nl]
+   sterben!!
 +075u: ;JA @741D[2:DRQ_MAC2]
    ;ENG: WHEN I WAS/YOUR AGE,/WOMEN LOVED/ME.
    ;JAP: JIMANJANAIGA/KOREDEMO WASHIHA/MUKASHI ONNANI/YOKU MOTETAMONOJA
@@ -583,13 +586,13 @@
    ;   how I look now, a long time ago I was very popular with women.
    ; Info: Monk in 3rd stair in town of Ondol
    ;***********.
-   [nl]
-   Not to brag,[nl]
-   but when I[nl]
-   was your age,[nl]
-   I was really[nl]
-   popular with[nl]
-   the ladies.
+   Früher, da[nl]
+   konnte ich[nl]
+   Frauenherzen[nl]
+   im Sturm[nl]
+   erobern.[nl]
+   Nun seht mich[nl]
+   heute an.
 
 ;;;; Al..dra? NPCs ;;;;
 
@@ -600,22 +603,24 @@
    ; Info: Lady in 3rd stair in town of Aldra
    ;***********.
    [nl]
-   Sorry, pal.[nl][nl]
-   No time now,[nl]
-   maybe[nl]
-   tomorrow.
+   Bedauere ...[nl]
+   Heute habe[nl]
+   ich keine[nl]
+   Zeit mehr.[nl]
+   Vielleicht[nl] 
+   morgen.
 +099u: ;JA @73DF[0:DRQ_MAC0]
    ;ENG: I'LL SEE/YOU AT/MIDNIGHT/ON THE/RIVER BANK.
    ;JAP: KONYA 12JI/KAWANOHOTORIDE
    ; Literal translation: Tonight, at 12am, near the river (in the vicinity of the river).
    ; Info: Lady in 3rd stair in town of Aldra
    ; Replaced by 116 in dialog_ext mode after a certain day.
-   [nl]
-   Tonight.[nl][nl]
-   At 12 A.M.[nl][nl]
-   The river[nl]
-   bank.[nl][nl]
-   Be there.
+   Heute.[nl][nl]
+   Zu[nl]
+   Mitternacht.[nl][nl]
+   Am Ufer[nl]
+   des Flusses.[nl]
+   Seid Dort.
 +093u: ;JA @7370[0:DRQ_MAC0]
    ;ENG: HIT DEBORAH/CLIFF WITH/YOUR HEAD TO/MAKE A HOLE.
    ;JAP: DEBORANOGAKEWO/ZUTSUKIDE/KIRIHIRAKE SURUTO/OOKINA ANAGA/AKU
@@ -627,13 +632,14 @@
    ; Info: Lady in 3rd stair in town of Aldra
    ;***********.
    [nl]
-   Go and hit[nl]
-   the Deborah[nl]
-   Cliff with[nl]
-   your head.[nl][nl]
-   See which[nl]
-   one gives[nl]
-   first.
+   Schlagt mit[nl]
+   Eurem Schädel[nl]
+   gegen die[nl]
+   Klippen von[nl]
+   Deborah.[nl]
+   Was wird wohl[nl]
+   zuerst[nl]
+   nachgeben?
 +104u: ;JA @7418[0:DRQ_MAC0]
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN BODLEY/MANSION.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/BADORI-NOYAKATANI/NEMURUTO/TSUTAERARETEIRU
@@ -642,13 +648,12 @@
    ; Info: Lady in 3rd stair in town of Aldra
    ;   Refers to clue 12. Correct.
    [nl]
-   There is a[nl]
-   clue to[nl]
-   Dracula's[nl]
-   riddle[nl]
-   within the[nl]
-   Bathory[nl]
-   Mansion.
+   Spuren zu[nl]
+   Draculas[nl]
+   Vermächtnis[nl]
+   findet Ihr[nl]
+   in Burg[nl]
+   Bathory,
 +097u: ;JA @73B4[0:DRQ_MAC0]
    ;ENG: I'VE BEEN/WAITING FOR/A GOOD/LOOKING GUY/LIKE YOU.
    ;JAP: ANATATTE HANSAMUNE/WATASHI/ANATANOYOUNAHITOWO/MATTETANO
@@ -658,11 +663,12 @@
    ; Replaced by 116 in dialog_ext mode after a certain day.
    ;***********.
    [nl]
-   I've been[nl]
-   waiting for[nl]
-   a good[nl]
-   looking guy[nl]
-   like you.
+   Ihr seid eine[nl]
+   Augenweide![nl][nl]
+   Ich sehne[nl]
+   mich nach[nl]
+   jemanden wie[nl]
+   Euch.
    
    
 +102u: ;JA @73F1[0:DRQ_MAC0]
@@ -677,15 +683,14 @@
    ; In dialog_ext mode, replaced with 122 once player has a silk bag.
    ;***********.
    [nl]
-   If you go to[nl]
-   the Strigoi[nl]
-   Cemetery and[nl]
-   receive a[nl]
-   silk bag from[nl]
-   a patrolling[nl]
-   man, you will[nl]
-   surely live[nl]
-   longer.
+   Mit einem[nl]
+   Seidensack[nl]
+   vom Strigoier[nl]
+   Friedhofs-[nl]
+   Wächter[nl]
+   wird sich[nl]
+   Euer Leben[nl]
+   verlängern
 
 +098u: ;JA @73D5[0:DRQ_MAC0]
    ;JAP: ANATAGA HOSHII
@@ -695,10 +700,10 @@
    ;   My text deviates from this meaning for no particular reason.
    ; Info: Lady in 1st stair in town of Aldra
    [nl]
-   I really[nl]
-   hope to meet[nl]
-   a smart man[nl]
-   some day.
+   Bleibt heute[nl]
+   Nacht hier,  [nl]
+   Ich meine es[nl]
+   gut mit Euch!
 +089u: ;JA @72DF[1:DRQ_MAC1]
    ;ENG: DRACULA'S/EYEBALL/REFLECTS/THE CURSE.
    ;JAP: NOROINIYORI/TOZASARESHIMONO/DORAKYURANO/MEDAMANIYORI/UTSUSHIDASARERU
@@ -709,14 +714,12 @@
    ; Info: Elder sitting deep in house in town of Aldra
    ;***********.
    [nl]
-   A thing[nl]
-   cursed away[nl]
-   from sight[nl]
-   can be[nl]
-   seen as a[nl]
-   reflection[nl]
-   in Dracula's[nl]
-   eyeball.
+   In Draculas[nl]
+   Auge spiegeln[nl]
+   sich auch[nl]
+   vom Fluch[nl]
+   verdeckte[nl]
+   Gegenstände.
 
 ;;;; Jova NPCs ;;;;
 
@@ -728,13 +731,12 @@
    ; Info: Monk in 2nd stair in town of Jova (first person you meet)
    ; In dialog_ext mode, replaced with 121 once player has a crystal.
    [nl]
-   First you[nl]
-   should buy[nl]
-   a white[nl]
-   crystal.[nl][nl]
-   Everything[nl]
-   begins from[nl]
-   there.
+   Geht und[nl]
+   erwerbt einen[nl]
+   Bergkristall![nl]
+   [nl][nl]
+   So beginnt[nl]
+   es.
 +076u: ;JA @72FF[0:DRQ_MAC0]
    ;ENG: A CROOKED/TRADER IS/OFFERING BUM/DEALS IN/THIS TOWN.
    ;JAP: MACHINIHA KAKURETE/SHOUBAIWO SURU/BAININGA IRU
@@ -744,14 +746,13 @@
    ; Info: Monk in 2nd stair in town of Jova
    ;***********.
    [nl]
-   There are[nl]
-   traders[nl]
-   hiding in[nl]
-   our town.[nl]
-   In some[nl]
-   towns, they[nl]
-   hide behind[nl]
-   fake walls.
+   In der Stadt[nl]
+   gibt es[nl]
+   Händler, die[nl]
+   sich hinter[nl]
+   falschen[nl]
+   Wänden[nl]
+   verstecken.
 
    
 +062u: ;JA @7290[0:DRQ_MAC0]
@@ -764,11 +765,12 @@
    ; Info: Monk in 1st stair in town of Jova
    ;***********.
    [nl]
-   Find one of[nl]
-   the 13 hidden[nl]
-   clues, and a[nl]
-   riddle can[nl]
-   be solved.
+   Dreizehn[nl]
+   Andeutungen[nl]
+   habt ihr zu[nl]
+   deuten um das[nl]
+   Geheimnis zu[nl] 
+   lüften
 +061u: ;JA @726D[0:DRQ_MAC0]
    ;JAP: ARUDORANOMACHINI/SONATANONAKAMAGA IRU/KANARAZU AINASARE
    ;ENG: YOU HAVE A/FRIEND IN/THE TOWN OF/ALDRA. GO AND/SEE HIM.
@@ -776,28 +778,28 @@
    ; Comments: Compare to string 57.
    ; Info: Monk in 1st stair (ground) in town of Jova
    [nl]
-   There is[nl]
-   a friend[nl]
-   waiting[nl]
-   for you in[nl]
-   the town[nl]
-   of Aldra.[nl]
-   You must go[nl]
-   and meet him.
+   Ein Freund[nl]
+   wartet in der[nl]
+   Stadt Aldra.[nl]
+   Ihr müsst[nl]
+   Ihn[nl]
+   aufsuchen,[nl]
+   egal was [nl]
+   passiert.
 +068u: ;JA @72D5[0:DRQ_MAC0]
    ;JAP: DEDDORIBA-NO/SENDOUHA/NINNIKUGA/KOUBUTSUTO/KIITAKOTOGAARU
    ;ENG: RUMOR HAS IT/, THE FERRY-/MAN AT DEAD/RIVER LOVES/GARLIC.
    ; Accurate translation: I have heard that the favourite dish of the ferryman at the Dead River is garlic.
    ; Comments: Nonsense, but he would love to see something else.
    ; Info: Man in 1st stair in town of Jova
-   [nl]
-   You know[nl]
-   the ferryman,[nl]
-   at the Dead[nl]
-   River?[nl][nl]
-   I heard[nl]
-   he loves[nl]
-   garlic.
+   Kennt Ihr den[nl]
+   Fährmann?
+   Man hat mir[nl]
+   erzählt, dass[nl]
+   er immer[nl]
+   Appetit auf[nl]
+   Knoblauch[nl]
+   hat.
 +077u: ;JA @731F[0:DRQ_MAC0]
    ;JAP: SEINARUHONOOGA/DENISUNOMORINO/6BANMENO KINOUENI/ARU
    ;ENG: A FLAME IS/ON TOP OF/THE 6TH TREE/IN DENIS/WOODS.
@@ -807,13 +809,14 @@
    ; Info: Man in 1st stair in town of Jova
    ; Can be replaced with 123, equally nonsense, if dialog_ext is enabled.
    ;***********.
-   [nl]
-   The Sacred[nl]
-   Flame is[nl]
-   on the[nl]
-   top of the[nl]
-   6th tree in[nl]
-   Denis Woods.
+   In der Krone[nl]
+   des sechsten[nl]
+   Baumes im[nl]
+   Wald von[nl]
+   Denis lodert[nl]
+   das[nl]
+   geheiligte[nl]
+   Feuer.
 +078u: ;JA @7342[0:DRQ_MAC0]
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN THE TOWN/OF VEROS.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/BEROSUNOMACHINI/NEMURUTO/TSUTAERARETEIRU
@@ -822,15 +825,15 @@
    ;   Refers to clue 1. Correct.
    ;***********.
    [nl]
-   It is said[nl]
-   that in the[nl]
-   town of Veros[nl]
-   there is a[nl]
-   hidden book[nl]
-   that contains[nl]
-   a clue to[nl]
-   Dracula's[nl]
-   riddle.
+   Man munkelt,[nl]
+   Im Dorf Veros[nl]
+   läge ein[nl]
+   Buch[nl]
+   versteckt,[nl]
+   das Draculas[nl]
+   Rätsel[nl]
+   entschlüsseln[nl]
+   kann.
 +065u: ;JA @72B4[0:DRQ_MAC0]
    ;JAP: SEISUINI/AKUMAHA KURUSHIMI/JAAKUNOKABEHA/KUDAKERU
    ;ENG: A MAGIC/POTION WILL/DESTROY THE/WALL OF/EVIL.
@@ -839,14 +842,14 @@
    ;   The holy water also damages enemies.
    ; Info: Monk in 1st stair (ground) in town of Jova
    [nl]
-   The Holy[nl]
-   Water is[nl]
-   agonizing[nl]
-   to anything[nl]
-   evil.[nl]
-   It even[nl]
-   shatters[nl]
-   evil walls.
+   Weihwasser[nl]
+   bereitet[nl]
+   Dämonen[nl]
+   Höllenqualen[nl]
+   und lässt[nl]
+   arglistige[nl]
+   Mauern[nl]
+   weichen.
 
 ;;;; Veros NPCs ;;;;
 
@@ -859,12 +862,14 @@
    ;   any rib that does it. It has to be the rib _of_Dracula_.
    ; Info: Guy on ground in town of Veros
    ;***********.
-   [nl]
-   The rib of[nl]
-   the demon[nl]
-   will shield[nl]
-   you from[nl]
-   evil.
+   Draculas[nl]
+   Rippe[nl]
+   wird Euch[nl]
+   wie ein[nl]
+   Schild vor[nl]
+   den Mächten[nl]
+   des Bösen[nl]
+   schützen.
 +067u: ;JA @72D2[2:DRQ_MAC2]
    ;JAP: GEKKEIJUHA/SHICHU-NIIRERUTO/IIKAORIGA SURU
    ;ENG: LAURELS IN/YOUR SOUP/ENHANCES ITS/AROMA.
@@ -874,12 +879,11 @@
    ;   I suggest you also do something similar in your language, if possible.
    ; Info: Guy on ground in town of Veros
    [nl]
-   Insert[nl]
-   laurels[nl]
-   in a pickle,[nl]
-   and all[nl]
-   worries will[nl]
-   go away.
+   Lorbeer[nl]
+   kann das[nl]
+   Blatt wenden,[nl]
+   im Topf wie[nl]
+   im Kampf.
 +072u: ;JA @72EB[2:DRQ_MAC2]: TABINOHITO/KAOIROGA YOKUNAINE/KYOUKAIDE SUKOSHI/YASUMINASAI
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN BERKELEY/MANSION.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/BA-KUREINOYAKATANI/NEMURUTO/TSUTAERARETEIRU
@@ -889,13 +893,13 @@
    ;   Note: Dialogs 072 (man) and 080 (monk) have been exchanged.
    ;***********.
    [nl]
-   There are[nl]
-   clues to[nl]
-   Dracula's[nl]
-   riddle[nl]
-   within[nl]
-   Berkeley[nl]
-   Mansion.
+   Spuren zu[nl]
+   Draculas[nl]
+   Vermächtnis[nl]
+   findet Ihr[nl]
+   in der [nl]
+   Burg[nl]
+   Berkeley.
 +080u: ;JA @731F[2:DRQ_MAC2]: DORAKYURANO NAZOWO/TOKU BUNKENGA/BA-KUREINOYAKATANI/NEMURUTO/TSUTAERARETEIRU
    ;JAP: TABINOHITO/KAOIROGA YOKUNAINE/KYOUKAIDE SUKOSHI/YASUMINASAI
    ;ENG: YOU LOOK/PALE,MY SON./YOU MUST/REST IN THE/CHURCH.
@@ -905,14 +909,13 @@
    ; Info: Monk on ground in town of Veros
    ;   Note: Dialogs 072 (man) and 080 (monk) have been exchanged.
    ;***********.
-   [nl]
-   Boy you are[nl]
-   pale, young[nl]
-   man!![nl][nl]
-   Please rest[nl]
-   in a church[nl]
-   and refresh[nl]
-   your soul.
+   Gütiger[nl]
+   Himmel, seid[nl]
+   Ihr blass![nl]
+   Bitte ...[nl][nl]
+   Ruht Euch in[nl]
+   der Kirche[nl]
+   aus. 
 +079u: ;JA @7312[2:DRQ_MAC2]
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN THE TOWN/OF ALBA.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/ORUJIBANOMACHINI/NEMURUTO/TSUTAERARETEIRU
@@ -921,13 +924,12 @@
    ;   Refers to clue 6. Correct. "ALBA" is mistranslation.
    ;***********.
    [nl]
-   One of the[nl]
-   clues to[nl]
-   Dracula's[nl]
-   riddle[nl]
-   is within[nl]
-   the town[nl]
-   of Aljiba.
+   Eine Spur[nl]
+   zur Lösung[nl]
+   Draculas[nl]
+   Rätsel[nl]
+   ist in der[nl]
+   Stadt Aljiba.
 +057u: ;JA @7253[2:DRQ_MAC2]
    ;ENG: YOU'VE GOT A/FRIEND WAIT-/ING FOR YOU/IN THE TOWN/OF ALJIBA.
    ;JAP: ORUJIBANOMACHINI/SONATANONAKAMAGA IRU/KANARAZU AINASARE
@@ -935,14 +937,14 @@
    ; Translation: Compare to string 61.
    ; Info: Monk on ground in town of Veros
    [nl]
-   There is[nl]
-   a friend[nl]
-   waiting[nl]
-   for you in[nl]
-   the town[nl]
-   of Aljiba.[nl]
-   You must go[nl]
-   and meet him.
+   Ein Freund[nl]
+   wartet in der[nl]
+   Stadt Aljiba[nl]
+   auf Euch.[nl]
+   Was auch[nl]
+   passiert, Ihr[nl]
+   müsst ihn[nl]
+   aufsuchen.
 
 ;;;; Alba/Aljiba NPCs ;;;;
 
@@ -956,13 +958,13 @@
    ;   This dialog can also appear if there is a bug in ferryman code.
    ;***********.
    [nl]
-   The specialty[nl]
-   of our town[nl]
-   is garlic.[nl]
-   It is really[nl]
-   something.[nl]
-   Go and buy[nl]
-   some!!
+   Die[nl]
+   Spezialität[nl]
+   unserer Stadt[nl]
+   ist unser[nl]
+   Knoblauch.[nl]
+   Holt Euch[nl]
+   welchen!
 
 +103u: ;JA @736D[1:DRQ_MAC1]
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/BEROSUNOMORINI/NEMURUTO/TSUTAERARETEIRU
@@ -973,13 +975,13 @@
    ; Info: Guy on 1st stair in town of Aljiba
    ;***********.
    [nl]
-   Clues to[nl]
-   the riddle[nl]
-   of Dracula?[nl][nl]
-   I know one of[nl]
-   them is in[nl]
-   the forest[nl]
-   of Aljiba.
+   Spuren zu[nl]
+   Draculas[nl]
+   Vermächtnis?[nl]
+   [nl]
+   Sucht in [nl]
+   den Wäldern[nl]
+   von Aljiba.
 +105u: ;JA @7378[1:DRQ_MAC1]
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN ROVER/MANSION.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/RO-BA-NOYAKATANI/NEMURUTO/TSUTAERARETEIRU
@@ -988,15 +990,15 @@
    ;   Refers to clues 7 and 8. Correct.
    ;***********.
    [nl]
-   Clues to[nl]
-   Dracula's[nl]
-   riddle...[nl]
-   Search in[nl]
-   the Rover[nl]
-   Mansion.[nl]
-   I have heard[nl]
-   some are[nl]
-   hidden there.
+   Spuren zu[nl]
+   Draculas[nl]
+   Vermächtnis?[nl]
+   Sucht in[nl]
+   Burg  Rover.[nl]
+   [nl]
+   Ich hörte, [nl]
+   dort findet[nl]
+   man welche.
 +091u: ;JA @7308[1:DRQ_MAC1]
    ;ENG: A LAUREL /WILL PROTECT/YOU FROM THE/POISON/MARSH.
    ;JAP: GEKKEIJUHA/NUMANODOKUYORI/MIWOMAMORU
@@ -1008,26 +1010,26 @@
    ;   and 67 (laurels fix a pickle)
    ; Monk on 2nd stair in town of Aljiba
    [nl]
-   If you plan[nl]
-   to trek[nl]
-   through a[nl]
-   swamp, eat[nl]
-   laurels. It[nl]
-   neutralizes[nl]
-   the poison.
+   Ein[nl]
+   Lorbeerblatt[nl]
+   kann Euch[nl]
+   vor[nl]
+   bösartigen[nl]
+   Sumpfämpfen[nl]
+   behüten.
 +088u: ;JA @72B6[1:DRQ_MAC1]
    ;JAP: NOROWARESHI/DEDDORIBA-/IMANAO NOROIWO/TOKUMONO MACHIWABIRU/KAWA
    ;ENG: THE DEAD/RIVER WAITS/TO BE FREED/FROM THE/CURSE.
    ; Accurate translation: The accursed Dead River. A river that still desperate awaits for the one/the thing that will break the curse.
    ; Info: Lady on 2nd stair in town of Aljiba
-   [nl]
-   The accursed[nl]
-   Dead River...[nl][nl]
-   A river that[nl]
-   still awaits[nl]
-   the one who[nl]
-   frees it from[nl]
-   the curse.
+   Dieser[nl]
+   verfluchte[nl]
+   Totenfluss![nl][nl]
+   Der Fluss[nl]
+   wartet noch[nl]
+   sehnsüchtg[nl]
+   auf den Bann[nl]
+   des Fluches.
 +087u: ;JA @7284[1:DRQ_MAC1]
    ;ENG: TO RESTORE/YOUR LIFE,/SHOUT IN/FRONT OF/THE CHURCH.
    ;JAP: ARUDORANOMACHINO/KYOUKAINOMAEDE/YOSHIMI!! TOSAKEBUTO/RAIFUGA MANTANNI/NARUYO!!
@@ -1043,13 +1045,14 @@
    ; Info: Man on 2nd stair in town of Aljiba
    ;***********.
    [nl]
-   The priests[nl]
-   don't pray[nl]
-   at night.[nl][nl]
-   That's why[nl]
-   the forests[nl]
-   are full[nl]
-   of demons.
+   Es ist gut,[nl]
+   in einer[nl]
+   Kirche[nl]
+   geboren zu[nl]
+   werden, aber[nl]
+   furchtbar[nl]
+   darin zu[nl]
+   sterben.
 
 ;;;; Doina/Fetra NPCs ;;;;
 
@@ -1062,11 +1065,13 @@
    ;   The reference to "Castlevania" was a fabricated by the USA translator.
    ; Info: Monk on ground in town of Doina
    [nl]
-   You again!![nl][nl]
-   Last year[nl]
-   I was hoping[nl]
-   never to see[nl]
-   you again.
+   Ihr schon[nl]
+   wieder![nl][nl]
+   Ich habe[nl]
+   innig gehofft[nl]
+   Euch nie[nl]
+   wieder sehen[nl]
+   zu müssen.
 
 +100u: ;JA @73C1[1:DRQ_MAC1]
    ;ENG: GET BACK!!
@@ -1074,7 +1079,7 @@
    ; Literal translation: Return!! (Go back, don't come, get lost, etc.)
    ; Info: Elder sitting in house in town of Doina
    [nl]
-   Go away!!
+   Verschwindet!!
 +101u: ;JA @73C6[1:DRQ_MAC1]
    ;ENG: YOU'VE/UPSET THE/PEOPLE./NOW GET OUT/OF TOWN!!
    ;JAP: ANTANOSEIDE/KONOATARIGA/SAWAGASHIKUNATTA/DETEITTEKURE
@@ -1083,14 +1088,13 @@
    ; Info: Monk on 1st stair in town of Doina
    ;***********.
    [nl]
-   It's your[nl]
-   fault that[nl]
-   it's not safe[nl]
-   around here[nl]
-   anymore.[nl]
-   Please, just[nl]
-   leave and[nl]
-   never return.
+   Dank Euch[nl]
+   sind die[nl]
+   Blutsauger[nl]
+   wieder hier![nl][nl]
+   Geht, und[nl]
+   kommt nie[nl]
+   wieder!
 +106u: ;JA @73EA[1:DRQ_MAC1]
    ;ENG: THE CROSS IN/LARUBA'S /MANSION MUST/BE FOUND.
    ;JAP: RARUBANOYAKATADE/ROZARIOWO/KANARAZU/TENIIRERUNJAZO
@@ -1110,16 +1114,13 @@
    ;FAILURE[nl]
    ;IS NOT[nl]
    ;OPTION.
-
-   When you go[nl]
-   to Laruba's[nl]
-   Mansion,[nl]
-   you must find[nl]
-   the Rosary.[nl]
-   Do not exit[nl]
-   without it.
-   
-   
+   Verlasst[nl]
+   Burg Laruba[nl]
+   nicht ohne[nl]
+   das[nl]
+   Rosenkreuz.[nl]
+   Ihr müsst es[nl]
+   finden!
 
 
 ;;;; Yomi/Ghulash NPCs ;;;;
@@ -1133,9 +1134,10 @@
    ; Info: Elder sitting in house in town of Yomi
    ; Can be replaced with 124, 125 or 126 if dialog_ext is enabled.
    [nl]
-   Let's live[nl]
-   here[nl]
-   together.
+   Es ist[nl]
+   behaglich[nl]
+   hier. Bleibt[nl]
+   auch hier. 
 
 ;;;; Ferryman ;;;;
 
@@ -1147,12 +1149,12 @@
    ; Info: Can be replaced by 150, 156, 157 or 158, depending on conditions.
    ;***********.
    [nl]
-   Well then...[nl]
-   Let's go to[nl]
-   a really[nl]
-   good place.[nl]
-   Hehehe!![nl]
-   Hee, hee!!
+   Nun denn...[nl]
+   Ich werde[nl]
+   Euch an[nl]
+   einen guten[nl]
+   Ort bringen![nl]
+   Har-har!!
 
 +012u: ;JA @6740[10:DRQ_E_00]
    ;ENG: LET ME SHOW/YOU THE WAY.
@@ -1161,9 +1163,11 @@
    ; Comments: Dialog shown when you talk to ferryman on Belasco Marsh shore whilst showing heart.
    ;***********.
    [nl]
-   Let me take[nl]
-   you to where[nl]
-   you must go.
+   Lasst mich[nl]
+   Euch zum[nl]
+   Ort Eurer[nl]
+   Bestimmung[nl]
+   führen![nl]
 
 ; Was unused, but now is used.
 +019u: ;JA @6D83[9:DRQ_ETC2]
@@ -1172,14 +1176,13 @@
    ; Comments: Dialog shown when you talk to ferryman on the opposite shore (regardless of what you show).
    ; Info: Can be replaced by 156, 157 or 158, depending on conditions.
    [nl]
-   Everything[nl]
-   done?[nl]
-   Let's get[nl]
-   going then.[nl][nl]
-   Next stop:[nl]
-   Belasco[nl]
-   Marsh.
-
+   Ihr habt es[nl]
+   vollendet?[nl]
+   Dann auf-auf[nl]
+   zurück, zum[nl][nl]
+   Moor von[nl]
+   Belasco.[nl]
+   Har-Har-Har!
 ;;;; "Friend" ;;;;
 
 +085u: ;JA @7278[1:DRQ_MAC1]
@@ -1187,40 +1190,40 @@
    ;JAP: SHIROTO AONO/SUISHOUWO/TORIKAE ANATANI/WATASHINOOMOIWO/TAKUSOU
    ; This guy lives in Aljiba / Alba
    [nl]
-   I have a blue[nl]
-   sapphire, but[nl]
-   I would like[nl]
-   to exchange[nl]
-   it for your[nl]
-   sparkling[nl]
-   shiny white[nl]
-   crystal.
+   Ich besitze[nl]
+   einen Saphir![nl]
+   Ich überlasse[nl]
+   ihn Euch[nl]
+   gerne im [nl]
+   Tausche für[nl]
+   Euren weißen[nl]
+   Bergkristall.
 +086u: ;JA @7364[0:DRQ_MAC0]
    ;JAP: AOTO AKANO/SUISHOUWO/TORIKAE ANATANI/WATASHINOOMOIWO/TAKUSOU
    ;ENG: I'D LIKE TO/EXCHANGE A/BLUE CRYSTAL/FOR A RED/ONE.
    ; This guy lives in Aldra
    [nl]
-   I have a red[nl]
-   ruby, but[nl]
-   I would like[nl]
-   to exchange[nl]
-   it for your[nl]
-   beautiful[nl]
-   blue[nl]
-   sapphire.
+   Ich besitze[nl]
+   einen Rubin![nl]
+   Ich überlasse[nl]
+   ihn Euch[nl]
+   gerne im[nl]
+   Tausch für[nl]
+   Euren blauen[nl]
+   Saphire.
 +107u: ;JA @682C[0:DRQ_MAC0]
    ;JAP: WATASHITO ANATANO/SUISHOUTO DEHA/KOUKANDEKINU
    ;ENG: I REFUSE TO/EXCHANGE MY/CRYSTAL FOR/YOURS.
    ;***********.
    [nl]
-   I would[nl]
-   like to[nl]
-   exchange my[nl]
-   gem stone...[nl]
-   But you don't[nl]
-   have the type[nl]
-   of crystal[nl]
-   that I want.
+   Ich biete[nl]
+   einen[nl]
+   Edelstein zum[nl]
+   Tausche an.[nl]
+   Aber Ihr habt[nl]
+   kein Juwel[nl]
+   von Interesse[nl]
+   für mich.
 
 ;;;; Acquisitions ;;;;
 
@@ -1232,12 +1235,15 @@
    ; Comment: Shown only when the player is wielding a Morning Star.
    ;***********.
    [nl]
-   I will[nl]
-   give your[nl]
-   Morning Star[nl]
-   the power[nl]
-   to burn[nl]
-   away evil.
+   Ich verleihe[nl]
+   Eurem[nl]
+   Morgenstern[nl]
+   die Kraft,[nl]
+   böse Geister[nl]
+   zu verbrennen![nl]
+   Sollen sie[nl]
+   brennen wie[nl]
+   Zunder!
 +117u: ;JA @6812[3:DRQ_E_10]
    ;ENG: TO BREAK MY/SPELL, COME/BACK WITH A/POWERFUL/WEAPON.
    ;JAP: SONOMUCHIDEHA/WASHINO JUMONNI/TAERARENUDEAROU/DENAOSUGAYOI
@@ -1246,15 +1252,14 @@
    ; Info: The guy who gives fire power.
    ;   In dialog_ext mode, replaced with 155 once player has a fire whip.
    [nl]
-   Sorry, but[nl]
-   your whip is[nl]
-   too weak to[nl]
-   withstand the[nl]
-   power that I[nl]
-   would bestow.[nl]
-   Can you[nl]
-   not find a[nl]
-   better one?
+   Eure Peitsche[nl]
+   gehört[nl]
+   hergerichtet.[nl][nl]
+   So wird sie[nl]
+   meinem Zauber[nl]
+   nicht[nl]
+   Standhalten[nl]
+   können.
 
 +015u: ;JA @67C7[3:DRQ_E_10]
    ;ENG: I'LL GIVE/YOU A SILK/BAG.
@@ -1263,10 +1268,12 @@
    ; Info: Garlic-attracted guy @ downstairs from Sadam Woods (Strigoi cemetery)
    ;   Between Alba & Ondol
    [nl]
-   Please[nl]
-   accept this[nl]
-   gift, a fine[nl]
-   silk bag.
+   Ich[nl]
+   überlasse[nl]
+   Euch diesen[nl]
+   Seidenbeutel.
+
+
 +016u: ;JA @67DB[3:DRQ_E_10]
    ;JAP: SONATANI/GINNONAIFUWO/SAZUKEYOU
    ;ENG: I'LL GIVE/YOU THIS/SILVER KNIFE/TO SAVE YOUR/NECK.
@@ -1274,11 +1281,13 @@
    ; Info: Garlic-attracted guy @ gravehard next to Aljiba
    ;***********.
    [nl]
-   Please take[nl]
-   this silver[nl]
-   knife.[nl][nl]
-   It may save[nl]
-   your life.
+   Bitte nehmt[nl]
+   diesen[nl]
+   silbernen[nl]
+   Dolch.[nl][nl]
+   Er möge[nl]
+   Euren Hals[nl]
+   retten.
 
 +018u: ;JA @6D6E[9:DRQ_ETC2]
    ;JAP: SONATANI/CHOUKOUSEKIWO/SAZUKEYOU
@@ -1286,22 +1295,23 @@
    ; Literal translation: I will gift/grant/award you a mineral chunk ("diamond").
    ; Info: In front of south Deborah cliff
    [nl]
-   I would[nl]
-   like to give[nl]
-   you this[nl]
-   giant[nl]
-   diamond.
+   Ich werde[nl]
+   Euch meinen[nl]
+   Diamanten[nl]
+   überlassen.
 +120u: ;JA @6466[4:DRQ_YCOM]
    ;ENG: I BEG OF YOU/TO TAKE/THESE/LAURELS.
    ;JAP: GEKKEIJUWO/SAZUKEYOU
    ; Literal translation: Laurels will be gifted/granted/awarded.
    ; Info: In Mansion 5, Laruba
    [nl]
-   Please[nl]
-   have these[nl]
-   laurels.[nl][nl]
-   God[nl]
-   bless you.
+   Bitte, nehmt[nl]
+   Euch von[nl]
+   meinen[nl]
+   Lorbeer-[nl]
+   Blätter![nl][nl]
+   Gott segne[nl]
+   Euch.
 
 ;;;; Acquisitions: Dracula's body parts ;;;;
 
@@ -1312,42 +1322,42 @@
    ; Comments: The term "was placed in your hand" commonly occurs in JRPGs,
    ;   and it simply means "you acquired".
    [nl]
-   You now[nl][nl]
-   possess[nl][nl]
-   Dracula's[nl][nl]
-   rib.
+   Ihr besitzt[nl][nl]
+   nun[nl][nl]
+   Draculas[nl][nl]
+   Rippe.
 +025u: ;JA @6443[6:DRQ_YK_2]
    ;ENG: YOU NOW/POSSESS/DRACULA'S/HEART.
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/SHINZOUWO/TENIIRETA
    [nl]
-   You now[nl][nl]
-   possess[nl][nl]
-   Dracula's[nl][nl]
-   heart.
+   Ihr besitzt[nl][nl]
+   nun[nl][nl]
+   Draculas[nl][nl]
+   Herz.
 +026u: ;JA @63C4[7:DRQ_YK_3]
    ;ENG: YOU NOW/POSSESS/DRACULA'S/EYEBALL.
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/MEDAMAWO/TENIIRETA
    [nl]
-   You now[nl][nl]
-   possess[nl][nl]
-   Dracula's[nl][nl]
-   eyeball.
+   Ihr besitzt[nl][nl]
+   nun[nl][nl]
+   Draculas[nl][nl]
+   Auge.
 +027u: ;JA @6474[8:DRQ_YK_4]
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/TSUMEWO/TENIIRETA
    ;ENG: YOU NOW/POSSESS/DRACULA'S/NAIL.
    [nl]
-   You now[nl][nl]
-   possess[nl][nl]
-   Dracula's[nl][nl]
-   nail.
+   Ihr besitzt[nl][nl]
+   nun[nl][nl]
+   Draculas[nl][nl]
+   Nagel.
 +028u: ;JA @6447[4:DRQ_YCOM]
    ;ENG: YOU NOW/POSSESS/DRACULA'S/RING.
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/YUBIWAWO/TENIIRETA
    [nl]
-   You now[nl][nl]
-   possess[nl][nl]
-   Dracula's[nl][nl]
-   ring.
+   Ihr besitzt[nl][nl]
+   nun[nl][nl]
+   Draculas[nl][nl]
+   Ring.
 
 
 ;;;; Acquisitions: From battle & findings ;;;;
@@ -1357,9 +1367,10 @@
    ;JAP: KONOSHUNKAN/SONATAHA/SEINARUHONOOWO/TENIIRETA
    ; Literal translation: In this instant, the sacred flame was placed in your hand.
    [nl]
-   Obtained[nl][nl]
-   the Sacred[nl][nl]
-   Flame!!
+   Ihr nehmt[nl][nl]
+   die Heilige[nl][nl]
+   Flamme[nl][nl]
+   an Euch.
 +119u: ;JA @6416[7:DRQ_YK_3]
    ;ENG: YOU NOW/POSSESS/THE GOLDEN/KNIFE.
    ;JAP: KONOTOKI SONATAHA/KINNONAIFUWO/TENIIRETA
@@ -1367,17 +1378,20 @@
    ; Dropped by Death.
    ;***********.
    [nl]
-   Obtained[nl][nl]
-   the Golden[nl][nl]
-   Knife!!
+   Ihr nehmt[nl][nl]
+   das Goldene[nl][nl]
+   Messer[nl][nl]
+   an Euch.
 +038u: ;JA @644F[4:DRQ_YCOM]
    ;ENG: YOU NOW/POSSESS THE/MAGIC CROSS.
    ;JAP: KONOTOKI SONATAHA/ROZARIOWO/TENIIRETA
    ; Literal translation: At this time, the rosary ("magic cross") was placed in your hand.
    ; Dropped by Camilla.
    [nl]
-   Obtained[nl][nl]
-   the Rosary!!
+   Ihr nehmt[nl][nl]
+   das[nl][nl]
+   Rosenkreuz[nl][nl]
+   an Euch.
 
 
 ;;;;;;;
@@ -1387,95 +1401,91 @@
    ;ENG: REST HERE/FOR A WHILE.
    ; Literal translation: Let your body rest here and then go. In the name of Father, Son and Holy Spirit, amen.
    [nl]
-   Rest here[nl]
-   for a while.[nl]
-   In the name[nl]
-   of Father,[nl]
-   Son and[nl]
-   Holy Spirit,[nl]
-   amen.
+   Ruhe Dich[nl]
+   hier aus[nl]
+   mein Sohn.[nl][nl]
+   Gottes Segen[nl]
+   sei mit Dir.[nl]
+   Amen.
 +029u: ;JA @AE7D[0:DRQ_MAC0]
    ;ENG: INVEST IN AN/OAK STAKE?
    ;JAP: KASHINOKINOKUIWO/KATTEYUKANUKA?
    ;***********.
    [nl]
-   Would you[nl]
-   like to[nl]
-   invest in an[nl]
-   oak stake?
+   Wollt Ihr[nl]
+   einen Pflock[nl]
+   aus Eiche[nl]
+   erstehen? 
 +047u: ;JA @67F6[0:DRQ_MAC0]
    ;JAP: NINNIKUWO/KATTEYUKANUKA?
    ;ENG: WILL YOU BUY/SOME GARLIC?
    ;***********.
    ; One of these is in Alba; one in Aldra.
    [nl]
-   I sell[nl]
-   garlic.[nl]
-   Buy some?[nl]
-   I guarantee[nl]
-   the quality.
+   Ich biete[nl]
+   frischen[nl]
+   Knoblauch an.[nl]
+   Wollt Ihr[nl]
+   welchen?
 +048u: ;JA @67FC[0:DRQ_MAC0]
    ;JAP: GEKKEIJUWO/KATTEYUKANUKA?
    ;ENG: BUY SOME OF/MY LAURELS?
    ;***********.
    ; One of these is in Ondol, one in Alba; one in Aldra. One in Doina.
    [nl]
-   Would you[nl]
-   buy some[nl]
-   of my[nl]
-   laurels?
+   Wollt Ihr[nl]
+   Lorbeer[nl]
+   erstehen?
 +050u: ;JA @7223[0:DRQ_MAC0]
    ;JAP: SHIROSUISHOUWO/KATTEYUKANUKA?
    ;ENG: BUY A WHITE/CRYSTAL?
    ; In Jova
    [nl]
-   Would[nl]
-   you buy[nl]
-   a white[nl]
-   crystal?
+   Wollt Ihr[nl]
+   meinen weißen[nl]
+   Bergkristall[nl]
+   erstehen?
 +051u: ;JA @7229[0:DRQ_MAC0]
    ;JAP: IBARANO MUCHIWO/KATTEYUKANUKA?
    ;ENG: BUY A THORN/WHIP?
    ; In Jova
    [nl]
-   I am[nl]
-   selling this[nl]
-   thorn whip.[nl]
-   Will you[nl]
-   buy it?
+   Ich biete[nl]
+   diese Dornen-[nl]
+   Peitsche an.[nl][nl]
+   Wollt Ihr[nl]
+   sie erwerben?
  
 +052u: ;JA @7245[2:DRQ_MAC2]
    ;JAP: KUSARINOMUCHIWO/KATTEYUKANUKA?
    ;ENG: PURCHASE A/CHAIN WHIP?
    ; In the small town of Veros.
    [nl]
-   This chain[nl]
-   whip is worth[nl]
-   its price.[nl]
-   Are you[nl]
-   interested?
+   Diese Ketten-[nl]
+   Peitsche ist[nl]
+   Ihren Preis[nl]
+   wert.
+   
 
 +053u: ;JA @732D[2:DRQ_MAC2]
    ;JAP: FUNDOUNO MUCHIWO/KATTEYUKANUKA?
    ;ENG: MORNING STAR/- BUY ONE?
    ; In Ondol
    [nl]
-   The tip of[nl]
-   the Morning[nl]
-   Star has a[nl]
-   spiky steel[nl]
-   ball.
-
+   Der Kopf des[nl]
+   Morgensterns[nl]
+   ist wuchtig![nl]
+   Wollt Ihr ihn[nl]
+   erwerben?
 +054u: ;JA @724D[2:DRQ_MAC2]
    ;JAP: TANKENWO/KATTEYUKANUKA?
    ;ENG: WILL YOU BUY/A DAGGER?
    ; In the small town of Veros.
    [nl]
-   Awesome[nl]
-   daggers[nl]
-   for sale!![nl]
-   Super[nl]
-   cheap!!
+   Wollt Ihr[nl]
+   Wurf-Dolche[nl]
+   von mir[nl]
+   erwerben?
    ;HERE'S A[nl]
    ;GREAT DAGGER!![nl]
    ;BUY IT,[nl]
@@ -1486,11 +1496,11 @@
    ;ENG: WANT TO BUY/HOLY WATER?
    ;***********.
    [nl]
-   I sell Holy[nl]
-   Water.[nl]
-   Buy, and[nl]
-   you will not[nl]
-   regret it.
+   Wollt Ihr[nl]
+   Weihwasser[nl]
+   erwerben?[nl]
+   Es wird[nl]
+   Euch helfen!
 
 
 
@@ -1500,37 +1510,38 @@
    ; Meaning: Simon appears sicker and sicker due to the curse eating away his life.
    ;   This girl fliches because Simon looks a bit like something that come from a grave.
    [nl]
-   SHRIEK!![nl][nl]
-   I am terribly[nl]
-   sorry!![nl]
-   I thought[nl]
-   you were[nl]
-   a vampire.
+   HILFE!![nl][nl]
+   Oh,[nl]
+   Entschuldigt![nl]
+   Ich dachte,[nl]
+   Ihr seid[nl]
+   ein Vampier!
 +121u:
    ; Info: Given as a replacement for 056, if player has a crystal and dialog_ext was enabled
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Helpful instruction.
    [nl]
-   Different[nl]
-   crystals have[nl]
-   different[nl]
-   powers.[nl]
-   The red one[nl]
-   is the most[nl]
-   potent one.
+   Jeder[nl]
+   Edelstein[nl]
+   besitzt[nl]
+   Fähigkeiten.[nl]
+   Der Rubin[nl]
+   ist das[nl]
+   stärkste[nl]
+   Juwel.
 +122u:
    ; Info: Given as a replacement for 102, if player has the silk bag and dialog_ext was enabled
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Helpful instruction.
    [nl]
-   You cannot[nl]
-   venture in[nl]
-   wilderness[nl]
-   without[nl]
-   garlic.[nl]
-   Gypsies love[nl]
-   it for a[nl]
-   good reason.
+   Ihr könnt[nl]
+   die Länder[nl]
+   nicht ohne[nl]
+   Knoblauch[nl]
+   durchqueren.[nl]
+   Zigeuner[nl]
+   lieben ihn[nl]
+   deshalb.
    
 +123u:
    ; Info: Given as a replacement for 77, if player has the flame or the ring, and dialog_ext was enabled
@@ -1538,54 +1549,54 @@
    ; Meaning: Different kind of nonsense. The guy previously talked about the flame.
    ;   If the player has the flame, the guy talks about something else than the flame.
    [nl]
-   Dracula's[nl]
-   ring changes[nl]
-   whoever wears[nl]
-   it into a[nl]
-   vampyre.
+   Draculas[nl]
+   Ring ver-[nl]
+   wandelt den[nl]
+   Träger in[nl]
+   einen Vampir.
 
 +124u:
    ; Info: Given as a replacement for 90, if the player is level 0 or 1.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Delivered by the elder person in Yomi.
    [nl]
-   Are you an[nl]
-   idiot, or[nl]
-   do you wish[nl]
-   for death?[nl]
-   It is not[nl]
-   safe here!![nl]
-   Run away[nl]
-   while you[nl]
-   still can.
+   Unfassbar![nl]
+   Wünscht Ihr[nl]
+   Euch so sehr[nl]
+   Euren Tod?[nl]
+   Es ist hier[nl]
+   nicht sicher![nl]
+   Lauft fort[nl]
+   solange Ihr[nl]
+   noch könnt!
 +125u:
    ; Info: Given as a replacement for 90, if the player level is >= 2 but #bodyparts is <2.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Delivered by the elder person in Yomi.
    [nl]
-   Wanderers[nl]
-   avoid Yomi.[nl]
-   You are[nl]
-   different.[nl]
-   Are you[nl]
-   looking for[nl]
-   someone?[nl]
-   No one here[nl]
-   but me.
+   Wanderer[nl]
+   meiden Yomi.[nl]
+   Ihr seid[nl]
+   anders.[nl]
+   Sucht Ihr[nl]
+   Jemanden?[nl]
+   Niemand ist[nl]
+   hier außer[nl]
+   mir.
 +126u:
    ; Info: Also a replacement for 90 in Yomi. Given if player is fully equipped.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Delivered by the elder person in Yomi.
    [nl]
-   Are you[nl]
-   really[nl]
-   going to[nl]
-   the ruins of[nl]
-   the Castle?[nl]
-   Can you not[nl]
-   feel death[nl]
-   emanating[nl]
-   from there?
+   Wolt Ihr[nl]
+   wirklich[nl]
+   zu den[nl]
+   Ruinen des[nl]
+   Schlosses[nl]
+   gehen?[nl]
+   Gebt Acht,[nl]
+   der Tod[nl]
+   lauert dort.
    
 +127u:
    ; Info: Replaces 96 if the player has >= 2 garlic and dialog_ext is enabled.
@@ -1593,13 +1604,13 @@
    ; Meaning: Helpful instruction. Normally the guy talks about garlic.
    ;   If the player already has garlic, he talks about something else.
    [nl]
-   Wanna learn[nl]
-   to fight?[nl]
-   Then you[nl]
-   should fight[nl]
-   in more[nl]
-   unfamiliar[nl]
-   places.
+   Ihr wollt[nl]
+   Euren Kampf[nl]
+   verbessern?[nl]
+   Kämpft in[nl]
+   fremden[nl]
+   Gebieten.
+   
 
 +150u:
    ; Info: Replaces 11 if the player is not showing heart,
@@ -1607,15 +1618,15 @@
    ; Comments: ADDED DIALOGUE.
    ; Meaning: The Ferryman gives this dialogue if there are garlic on screen.
    [nl]
-   Garlic?[nl]
-   Hahahah.[nl]
-   How brave.[nl]
+   Knoblauch?[nl]
+   Harharhar.[nl]
    [nl]
-   Where is the[nl]
-   real hero?!![nl]
-   The one[nl]
-   who undoes[nl]
-   the curse!!
+   Wer hat Euch[nl]
+   das erzählt?[nl]
+   Wo ist der[nl]
+   echte Held,[nl]
+   der den Fluch[nl]
+   bannen kann.
 
 +151u:
    ; Info: Replaces 106 if the player is showing the rosary.
@@ -1624,59 +1635,59 @@
    ;   but immediately notices Simon already has the Rosary.
    ;   The interrupted sentence adds some humor to the situation.
    [nl]
-   When you go[nl]
-   to-...[nl]
-   Is that[nl]
-   the Rosary?[nl]
-   Wow. I did[nl]
-   not believe[nl]
-   you would[nl]
-   actually[nl]
-   do it.
+   Verlass Burg[nl]
+   Laruba nicht[nl]
+   ohne ... [nl]
+   OH! Das[nl]
+   Rosenkreuz!![nl]
+   Ich hätte[nl]
+   nicht an Euch[nl]
+   zweifeln[nl]
+   sollen.
    
 +152u:
    ; Info: This is Bisqwit secret character in Denis Marsh. Number must be &3 = 0.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Talk to this extra NPC once. You get this dialog.
    [nl]
-   Me? What am[nl]
-   I doing here?[nl]
-   Well, being[nl]
-   that I am[nl]
-   the one who[nl]
-   translated[nl]
-   the game, I'm[nl]
-   on vacation.[nl]
-   Sightseeing.
+   Ich? Was ich[nl]
+   hier mache?[nl]
+   Nun, ich bin[nl]
+   der eine, der[nl]
+   das Spiel[nl]
+   übersetzt[nl]
+   hat. Ich bin[nl]
+   hier auf[nl]
+   Reise.
 
 +153u:
    ; Info: Secondary line for Bisqwit.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Talk to this extra NPC twice. You get this dialog.
    [nl]
-   You aren't[nl]
-   lost or[nl]
-   anything?[nl]
-   Be sure to[nl]
-   talk to my[nl]
-   pal in Yomi.[nl]
-   She might[nl]
-   help you.
+   Habt Ihr[nl]
+   Euch verirrt?[nl]
+   Redet auf[nl]
+   jeden Fall[nl]
+   mit meinem[nl]
+   Freundin in[nl]
+   Yomi. Sie[nl]
+   will helfen.
 
 +154u:
    ; Info: Tertiary line for Bisqwit.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Talk to this extra NPC three times. You get this dialog.
    [nl]
-   Yes, it's[nl]
-   really me,[nl]
-   Joel. Now go[nl]
-   back. You're[nl]
-   doing well.[nl]
-   Actually...[nl]
-   Have these[nl]
-   herbs, too.[nl]
-   Good luck.
+   Ja, ich bin[nl]
+   es wirklich.[nl]
+   Joel. Nun[nl]
+   geht zurück.[nl]
+   Ihr macht [nl]
+   gute Arbeit.[nl]
+   Nehmt diese[nl]
+   Kräuter.[nl]
+   Viel Erfolg.
 
 +155u:
    ; Info: Replaces 117 if you have the fire whip.
@@ -1684,58 +1695,57 @@
    ; Meaning: Talk to the NPC after you have fire whip, and you get this line.
    ;   It is a better line than to say you have too weak whip.
    [nl]
-   Your destiny[nl]
-   bears great[nl]
-   weight.[nl][nl]
-   Go, before[nl]
-   it is too[nl]
-   late!![nl]
-   Godspeed.
+   Euer [nl]
+   Schicksal[nl]
+   wird auch[nl]
+   unser[nl]
+   Schicksal[nl]
+   sein.[nl]
+   Viel Erfolg.
 
 +156u:
    ; Info: Ferryman chatter en-route, when going to normal place.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Jump and talk to the ferryman.
    [nl]
-   You cannot[nl]
-   even fish[nl]
-   anymore. I am[nl]
-   at a loss,[nl]
-   what could be[nl]
-   delaying the[nl]
-   great hero we[nl]
-   have been all[nl]
-   praying for?
+   Man kann hier[nl]
+   nicht mal[nl]
+   mehr fischen.[nl]
+   Ach...[nl]
+   Wo ist nur[nl]
+   der Held, auf[nl]
+   den wir alle[nl]
+   warten?
 
 +157u:
    ; Info: Ferryman chatter en-route, when going to special place.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Jump and talk to the ferryman.
    [nl]
-   From the[nl]
-   bottom of[nl]
-   my heart,[nl]
-   I truly pray[nl]
-   for your[nl]
-   success in[nl]
-   defeating the[nl]
-   curse. I miss[nl]
-   fishing...
+   Ich wünschte[nl]
+   mir so sehr,[nl]
+   dass Ihr der[nl]
+   Held seid,[nl]
+   der den Fluch[nl]
+   bannen kann.[nl]
+   Ich vermisse[nl]
+   es, hier zu[nl]
+   fischen...
 
 +158u:
    ; Info: Ferryman chatter en-route, when returning.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Jump and talk to the ferryman.
    [nl]
-   I know this[nl]
-   river like[nl]
-   I know my[nl]
-   own pockets.[nl]
-   Every shoal,[nl]
-   every vortex,[nl]
-   ...and now,[nl]
-   every demon...[nl]
-   Sob...
+   Ich kenne[nl]
+   diesen Fluss[nl]
+   wie meine[nl]
+   Hosentasche.[nl]
+   Jeden Strom,[nl]
+   jeden Wirbel,[nl]
+   ...und nun,[nl]
+   jeden Dämon.[nl]
+   Ach...
 
 ; 13 strings: Short names for each clue
 ; No substring compression for these.
@@ -1744,31 +1754,31 @@
 ; narrow character such as "l". Newlines are not permitted.
 ;
 +159s:
-    Crystal
+    Der Kristall
 +160s:
-    Oak Stake
+    Eichenpflock
 +161s:
-    Brahm's Road
+    Brahms Pfad
 +162s:
-    Sacred Flame
+    Das Feuer
 +163s:
-    Beach
+    Das Ufer
 +164s:
-    Diamond
+    Der Diamant
 +165s:
-    Heart
+    Das Herz
 +166s:
-    Garlic
+    Knoblauch
 +167s:
-    Silk Bag
+    Seidenbeutel
 +168s:
-    Whirlwind
+    Wirbelsturm
 +169s:
-    Nail
+    Der Nagel
 +170s:
-    Living Laurel
+    Lorbeer
 +171s:
-    Death's Ruse
+    Todes List
 
 
 
@@ -1839,11 +1849,11 @@
 ; ^ FIXME: Verify whether placing these in bank0 is RELIABLE even though it works
 
 +11: ;1C8AB->C953
-   [goto:21:CB]GAME START
-   [gotoFD:22:2B]PLAYER  
+   [goto:21:CB]SPIEL START
+   [gotoFD:22:2B]SPIELER  
    [termFE]
 +88: ;1C945->C9BF
-   [goto:22:84]PLEASE WAIT
+   [goto:22:84]BITTE WARTEN
    [termFE]
 
 *t@1C895:m=10000:10000
@@ -1875,115 +1885,115 @@
 *E@12321,12326:m=10000:10000 ;PAL
 
 +00: ;
-   [goto:20:AE]THE BATTLE HAS[term02]
+   [goto:20:AE]DIE SCHLACHT IST[term02]
 +01: ;
-   [goto:20:EE]CONSUMMATED.[term02]
+   [goto:20:EE]GESCHLAGEN.[term02]
 +02: ;
-   [goto:21:2E]NOW PEACE AND[term02]
+   [goto:21:2E]FRIEDE UND[term02]
 +03: ;
-   [goto:21:6E]HAPPINESS HAVE[term03]
+   [goto:21:6E]FREUDE SIND[term03]
 +04: ;
-   [goto:20:AE]BEEN RESTORED[term02]
+   [goto:20:AE]NACH[term02]
 +05: ;
-   [goto:20:EE]TO TRANSYLVANIA[term02]
+   [goto:20:EE]TRANSSYLVANIEN[term02]
 +06: ;
-   [goto:21:2E]AND THE PEOPLE[term02]
+   [goto:21:2E]ZURÜCKGEKEHRT.[term02]
 +07: ;
-   [goto:21:6E]ARE FREE OF[term03]
+   [goto:21:6E]DRACULAS FLUCH[term03]
 +08: ;
-   [goto:20:AE]DRACULA'S[term02]
+   [goto:20:AE]IST FÜR IMMER[term02]
 +09: ;
-   [goto:20:EE]CURSE FOREVER.[term02]
+   [goto:20:EE]GEBANNT.[term02]
 +10: ;
-   [goto:21:2E]AND YOU, SIMON[term02]
+   [goto:21:2E]UND IHR, SIMON[term02]
 +11: ;
-   [goto:21:6E]BELMONT, WILL[term03]
+   [goto:21:6E]BELMONT, WERDET[term03]
 +12: ;
-   [goto:20:AE]ALWAYS BE[term02]
+   [goto:20:AE]FÜR IMMER FÜR[term02]
 +13: ;
-   [goto:20:EE]REMEMBERED FOR[term02]
+   [goto:20:EE]EURE HELDENTATEN[term02]
 +14: ;
-   [goto:21:2E]YOUR BRAVERY[term02]
+   [goto:21:2E]IN ERINNERUNG[term02]
 +15: ;
-   [goto:21:6E]AND COURAGE.[term03]
+   [goto:21:6E]BLEIBEN.[term03]
 
 +16:
-   [goto:20:AE]TOAST, TO THE[term02]
+   [goto:20:AE]JUBEL FÜR[term02]
 +17:
-   [goto:20:EE]VICTORY,[term02]
+   [goto:20:EE]EUREN ERFOLG,[term02]
 +18:
-   [goto:21:2E]ACHIEVED IN[term02]
+   [goto:21:2E]ERREICHT IN[term02]
 +19:
-   [goto:21:6E][05][06] DAYS.[term04]
+   [goto:21:6E][05][06] TAGEN.[term04]
 
 
 +20: ;
-   [goto:20:AE]AND THE BATTLE[term02]
+   [goto:20:AE]DIE SCHLACHT[term02]
 +21: ;
-   [goto:20:EE]ENDED. BUT ON[term02]
+   [goto:20:EE]ENDET. ABER[term02]
 +22: ;
-   [goto:21:2E]ACCOUNT OF THE[term02]
+   [goto:21:2E]SIMON BELMONT[term02]
 +23: ;
-   [goto:21:6E]INJURY SUFFE-[term03]
+   [goto:21:6E]IST SEINEN[term03]
 +24: ;
-   [goto:20:AE]RED DURING THE[term02]
+   [goto:20:AE]VERLETZUNGEN[term02]
 +25: ;
-   [goto:20:EE]BATTLE, SIMON[term02]
+   [goto:20:EE]ERLEGEN.[term02]
 +26: ;
-   [goto:21:2E]BELMONT PASSED[term02]
+   [goto:21:2E]BIS NUN WIEDER[term02]
 +27: ;
-   [goto:21:6E]AWAY. UNTIL A[term03]
+   [goto:21:6E]EIN JUNGER[term03]
 +28: ;
-   [goto:20:AE]YOUNG MAN TO[term02]
+   [goto:20:AE]MANN DIE[term02]
 +29: ;
-   [goto:20:EE]FIGHT AGAINST[term02]
+   [goto:20:EE]KÜHNHEIT BESITZT,[term02]
 +30: ;
-   [goto:21:2E]EVILS LIKE HIM[term02]
+   [goto:21:2E]SICH DER MACHT[term02]
 +31: ;
-   [goto:21:6E]COMES AGAIN TO[term03]
+   [goto:21:6E]DES BÖSEN ZU[term03]
 +32: ;
-   [goto:20:AE]THIS WORLD,[term02]
+   [goto:20:AE]STELLEN, WERDEN[term02]
 +33: ;
-   [goto:20:EE]TRANSYLVANIANS[term02]
+   [goto:20:EE]DIE BÜRGER VON[term02]
 +34: ;
-   [goto:21:2E]WILL KEEP PRAY-[term02]
+   [goto:21:2E]TRANSSYLVANIEN[term02]
 +35: ;
-   [goto:21:6E]ING FOREVER.[term03]
+   [goto:21:6E]BETEN MÜSSEN.[term03]
 +36: ;
-   [goto:20:AE]THERE SHOULD BE SOME SECRET TEXT HERE.[term04]
+   [goto:20:AE]HIER STEHT EIN GEHEIMER TEXTT.[term04]
 
 +37: ;
-   [goto:20:AE]THE BATTLE[term02]
+   [goto:20:AE]DER KAMPF MIT[term02]
 +38: ;
-   [goto:20:EE]WITH DRACULA[term02]
+   [goto:20:EE]DRACULA IST[term02]
 +39: ;
-   [goto:21:2E]HAS CONCLUDED.[term02]
+   [goto:21:2E]GESCHLAGEN.[term02]
 +40: ;
    [goto:21:6E]SIMON BELMONT[term03]
 +41: ;
-   [goto:20:AE]HAS PUT AN END[term02]
+   [goto:20:AE]BEENDETE DIE[term02]
 +42: ;
-   [goto:20:EE]TO THE ETERNAL[term02]
+   [goto:20:EE]EWIGE FINSTERNIS[term02]
 +43: ;
-   [goto:21:2E]DARKNESS IN[term02]
+   [goto:21:2E]TRANSSYLVANIENS.[term02]
 +44: ;
-   [goto:21:6E]TRANSYLVANIA.[term03]
+   [goto:21:6E]SEIN BLUT UND[term03]
 +45: ;
-   [goto:20:AE]HIS BLOOD AND[term02]
+   [goto:20:AE]SEIN SCHWEISS[term02]
 +46: ;
-   [goto:20:EE]SWEAT HAVE[term02]
+   [goto:20:EE]DÜNGTEN DIE[term02]
 +47: ;
-   [goto:21:2E]PENETRATED THE[term02]
+   [goto:21:2E]ERDE UND[term02]
 +48: ;
-   [goto:21:6E]EARTH AND WILL[term03]
+   [goto:21:6E]SCHAFFTEN[term03]
 +49: ;
-   [goto:20:AE]INDUCE PEACE &[term02]
+   [goto:20:AE]FRIEDE UND[term02]
 +50: ;
-   [goto:20:EE]SERENITY FOR[term02]
+   [goto:20:EE]RUHE FÜR JENE,[term02]
 +51: ;
-   [goto:21:2E]THOSE WHO WALK[term02]
+   [goto:21:2E]DIE DURCH DAS[term02]
 +52: ;
-   [goto:21:6E]ON THIS LAND.[term03]
+   [goto:21:6E]LAND SCHREITEN.[term03]
 
 +53:;
    [goto:20:00]
@@ -2022,12 +2032,25 @@
 
 +0: ;whip name 
    ;#########
-   Leath.Whip 
+   Leder      
 +1: ;whip name 
-   Thorn Whip 
+   Dornen     
 +2: ;whip name 
-   Chain Whip 
+   Kette      
 +3: ;whip name 
-   MorningStar
+   Morgenstern
 +4: ;whip name 
-   Fire Whip  
+   Feuer      
+
+*** Datei '(Unbenannt)'
+test.txt
+credits.txt
+test.txt
+cv2.jsf
+sram.txt
+vrom.txt
+script.txt
+script.txt
+script.cv2
+script.cv2
+deu_20151116/script.cv2
