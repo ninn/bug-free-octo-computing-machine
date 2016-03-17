@@ -1,0 +1,72 @@
+// This is our font for map graphics
+// Specified in f@37000 in language/eng_script.txt
+{"charset" : " ABCDEFGHIJKLMNOP'RSTUVYW",
+ "names" : {
+  ///
+   "0" :  "Town of Jova",         // YO-BA
+   "1" :  "Town of Veros",        // BEROZU
+   "2" :  "Town of Aljiba",       // ORUJIBA
+   "3" :  "Town of Aldra",        // ARUDORA
+   "4" :  "Town of Ondol",        // ONDORU
+   "5" :  "Town of Doina",        // DOINA
+   "6" :  "Town of Yomi",         // YOMI
+  //
+   "7" :  "Berkeley mansion",// BA-KUREI NO YAKATA  (yakata = mansion, small castle)
+   "8" :  "Rover mansion",  // RO-BA- NO YAKATA
+   "9" :  "Bram's mansion",  // BURA-MU NO YAKATA
+  "10" :  "Bathory mansion", // BADORI- NO YAKATA
+  "11" :  "Laruba mansion", // RARUBA NO YAKATA
+  //
+  "12" :  "Sadam woods",  // ZADAMU
+  "13" :  "Jova woods",    // YO-BA
+  "14" :  "Veros woods", // BEROZU
+  "15" :  "Denis forest", // DENISU NO MORI
+  "16" :  "Forest of Aljiba",  // ORUJIBA
+  "17" :  "Dora woods",   // DO-RA. Why is this not forest of Yomi?
+  "18" :  "Devious woods",   // DEBIASU. Debious/Devious woods ("debiazu") includes a river
+  //
+  "19" :  "Southern bridge", // Between Jova and Veros 
+  "20" :  "Northern bridge", // Between Doina and Yomi
+  "21" :  "Eastern bridge",   // Leads to Denis marsh (dead end)
+  "22" :  "Western bridge",  // Leads to ruins
+
+  "23" :  "Strigoi cemetery", // STORIGOI BOCHI
+  "24" :  "Carmilla cemetery", // KA-MIRA BOCHI
+  "25" :  "Vlad graveyard",   // VURADO BOCHI
+
+  "26" :  "Belasco marsh",       // BERASUKO NO NUMA (Note: Bela Lucosi = BERA RUGOJI)
+  "27" :  "Joma swamp",          // JOMA
+  "28" :  "Denis marsh pit", // DENISU
+
+  "29" :  "Dead river",     // DEDDORIBA-
+
+  "30" :  "Deborah cliff",  // DEBORA NO GAKE
+  "31" :  "Jam wasteland",    // JAMU NO ARECHI
+
+  "32" :  "Dabi's path",   // DABI NO CHIKADOU
+  "33" :  "Uta cavern",   // Does not occur in Japanese
+  "34" :  "Wicked ditch",  // JAAKU NO MIZO (not in map). Wicked ditch
+
+  "35" :  "The ruins",
+  
+  // Misc town places
+  "36" :  "A church",
+
+  "37" :  "Uta upper road",
+  "38" :  "The altar", // Raunioissa
+  "39" :  "Aljiba cavern", // Lower road. It's a cave...
+  "40" :  "Lake of Yuba",// Lake of Yuba
+  "41" :  "Lake of Uta"
+},
+  "shortnames" : {
+  "0":"tJOVA", "1":"tVEROS", "2":"tALJIBA", "3":"tALDRA", "4":"tONDOL", "5":"tDOINA", "6":"tYOMI",
+  "7":"mBERKELEY", "8":"mROVER", "9":"mBRAHM", "10":"mBODLEY", "11":"mLARUBA",
+  "12":"fSADAM", "13":"fJOVA", "14":"fVEROS", "15":"fDENIS", "16":"fALJIBA", "17":"fDORA", "18":"fDEBIOUS",
+  "19":"bSOUTH", "20":"bNORTH", "21":"bEAST", "22":"bWEST",
+  "23":"cSTRIGOI", "24":"cCARMILLA", "25":"cVLAD",
+  "26":"aBELASCO", "27":"aJOMA", "28":"aDENIS",
+  "29":"wRIVER",
+  "30":"DEBORAH", "31":"JAM", "32":"vDABI", "33":"UTA", "34":"DITCH",
+  "35":"RUINS", "36":"CHURCH",
+  "37":"vUTA", "38":"RUINS", "39":"vALJIBA", "40":"wYUBA", "41":"wUTA"
+}}

@@ -1,0 +1,31 @@
+// This configures the secondary ending screen that was added after
+// the normal ending, to compensate for the fact that the USA/PAL
+// releases did away with the staff credits of the Japanese version.
+{"title" : "PROGRAMMED WITH THE
+FOLLOWING CHARACTERISTICS:",
+ "after" : "THANKS FOR PLAYING,
+SEE YOU AGAIN! THE END.",
+ "actors" : {
+      "AKAMATSU" : "INVINCIBILITY", // H., design, or maybe programmer
+      "IWASA" : "PERMANENCE",
+      "TOGAKUSHI" : "PHILOSOPHY", // N. 
+      "KAWANISHI" : "MASTERPIECE",
+      "HATANO" : "SENSITIVITY",
+      "TERASHIMA" : "EXCELLENCE", // Possibly Satoe Terashima (composer)
+      "KUWAHARA" : "AMBIVALENCE",
+      "HIGASA" : "FLOURISH",
+      "OHYAMA" : "ADMIRATION",
+      "MATSUOKA" : "WARM-HEART",
+      "MURATA" : "SUPERIORITY",
+      "MATSUBARA" : "SYNCHRONISM", // Kenichi, music
+      "YLILUOMA" : "INSIGHT",
+
+      "[F8][21][22][23][24][25][26][27][28][29][2A][2B][F8][F8]
+[30][31][32][33][34][35][2C][2D][2E][2F][42][43][F8][F8]
+[40][41][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8][F8]"  :  "CIRCUMSTANCE" 
+    },
+    
+    "last" :
+      "[E0][E0][EA][E0][E0][EA][E0][E0][F8][61][E0][E0][E0][E0][F8][83][E0][E0][F8][80][81][82][E0][E0][E0][E0]
+[58][E0][E0][F8][5C][54][55][6F][57][70][69][59][84][85][86][87][88][89][5B][F8][F8][F8][F8][F8][F8][F8]"
+}

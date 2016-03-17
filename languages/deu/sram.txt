@@ -1,0 +1,28 @@
+{"no":      "No",
+ "load":    "Load",
+ "damaged": "Damaged",
+ "cancel":  "Cancel",
+
+ "charset_required": "acCdDeglLmnNo",
+ 
+ // We could do Damaged in red, but "e" is also in Cancel and "a","d" in Load...
+ 
+ "charset_implemented":
+   { "e": 0x9F,
+     "s": 0xB7,
+     " ": 0xF8,
+     
+     "a": 0xDC,
+     "c": 0x53,
+     "d": 0xAF,
+     "D": 0xB4,
+     "g": 0x60,
+     "l": 0x62,
+     "L": 0x56,
+     "m": 0x5D,
+     "n": 0x64,
+     "N": 0x65,
+     "o": 0x63,
+     "C": 0xFA
+   }
+}
