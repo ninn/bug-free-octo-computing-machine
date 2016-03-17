@@ -25,102 +25,102 @@
    [4D][4D][4D][4D]
    [4D][4D][4D][4D][nl][nl]
    <= [termFB]
-+004s: ;YOUR LEVEL/OF SKILL HAS/INCREASED TO/1.
-   [nl]You now[nl][nl]possess[nl][nl]Dracula's[nl][nl][termFB]
-+005s: ;TAITOSI OVAT KEHITTYNEET. TASOSI ON NYT 1.
-   [nl]the [termFB]
-+006s: ;JA @AE5F[0:DRQ_MAC0]: KONOSHUNKAN/SONATAHA DORAKYURANO/
-    you[termFB]
-+007s: ;JA @AE5F[0:DRQ_MAC0]: KONOSHUNKAN/SONATAHA DORAKYURANO/
-    to[nl]Dracula's[nl]riddle[termFB]
-+008s: ;JA @AE5F[0:DRQ_MAC0]: KONOSHUNKAN/SONATAHA DORAKYURANO/
-    the[termFB]
-+009s: ;JA @AE5F[0:DRQ_MAC0]: KONOSHUNKAN/SONATAHA DORAKYURANO/
-   [nl]The[termFB]
-+010s: ;JA @AE5F[0:DRQ_MAC0]: KONOSHUNKAN/SONATAHA DORAKYURANO/
-   , but[nl]I would like[nl]to exchange[nl]it for[termFB]
-+021s: ;JA @6D9C[0?]: AyuO
-   [nl]Mansion[termFB]
-+022s: ;JA @AE5F[0:DRQ_MAC0]: KONOSHUNKAN/SONATAHA DORAKYURANO/
-   [nl]you [termFB]
-+023s: ;JA @AE75[0:DRQ_MAC0]: WO/TENIIRETA
-   [nl]laurels[termFB]
-+042s: ;JA @AE5F[0:DRQ_MAC0]: KONOSHUNKAN/SONATAHA DORAKYURANO/
-   ing[termFB]
-+043s: ;JA @AE5F[0:DRQ_MAC0]: KONOSHUNKAN/SONATAHA DORAKYURANO/
-   a.[nl]You must go[nl]and meet him.
-+045s: ;JA @67CD[0?]: DORAKYURANO NAZOWO/TOKU BUNKENGA/
++004s: ; Best saving (104) with:
+   [nl]Ihr besitzt[nl][nl]nun[nl][nl]Draculas[nl][nl][termFB]
++005s: ; Best saving (86) with:
+   Draculas[nl]Vermächtnis[termFB]
++006s: ; Best saving (56) with:
+   [nl]Ich [termFB]
++007s: ; Best saving (52) with:
+   Euch[termFB]
++008s: ; Best saving (52) with:
+   t Ihr[nl][termFB]
++009s: ; Best saving (50) with:
+   eine[termFB]
++010s: ; Best saving (42) with:
+   en[nl][termFB]
++021s: ; Best saving (36) with:
+   Ihr [termFB]
++022s: ; Best saving (34) with:
+   er[nl][termFB]
++023s: ; Best saving (33) with:
+   er [termFB]
++042s: ; Best saving (32) with:
+   cht[termFB]
++043s: ; Best saving (31) with:
+   Knoblauch[termFB]
++045s: ; Best saving (29) with:
+   en [termFB]
++046s: ; Best saving (28) with:
+   en.
++039s: ; Best saving (21) with:
+   sch[termFB]
++040s: ; Best saving (20) with:
    [nl][60][60][60][termFB]
-+046s: ;JA @67E6[0?]: NI/NEMURUTO/TSUTAERARETEIRU
-   Dracula[termFB]
-+039s: ;JA @678D[0?]: SUISHOU
-   crystal[termFB]
-+040s: ;JA @6793[0?]: WO/KATTEYUKANUKA?
-    will[nl][termFB]
-+041s: ;JA @679E[0?]: GEKKEIJU
++041s: ; Best saving (17) with:
+   ch[nl][termFB]
++044s: ; Best saving (17) with:
+   erwerben?[termFB]
++108s: ; Best saving (17) with:
+   Draculas[nl][termFB]
++109s: ; Best saving (17) with:
+   [nl]Woll[termFB]
++110s: ; Best saving (17) with:
    [4D][4D][4D][termFB]
-+044s: ;JA @67B3[0?]: WO/TORIKAE ANATANI/WATASHINOOMOIWO/TAKUSOU
-   [nl]a [termFB]
-+108s: ;JA @0000[0?]:
-   with[termFB]
-+109s: ;JA @0000[0?]:
-   some[termFB]
-+110s: ;JA @0000[0?]:
-   [nl]Please[termFB]
-+111s: ;JA @0000[0?]:
-   [nl]of [termFB]
-+112s: ;JA @0000[0?]:
-   really[nl][termFB]
-+113s: ;JA @0000[0?]:
-   her[termFB]
-+114s: ;JA @0000[0?]:
-   curse[termFB]
-+115s: ;JA @0000[0?]:
-   [nl]I [termFB]
-+128s: ;JA @0000[0?]:
-    to[termFB]
-+129s:
-    is[termFB]
-+130s:
-   and[termFB]
-+131s:
-   garlic[termFB]
-+132s:
-   ould[termFB]
-+133s:
-   [nl]Obtained[nl][termFB]
-+134s:
-   Woods[termFB]
-+135s:
-   [nl]Let's [termFB]
-+136s:
-   emetery[termFB]
-+137s:
-    a giant[nl]diamond[termFB]
-+138s:
-   [nl]to[termFB]
-+139s:
-   that[termFB]
-+140s:
-   [nl]sapphire[termFB]
-+141s:
-    in[termFB]
-+142s:
-   ive[termFB]
-+143s:
-   take[termFB]
-+144s:
-   est[termFB]
-+145s:
-   [nl]in [termFB]
-+146s:
-   ight[termFB]
-+147s:
-    walls.
-+148s:
-   [nl]will [termFB]
-+149s:
-   [nl]your [termFB]
++111s: ; Best saving (16) with:
+   Seidenbeutel[termFB]
++112s: ; Best saving (16) with:
+   ist [termFB]
++113s: ; Best saving (16) with:
+   erlass[termFB]
++114s: ; Best saving (14) with:
+   [nl]das[termFB]
++115s: ; Best saving (14) with:
+   nde[termFB]
++128s: ; Best saving (14) with:
+   in [termFB]
++129s: ; Best saving (14) with:
+   erste[termFB]
++130s: ; Best saving (14) with:
+   [nl]Rosenkreuz[termFB]
++131s: ; Best saving (13) with:
+   n Pflock[nl]aus Eiche[nl][termFB]
++132s: ; Best saving (12) with:
+   die[termFB]
++133s: ; Best saving (12) with:
+   nehmt[nl][termFB]
++134s: ; Best saving (11) with:
+   in[nl][termFB]
++135s: ; Best saving (11) with:
+   ristall[termFB]
++136s: ; Best saving (11) with:
+   riedhof[termFB]
++137s: ; Best saving (11) with:
+   wartet [termFB]
++138s: ; Best saving (9) with:
+   ann[termFB]
++139s: ; Best saving (9) with:
+   .[nl]Viel Erfolg.
++140s: ; Best saving (9) with:
+   ver[termFB]
++141s: ; Best saving (8) with:
+   Edelst[termFB]
++142s: ; Best saving (8) with:
+   Aljiba[termFB]
++143s: ; Best saving (8) with:
+   es [termFB]
++144s: ; Best saving (8) with:
+   luss[termFB]
++145s: ; Best saving (8) with:
+   auf[termFB]
++146s: ; Best saving (8) with:
+   hier[termFB]
++147s: ; Best saving (8) with:
+   Spur[termFB]
++148s: ; Best saving (8) with:
+   Lorbe[termFB]
++149s: ; Best saving (8) with:
+   besitz[termFB]
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -184,7 +184,7 @@
    ;   ("maou", literally meaning "king of evil").
    ;   In Chrono Trigger, Magus's name was also "maou".
    ; Comments: Clue 2, in Berkeley Mansion. Hinted by string 80.
-   GepfÃ¤hlt mit[nl]
+   Gepfählt mit[nl]
    einen Pflock[nl]
    aus Eiche[nl]
    werden die[nl]
@@ -252,8 +252,8 @@
    Die alte[nl]
    Zigeunerin[nl]
    aus Jams[nl]
-   EinÃ¶de wacht[nl]
-   Ã¼ber einen[nl]
+   Einöde wacht[nl]
+   über einen[nl]
    wertvollen[nl]
    Edelstein.
 +034u: ;JA @6478[6:DRQ_YK_2]
@@ -281,7 +281,7 @@
    Knoblauch am[nl]
    Friedhof[nl]
    erlegt[nl]
-   DÃ¤monen.[nl]
+   Dämonen.[nl]
    [nl]
    Jemand wird[nl]
    auf Euch[nl]
@@ -298,10 +298,10 @@
    In einem[nl]
    Seidenbeutel[nl]
    gelagerte[nl]
-   KrÃ¤uter[nl]
-   leben auf![nl]
+   Kräuter[nl]
+   leben auf!![nl]
    Das ist sehr[nl]
-   mÃ¤chtig.
+   mächtig.
 +036u: ;JA @63F1[7:DRQ_YK_3]
    ;ENG: WAIT FOR A/SOUL WITH A/RED CRYSTAL/ON DEBORAH/CLIFF.
    ;JAP: DEBORANOGAKENO/MAEDE/AKASUISHOUWO/KAKAGE/KAZEWOMATE
@@ -330,9 +330,9 @@
    Draculas[nl]
    Nagel besitzt[nl]
    die Macht[nl]
-   trÃ¼gerische[nl]
-   WÃ¤nde[nl]
-   umzureiÃŸen.
+   trügerische[nl]
+   Wände[nl]
+   umzureißen.
 +037u: ;JA @647A[8:DRQ_YK_4]
    ;ENG: THE CURSE/HAS KILLED/THE LAUREL/TREE.
    ;JAP: INOCHIARU/GEKKEIJUNAKIMONO/NUMANONOROINI/INOCHITSUKIRU
@@ -375,7 +375,7 @@
    ;***********.
    [4D][4D][4D][4D]JOVA[4D][4D][4D][4D]
    [gosubFC:02]
-   WÃ¤lder von[nl]
+   Wälder von[nl]
    [60][60][60]Jova
    [gosubFC:03]
    Belasco[nl]
@@ -389,9 +389,9 @@
    [4D][4D][4D]VEROS[4D][4D][4D][4D]
    [gosubFC:02]
    Dabis[nl]
-   [60][60][60]HÃ¶hlenweg
+   [60][60][60]Höhlenweg
    [gosubFC:03]
-   WÃ¤lder von[nl]
+   Wälder von[nl]
    [60][60][60]Veros
 +081u: ;JA @7262[1:DRQ_MAC1]
    ;JAP: MIGI/KAMI-RABOCHI/HIDARI/ORUJIBANO MORI
@@ -419,9 +419,9 @@
    Sadams[nl]
    [60][60][60]Wald
    [gosubFC:03]
-   NÃ¶rdliche[nl]
+   Nördliche[nl]
    [60][60][60]Jams[nl]
-   [60][60][60]EinÃ¶de
+   [60][60][60]Einöde
 +082u: ;JA @734D[0:DRQ_MAC0]
    ;JAP: MIGI/DEDDORIBA-/HIDARI/ZADAMUNO MORI
    ;ENG: TURN RIGHT/FOR THE DEAD/RIVER, LEFT/FOR THE /SADAM WOODS.
@@ -445,10 +445,10 @@
    [4D][4D][4D]DOINA[4D][4D][4D][4D]
    ;***********.
    [gosubFC:02]
-   BrÃ¼cke nach[nl]
+   Brücke nach[nl]
    [60][60][60]Norden
    [gosubFC:03]
-   BÃ¶ser[nl]
+   Böser[nl]
    [60][60][60]Graben
 +084u: ;JA @740E[1:DRQ_MAC1]
    ;JAP: MIGI/VURADOBOCHI/HIDARI/DO-RANO MORI
@@ -492,10 +492,10 @@
    ;***********.
    [nl]
    Es geht das[nl]
-   GerÃ¼cht,[nl]
+   Gerücht,[nl]
    am Friedhof[nl]
    der Strigoi[nl]
-   wÃ¤ren auch[nl]
+   wären auch[nl]
    Edelsteine[nl]
    verscharrt.
 +070u: ;JA @7396[2:DRQ_MAC2]
@@ -507,7 +507,7 @@
    ; Info: Guy in 2nd stair in town of Ondol
    ;***********.
    [nl]
-   GrÃ¼ÃŸ Gott![nl][nl]
+   Grüß Gott!![nl][nl]
    Glaubt Ihr[nl]
    an Gott?[nl][nl]
    Euer Glaube[nl]
@@ -522,7 +522,7 @@
    ;***********.
    Bringt bitte[nl]
    meine Tochter[nl]
-   weg von hier![nl]
+   weg von hier!![nl]
    Das ist mein[nl]
    einziger[nl]
    Wunsch.
@@ -544,7 +544,7 @@
    Seht Ihr den[nl]
    Gevatter Tod[nl]
    ist es um[nl]
-   Euch vorbei!
+   Euch vorbei!!
 
 
 +074u: ;JA @73FB[2:DRQ_MAC2]
@@ -555,12 +555,12 @@
    ; Info: Monk in 1st stair(ground) in town of Ondol
    ;***********.
    Ich flehe[nl]
-   Euch an![nl][nl]
+   Euch an!![nl][nl]
    Bringt mich[nl]
-   weg von hier![nl][nl]
+   weg von hier!![nl][nl]
    Ich will[nl]
    hier nicht[nl]
-   sterben!
+   sterben!!
 +075u: ;JA @741D[2:DRQ_MAC2]
    ;ENG: WHEN I WAS/YOUR AGE,/WOMEN LOVED/ME.
    ;JAP: JIMANJANAIGA/KOREDEMO WASHIHA/MUKASHI ONNANI/YOKU MOTETAMONOJA
@@ -616,13 +616,13 @@
    ; Info: Lady in 3rd stair in town of Aldra
    ;***********.
    [nl]
-   FÃ¼r ein[nl]
-   groÃŸes Loch[nl]
+   Für ein[nl]
+   großes Loch[nl]
    schlagt doch[nl]
    Euren[nl]
-   SchÃ¤del gegen[nl]
+   Schädel gegen[nl]
    die Klippen[nl]
-   von Deborah!
+   von Deborah!!
 +104u: ;JA @7418[0:DRQ_MAC0]
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN BODLEY/MANSION.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/BADORI-NOYAKATANI/NEMURUTO/TSUTAERARETEIRU
@@ -633,7 +633,7 @@
    [nl]
    Spuren zu[nl]
    Draculas[nl]
-   VermÃ¤chtnis[nl]
+   Vermächtnis[nl]
    findet Ihr[nl]
    in Burg[nl]
    Bathory.
@@ -647,7 +647,7 @@
    ;***********.
    [nl]
    Ihr seid eine[nl]
-   Augenweide![nl][nl]
+   Augenweide!![nl][nl]
    Ich sehnte[nl]
    mich nach[nl]
    einem wie[nl]
@@ -668,10 +668,10 @@
    [nl]
    Der[nl]
    Seidenbeutel[nl]
-   vom WÃ¤chter[nl]
+   vom Wächter[nl]
    der Strigoi[nl]
-   verlÃ¤ngert[nl]
-   Euer Leben!
+   verlängert[nl]
+   Euer Leben!!
 
 +098u: ;JA @73D5[0:DRQ_MAC0]
    ;JAP: ANATAGA HOSHII
@@ -684,7 +684,7 @@
    Bleibt heute[nl]
    Nacht hier.[nl][nl]
    Ich meine es[nl]
-   gut mit Euch!
+   gut mit Euch!!
 +089u: ;JA @72DF[1:DRQ_MAC1]
    ;ENG: DRACULA'S/EYEBALL/REFLECTS/THE CURSE.
    ;JAP: NOROINIYORI/TOZASARESHIMONO/DORAKYURANO/MEDAMANIYORI/UTSUSHIDASARERU
@@ -697,7 +697,7 @@
    [nl]
    Draculas[nl]
    Auge[nl]
-   Ã¼bersieht[nl]
+   übersieht[nl]
    die Zierden[nl]
    des Fluches.[nl]
 
@@ -713,7 +713,7 @@
    [nl]
    Geht, und[nl]
    kauft einen[nl]
-   Kristall![nl]
+   Kristall!![nl]
    [nl]
    So nimmt es[nl]
    seinen[nl]
@@ -729,10 +729,10 @@
    [nl]
    In der Stadt[nl]
    gibt es[nl]
-   HÃ¤ndler, die[nl]
+   Händler, die[nl]
    sich hinter[nl]
    falschen[nl]
-   WÃ¤nden[nl]
+   Wänden[nl]
    verstecken.
 
    
@@ -748,10 +748,10 @@
    [nl]
    Dreizehn[nl]
    Spuren[nl]
-   kÃ¶nnt Ihr[nl]
+   könnt Ihr[nl]
    folgen, -[nl]
    Jede Spur[nl]
-   lÃ¼ftet ein[nl]
+   lüftet ein[nl]
    Geheimnis.
 +061u: ;JA @726D[0:DRQ_MAC0]
    ;JAP: ARUDORANOMACHINI/SONATANONAKAMAGA IRU/KANARAZU AINASARE
@@ -763,7 +763,7 @@
    Ein Freund[nl]
    wartet in der[nl]
    Stadt Aldra.[nl]
-   Ihr mÃ¼sst[nl]
+   Ihr müsst[nl]
    Ihn[nl]
    aufsuchen,[nl]
    egal was[nl]
@@ -775,9 +775,9 @@
    ; Comments: Nonsense, but he would love to see something else.
    ; Info: Man in 1st stair in town of Jova
    Kennt Ihr den[nl]
-   FÃ¤hrmann am[nl]
+   Fährmann am[nl]
    Toten Fluss?[nl][nl]
-   Man erzÃ¤hlt,[nl]
+   Man erzählt,[nl]
    dass er immer[nl]
    Knoblauch[nl]
    essen kann.
@@ -810,7 +810,7 @@
    ein Buch[nl]
    versteckt,[nl]
    das Draculas[nl]
-   VermÃ¤chtnis[nl]
+   Vermächtnis[nl]
    entziffern[nl]
    kann.
 +065u: ;JA @72B4[0:DRQ_MAC0]
@@ -823,10 +823,10 @@
    [nl]
    Weihwasser[nl]
    bereitet[nl]
-   DÃ¤monen[nl]
-   HÃ¶llenqualen[nl]
+   Dämonen[nl]
+   Höllenqualen[nl]
    und bricht[nl]
-   trÃ¼gerische[nl]
+   trügerische[nl]
    Mauern.
 ;;;; Veros NPCs ;;;;
 
@@ -844,9 +844,9 @@
    wird Euch[nl]
    wie ein[nl]
    Schild vor[nl]
-   den MÃ¤chten[nl]
-   des BÃ¶sen[nl]
-   schÃ¼tzen.
+   den Mächten[nl]
+   des Bösen[nl]
+   schützen.
 +067u: ;JA @72D2[2:DRQ_MAC2]
    ;JAP: GEKKEIJUHA/SHICHU-NIIRERUTO/IIKAORIGA SURU
    ;ENG: LAURELS IN/YOUR SOUP/ENHANCES ITS/AROMA.
@@ -872,7 +872,7 @@
    [nl]
    Spuren zu[nl]
    Draculas[nl]
-   VermÃ¤chtnis[nl]
+   Vermächtnis[nl]
    findet Ihr[nl]
    in der Burg[nl]
    Berkeley.
@@ -885,13 +885,13 @@
    ; Info: Monk on ground in town of Veros
    ;   Note: Dialogs 072 (man) and 080 (monk) have been exchanged.
    ;***********.
-   GÃ¼tiger[nl]
-   Himmel! Seid[nl]
-   Ihr blass![nl]
+   Gütiger[nl]
+   Himmel!! Seid[nl]
+   Ihr blass!![nl]
    Bitte ...[nl][nl]
    Ruht Euch in[nl]
    der Kirche[nl]
-   aus! 
+   aus!! 
 +079u: ;JA @7312[2:DRQ_MAC2]
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN THE TOWN/OF ALBA.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/ORUJIBANOMACHINI/NEMURUTO/TSUTAERARETEIRU
@@ -902,7 +902,7 @@
    [nl]
    Eine Spur zu[nl]
    Draculas[nl]
-   VermÃ¤chtnis[nl]
+   Vermächtnis[nl]
    wurde in der[nl]
    Stadt Aljiba[nl]
    versteckt.
@@ -920,7 +920,7 @@
    Was auch[nl]
    passiert, [nl]
    sucht ihn[nl]
-   auf!
+   auf!!
 
 ;;;; Alba/Aljiba NPCs ;;;;
 
@@ -935,12 +935,12 @@
    ;***********.
    [nl]
    Die[nl]
-   SpezialitÃ¤t[nl]
+   Spezialität[nl]
    unserer Stadt[nl]
    ist frischer[nl]
    Knoblauch.[nl]
    Holt Euch[nl]
-   welchen!
+   welchen!!
 
 +103u: ;JA @736D[1:DRQ_MAC1]
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/BEROSUNOMORINI/NEMURUTO/TSUTAERARETEIRU
@@ -953,7 +953,7 @@
    [nl]
    Spuren zu[nl]
    Draculas[nl]
-   VermÃ¤chtnis?[nl]
+   Vermächtnis?[nl]
    [nl]
    Sucht im[nl]
    Wald von[nl]
@@ -968,11 +968,11 @@
    [nl]
    Spuren zu[nl]
    Draculas[nl]
-   VermÃ¤chtnis?[nl]
+   Vermächtnis?[nl]
    Sucht in der[nl]
    Roversburg.[nl]
    [nl]
-   Ich hÃ¶rte,[nl]
+   Ich hörte,[nl]
    dort findet[nl]
    man welche.
 +091u: ;JA @7308[1:DRQ_MAC1]
@@ -990,9 +990,9 @@
    Lorbeerblatt[nl]
    kann Euch[nl]
    vor den[nl]
-   bÃ¶sartigen[nl]
-   SumpfdÃ¤mpfen[nl]
-   beschÃ¼tzen.
+   bösartigen[nl]
+   Sumpfdämpfen[nl]
+   beschützen.
 +088u: ;JA @72B6[1:DRQ_MAC1]
    ;JAP: NOROWARESHI/DEDDORIBA-/IMANAO NOROIWO/TOKUMONO MACHIWABIRU/KAWA
    ;ENG: THE DEAD/RIVER WAITS/TO BE FREED/FROM THE/CURSE.
@@ -1000,10 +1000,10 @@
    ; Info: Lady on 2nd stair in town of Aljiba
    Dieser[nl]
    verfluchte[nl]
-   Totenfluss![nl][nl]
+   Totenfluss!![nl][nl]
    Der Fluss[nl]
    wartet noch[nl]
-   sehnsÃ¼chtg[nl]
+   sehnsüchtg[nl]
    auf den Bann[nl]
    des Fluches.
 +087u: ;JA @7284[1:DRQ_MAC1]
@@ -1042,12 +1042,12 @@
    ; Info: Monk on ground in town of Doina
    [nl]
    Ihr schon[nl]
-   wieder![nl][nl]
+   wieder!![nl][nl]
    Ich habe so[nl]
    innig gehofft[nl]
    Euch nie[nl]
    wieder sehen[nl]
-   zu mÃ¼ssen.
+   zu müssen.
 
 +100u: ;JA @73C1[1:DRQ_MAC1]
    ;ENG: GET BACK!!
@@ -1067,10 +1067,10 @@
    Dank Euch[nl]
    sind die[nl]
    Blutsauger[nl]
-   wieder hier![nl][nl]
+   wieder hier!![nl][nl]
    Geht, und[nl]
    kommt nie[nl]
-   wieder!
+   wieder!!
 +106u: ;JA @73EA[1:DRQ_MAC1]
    ;ENG: THE CROSS IN/LARUBA'S /MANSION MUST/BE FOUND.
    ;JAP: RARUBANOYAKATADE/ROZARIOWO/KANARAZU/TENIIRERUNJAZO
@@ -1095,8 +1095,8 @@
    nicht ohne[nl]
    das[nl]
    Rosenkreuz.[nl]
-   Ihr mÃ¼sst es[nl]
-   finden!
+   Ihr müsst es[nl]
+   finden!!
 
 
 ;;;; Yomi/Ghulash NPCs ;;;;
@@ -1130,7 +1130,7 @@
    Ich werde[nl]
    Euch an[nl]
    einen guten[nl]
-   Ort bringen![nl]
+   Ort bringen!![nl]
    Har-har!!
 
 +012u: ;JA @6740[10:DRQ_E_00]
@@ -1144,7 +1144,7 @@
    Euch zum[nl]
    Ort Eurer[nl]
    Bestimmung[nl]
-   fÃ¼hren![nl]
+   führen!![nl]
 
 ; Was unused, but now is used.
 +019u: ;JA @6D83[9:DRQ_ETC2]
@@ -1156,10 +1156,10 @@
    Ihr habt es[nl]
    vollendet?[nl]
    Dann auf-auf[nl]
-   zurÃ¼ck ins[nl]
+   zurück ins[nl]
    Belasco[nl]
    Sumpfland.[nl]
-   Har-Har-Har!
+   Har-Har-Har!!
 ;;;; "Friend" ;;;;
 
 +085u: ;JA @7278[1:DRQ_MAC1]
@@ -1168,12 +1168,12 @@
    ; This guy lives in Aljiba / Alba
    [nl]
    Ich besitze[nl]
-   einen Saphir![nl]
-   Ich Ã¼berlasse[nl]
+   einen Saphir!![nl]
+   Ich überlasse[nl]
    ihn Euch[nl]
    gerne im [nl]
-   Tausch fÃ¼r[nl]
-   Euren weiÃŸen[nl]
+   Tausch für[nl]
+   Euren weißen[nl]
    Bergkristall.
 +086u: ;JA @7364[0:DRQ_MAC0]
    ;JAP: AOTO AKANO/SUISHOUWO/TORIKAE ANATANI/WATASHINOOMOIWO/TAKUSOU
@@ -1181,11 +1181,11 @@
    ; This guy lives in Aldra
    [nl]
    Ich besitze[nl]
-   einen Rubin![nl]
-   Ich Ã¼berlasse[nl]
+   einen Rubin!![nl]
+   Ich überlasse[nl]
    ihn Euch[nl]
    gerne im[nl]
-   Tausch fÃ¼r[nl]
+   Tausch für[nl]
    Euren blauen[nl]
    Saphir.
 +107u: ;JA @682C[0:DRQ_MAC0]
@@ -1200,7 +1200,7 @@
    Aber Ihr habt[nl]
    kein Juwel[nl]
    von Interesse[nl]
-   fÃ¼r mich.
+   für mich.
 
 ;;;; Acquisitions ;;;;
 
@@ -1216,11 +1216,11 @@
    Eurem[nl]
    Morgenstern[nl]
    die Kraft,[nl]
-   bÃ¶se Geister[nl]
-   zu verbrennen![nl]
+   böse Geister[nl]
+   zu verbrennen!![nl]
    Sollen sie[nl]
    brennen wie[nl]
-   Zunder!
+   Zunder!!
 +117u: ;JA @6812[3:DRQ_E_10]
    ;ENG: TO BREAK MY/SPELL, COME/BACK WITH A/POWERFUL/WEAPON.
    ;JAP: SONOMUCHIDEHA/WASHINO JUMONNI/TAERARENUDEAROU/DENAOSUGAYOI
@@ -1230,13 +1230,13 @@
    ;   In dialog_ext mode, replaced with 155 once player has a fire whip.
    [nl]
    Eure Peitsche[nl]
-   gehÃ¶rt[nl]
+   gehört[nl]
    hergerichtet.[nl][nl]
    So wird sie[nl]
    meinem Zauber[nl]
    nicht[nl]
    Standhalten[nl]
-   kÃ¶nnen.
+   können.
 
 +015u: ;JA @67C7[3:DRQ_E_10]
    ;ENG: I'LL GIVE/YOU A SILK/BAG.
@@ -1246,7 +1246,7 @@
    ;   Between Alba & Ondol
    [nl]
    Ich[nl]
-   Ã¼berlasse[nl]
+   überlasse[nl]
    Euch diesen[nl]
    besonderen[nl]
    Seidenbeutel.
@@ -1263,7 +1263,7 @@
    diesen[nl]
    silbernen[nl]
    Dolch.[nl][nl]
-   Er mÃ¶ge[nl]
+   Er möge[nl]
    Euch den[nl]
    Hals retten.
 
@@ -1276,7 +1276,7 @@
    Ich werde[nl]
    Euch meinen[nl]
    Diamanten[nl]
-   Ã¼berlassen.
+   überlassen.
 +120u: ;JA @6466[4:DRQ_YCOM]
    ;ENG: I BEG OF YOU/TO TAKE/THESE/LAURELS.
    ;JAP: GEKKEIJUWO/SAZUKEYOU
@@ -1287,7 +1287,7 @@
    Euch von[nl]
    meinen[nl]
    Lorbeer-[nl]
-   BlÃ¤tter![nl][nl]
+   Blätter!![nl][nl]
    Gott segne[nl]
    Euch.
 
@@ -1420,7 +1420,7 @@
    ; In Jova
    [nl]
    Wollt Ihr[nl]
-   meinen weiÃŸen[nl]
+   meinen weißen[nl]
    Bergkristall[nl]
    erstehen?
 +051u: ;JA @7229[0:DRQ_MAC0]
@@ -1451,7 +1451,7 @@
    ; In Ondol
    Der Kopf des[nl]
    Morgensterns[nl]
-   ist wuchtig![nl]
+   ist wuchtig!![nl]
    Wollt Ihr ihn[nl]
    erwerben?
 +054u: ;JA @724D[2:DRQ_MAC2]
@@ -1477,7 +1477,7 @@
    Weihwasser[nl]
    erwerben?[nl]
    Es wird[nl]
-   Euch helfen!
+   Euch helfen!!
 
 
 
@@ -1489,10 +1489,10 @@
    [nl]
    HILFE!![nl][nl]
    Oh,[nl]
-   Entschuldigt![nl]
+   Entschuldigt!![nl]
    Ich dachte,[nl]
    Ihr seid[nl]
-   ein Vampir!
+   ein Vampir!!
 +121u:
    ; Info: Given as a replacement for 056, if player has a crystal and dialog_ext was enabled
    ; Comments: ADDED DIALOGUE.
@@ -1501,18 +1501,18 @@
    Jeder[nl]
    Edelstein[nl]
    besitzt[nl]
-   FÃ¤higkeiten.[nl]
+   Fähigkeiten.[nl]
    Der Rubin[nl]
    ist das[nl]
-   stÃ¤rkste[nl]
+   stärkste[nl]
    Juwel.
 +122u:
    ; Info: Given as a replacement for 102, if player has the silk bag and dialog_ext was enabled
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Helpful instruction.
    [nl]
-   Ihr kÃ¶nnt[nl]
-   die SÃ¼mpfe[nl]
+   Ihr könnt[nl]
+   die Sümpfe[nl]
    nicht ohne[nl]
    Knoblauch[nl]
    durchqueren.[nl]
@@ -1529,7 +1529,7 @@
    Draculas[nl]
    Ring ver-[nl]
    wandelt den[nl]
-   TrÃ¤ger in[nl]
+   Träger in[nl]
    einen Vampir.
 
 +124u:
@@ -1537,15 +1537,15 @@
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Delivered by the elder person in Yomi.
    [nl]
-   Unfassbar![nl]
-   WÃ¼nscht Ihr[nl]
+   Unfassbar!![nl]
+   Wünscht Ihr[nl]
    Euch so sehr[nl]
    Euren Tod?[nl]
    Es ist nicht[nl]
-   sicher hier![nl]
+   sicher hier!![nl]
    Lauft fort[nl]
    solange Ihr[nl]
-   noch kÃ¶nnt!
+   noch könnt!!
 +125u:
    ; Info: Given as a replacement for 90, if the player level is >= 2 but #bodyparts is <2.
    ; Comments: ADDED DIALOGUE.
@@ -1558,7 +1558,7 @@
    Sucht Ihr[nl]
    Jemanden?[nl]
    Niemand ist[nl]
-   hier auÃŸer[nl]
+   hier außer[nl]
    mir.
 +126u:
    ; Info: Also a replacement for 90 in Yomi. Given if player is fully equipped.
@@ -1584,7 +1584,7 @@
    Ihr wollt[nl]
    Euren Kampf[nl]
    verbessern?[nl]
-   KÃ¤mpft in[nl]
+   Kämpft in[nl]
    fremden[nl]
    Gebieten.
    
@@ -1596,10 +1596,10 @@
    ; Meaning: The Ferryman gives this dialogue if there are garlic on screen.
    [nl]
    Knoblauch?[nl]
-   Harharhar![nl]
+   Harharhar!![nl]
    [nl]
    Wer hat Euch[nl]
-   das erzÃ¤hlt?[nl]
+   das erzählt?[nl]
    Wo ist der[nl]
    echte Held,[nl]
    der den Fluch[nl]
@@ -1615,12 +1615,12 @@
    Verlass Burg[nl]
    Laruba nicht[nl]
    ohne ... [nl]
-   OH! Das[nl]
+   OH!! Das[nl]
    Rosenkreuz!![nl]
-   Ich hÃ¤tte[nl]
+   Ich hätte[nl]
    nicht an Euch[nl]
    zweifeln[nl]
-   dÃ¼rfen.
+   dürfen.
    
 +152u:
    ; Info: This is Bisqwit secret character in Denis Marsh. Number must be &3 = 0.
@@ -1632,7 +1632,7 @@
    Nun, ich bin[nl]
    der eine, der[nl]
    das Spiel[nl]
-   Ã¼bersetzt[nl]
+   übersetzt[nl]
    hat. Ich bin[nl]
    hier auf[nl]
    Reise.
@@ -1659,11 +1659,11 @@
    Ja, ich bin[nl]
    es wirklich.[nl]
    Joel. Nun[nl]
-   geht zurÃ¼ck.[nl]
+   geht zurück.[nl]
    Ihr macht[nl]
    gute Arbeit.[nl]
    Nehmt diese[nl]
-   KrÃ¤uter.[nl]
+   Kräuter.[nl]
    Viel Erfolg.
 
 +155u:
@@ -1699,7 +1699,7 @@
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Jump and talk to the ferryman.
    [nl]
-   Ich wÃ¼nschte[nl]
+   Ich wünschte[nl]
    mir so sehr,[nl]
    dass Ihr der[nl]
    Held seid,[nl]
@@ -1721,7 +1721,7 @@
    Jeden Strom,[nl]
    jeden Wirbel,[nl]
    ...und nun,[nl]
-   jeden DÃ¤mon.[nl]
+   jeden Dämon.[nl]
    Arr...
 
 ; 13 strings: Short names for each clue
@@ -1874,11 +1874,11 @@
 +05: ;
    [goto:20:EE]TRANSSYLVANIEN[term02]
 +06: ;
-   [goto:21:2E]ZURÃœCKGEKEHRT.[term02]
+   [goto:21:2E]ZURÜCKGEKEHRT.[term02]
 +07: ;
    [goto:21:6E]DRACULAS FLUCH[term03]
 +08: ;
-   [goto:20:AE]IST FÃœR IMMER[term02]
+   [goto:20:AE]IST FÜR IMMER[term02]
 +09: ;
    [goto:20:EE]GEBANNT.[term02]
 +10: ;
@@ -1886,7 +1886,7 @@
 +11: ;
    [goto:21:6E]BELMONT, WERDET[term03]
 +12: ;
-   [goto:20:AE]FÃœR IMMER FÃœR[term02]
+   [goto:20:AE]FÜR IMMER FÜR[term02]
 +13: ;
    [goto:20:EE]EURE HELDENTATEN[term02]
 +14: ;
@@ -1895,7 +1895,7 @@
    [goto:21:6E]BLEIBEN.[term03]
 
 +16:
-   [goto:20:AE]JUBEL FÃœR[term02]
+   [goto:20:AE]JUBEL FÜR[term02]
 +17:
    [goto:20:EE]EUREN ERFOLG,[term02]
 +18:
@@ -1923,19 +1923,19 @@
 +28: ;
    [goto:20:AE]MANN DIE[term02]
 +29: ;
-   [goto:20:EE]KÃœHNHEIT BESITZT,[term02]
+   [goto:20:EE]KÜHNHEIT BESITZT,[term02]
 +30: ;
    [goto:21:2E]SICH DER MACHT[term02]
 +31: ;
-   [goto:21:6E]DES BÃ–SEN ZU[term03]
+   [goto:21:6E]DES BÖSEN ZU[term03]
 +32: ;
    [goto:20:AE]STELLEN, WERDEN[term02]
 +33: ;
-   [goto:20:EE]DIE BÃœRGER VON[term02]
+   [goto:20:EE]DIE BÜRGER VON[term02]
 +34: ;
    [goto:21:2E]TRANSSYLVANIEN[term02]
 +35: ;
-   [goto:21:6E]BETEN MÃœSSEN.[term03]
+   [goto:21:6E]BETEN MÜSSEN.[term03]
 +36: ;
    [goto:20:AE]HIER STEHT EIN GEHEIMER TEXTT.[term04]
 
@@ -1958,7 +1958,7 @@
 +45: ;
    [goto:20:AE]SEIN SCHWEISS[term02]
 +46: ;
-   [goto:20:EE]DÃœNGTEN DIE[term02]
+   [goto:20:EE]DÜNGTEN DIE[term02]
 +47: ;
    [goto:21:2E]ERDE UND[term02]
 +48: ;
@@ -1966,7 +1966,7 @@
 +49: ;
    [goto:20:AE]FRIEDE UND[term02]
 +50: ;
-   [goto:20:EE]RUHE FÃœR JENE,[term02]
+   [goto:20:EE]RUHE FÜR JENE,[term02]
 +51: ;
    [goto:21:2E]DIE DURCH DAS[term02]
 +52: ;
@@ -2018,16 +2018,3 @@
    Morgenstern
 +4: ;whip name 
    Feuer      
-
-*** Datei '(Unbenannt)'
-test.txt
-credits.txt
-test.txt
-cv2.jsf
-sram.txt
-vrom.txt
-script.txt
-script.txt
-script.cv2
-script.cv2
-deu_20151116/script.cv2

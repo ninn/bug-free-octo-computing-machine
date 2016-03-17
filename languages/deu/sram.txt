@@ -5,30 +5,25 @@
 
  "charset_required": "NeinLadDfktAbrch",
 
- // We could do Damaged in red, but "e" is also in Cancel and "a","d" in Load...
-
- // free: "c": 0x53, "L": 0x56, aDC,
-
  "charset_implemented":
-   { "a": 0xB6,
-     " ": 0xB7,
+   { " ": 0xB7,
+     "N": 0x65, 
      "e": 0x7D,
-     "r": 0x7F,
-     "h": 0xC7,
-     "c": 0xC6,
-     
      "i": 0xC5,
+     "n": 0x64,
+     "L": 0x56,
+     "a": 0xB6,
+     "d": 0xAF,
+     "D": 0xB4,
      "f": 0x60,
      "k": 0x62,
      "t": 0x5D,
      "A": 0x63,
-     "b", 0xFA,
-     "J", 0xB5,
-     "n", 0x64,
-     "N", 0x65, 
+     "b": 0xFA,
+     "r": 0x7F,
+     "c": 0x53,
+     "h": 0xC7,
      
-     "d": 0xAF,
-     "D": 0xB4,
-     "L": 0x7C
+     "J": 0xB5
    }
 }

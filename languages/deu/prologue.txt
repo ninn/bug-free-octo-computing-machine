@@ -80,73 +80,73 @@
 [clear]
 	Nachdem Dracula vom[nl]
 	Helden Simon Belmont besiegt wurde[nl]
-	fiel des Grafens KÃ¶rper[nl]
+	fiel des Grafens Körper[nl]
 	in einen tiefen, dunklen Schlaf.
 [wait][PLAY_SCENE:battle_demon]
 [clear]
-	Aber, der Preis fÃ¼r diesen Sieg[nl]
+	Aber, der Preis für diesen Sieg[nl]
 	war Simons eigene Gesundheit.[nl]
 	
 [timer_wait:065C][clear]
-	Sein KÃ¶rper wurde langsam immer[nl]
-	schwÃ¤cher, - er fÃ¼hlte,[nl]
+	Sein Körper wurde langsam immer[nl]
+	schwächer, - er fühlte,[nl]
 	dass sein eigener Tod nahte.
 	
 [LOAD_fadein_PLAY_SCENE:family_grave]
 [clear]
 	So begab es sich, dass[nl]
 	Simon eines Morgens das Grab[nl]
-	seiner Ahnen am HÃ¼gel der Engel[nl]
+	seiner Ahnen am Hügel der Engel[nl]
 	aufsuchte.
 [stop_scene][PLAY_SCENE:simon_kneels]
 [timer_wait:0900][clear][wait]
-	Als er Ã¼ber sein eigenes Dasein nachsann,[nl]
-	plÃ¶tzlich, hinter ihm...[nl]
+	Als er über sein eigenes Dasein nachsann,[nl]
+	plötzlich, hinter ihm...[nl]
 [stop_scene][PLAY_SCENE:woman_appears_and_simon_stands_and_looks]
 	Da stand eine Frauengestalt,[nl]
-	UmhÃ¼llt von Morgennebel.
+	Umhüllt von Morgennebel.
 [wait]
 [SPECIAL_SCENE:03]
 [timer_wait:0A8B]
 [clear]
-	Die Gestalt nÃ¤herte sich Simon,[nl]
+	Die Gestalt näherte sich Simon,[nl]
 	und sprach:
 [timer_wait:0B62][clear][color:35]
-	`Ein finsterer Fluch hat Euren KÃ¶rper[nl]
+	`Ein finsterer Fluch hat Euren Körper[nl]
 	in Besitz genommen. Euer Tod ist nah. [nl]
 [COMMENT: Note: Cannot use capital "Y" here.]
 [timer_wait:0C56][clear]
 	Aber, seid Ihr gewillt und[nl]
-	besitzt die KÃ¼hnheit den[nl]
-	MÃ¤chten der Finsternis erneut[nl]
+	besitzt die Kühnheit den[nl]
+	Mächten der Finsternis erneut[nl]
 	die Stirn zu bieten ...
 [timer_wait:0DB7][clear]
-	... Gott wÃ¼rde euch gewiss die Kraft[nl]
-	dazu verleihen, die ihr benÃ¶tigt.
+	... Gott würde euch gewiss die Kraft[nl]
+	dazu verleihen, die ihr benötigt.
 [stop_scene][SPECIAL_SCENE:04]
 [timer_wait:0E97][clear]
 	In den letzten sieben Jahren,[nl]
 	seit dem Ende von Dracula,[nl]
 	entwich ein unmenschlicher Fluch[nl]
-	aus dem Ãœberresten des Grafen.
+	aus dem Überresten des Grafen.
 [timer_wait:1011][clear]
-	Der Fluch brodelt und wird stÃ¤rker[nl]
-	und Draculas KÃ¶rper[nl]
+	Der Fluch brodelt und wird stärker[nl]
+	und Draculas Körper[nl]
 	hat bereits begonnen[nl]
 	aufzuerstehen.
 [SPECIAL_SCENE:05]
 [timer_wait:1178][clear]
-	Es sind schon fÃ¼nf derer[nl]
-	Ãœberreste erschienen,[nl]
+	Es sind schon fünf derer[nl]
+	Überreste erschienen,[nl]
 	verteilt auf das ganze Land[nl]
-	Jedes von ihnen stÃ¤rkt den Fluch.
+	Jedes von ihnen stärkt den Fluch.
 [timer_wait:12A5][fadeout]
 [stop_scene][LOAD_SCENE:berkeley_mansion_pan][wait][SPECIAL_SCENE:02][fadein]
 [clear]
 	Es gibt nur einen Ausweg[nl]
 	diesen Fluch zu brechen.
 [timer_wait:13E0][clear]
-	Finde die fÃ¼nf KÃ¶rperteile solange[nl]
+	Finde die fünf Körperteile solange[nl]
 	der Fluch noch schwach ist.
 [timer_wait:14E0][fadeout][SPECIAL_SCENE:00]
 [LOAD_fadein_PLAY_SCENE:altar_room]
@@ -154,9 +154,9 @@
 	Bringe sie in die Ruinen von[nl]
 	Graf Draculas Schloss,
 [timer_wait:1640][clear]
-	LÃ¤uter sie durch das Feuer[nl]
+	Läuter sie durch das Feuer[nl]
 	auf dem verborgenem Altar,[nl]
-	und banne so den Fluch!
+	und banne so den Fluch!!
 [timer_wait:1744][fadeout]
 [LOAD_SCENE:family_grave]
 [PLAY_SCENE:family_grave_continued]
@@ -166,13 +166,13 @@
 	wird die Legende von Dracula[nl]
 	ein Ende finden. 
 [timer_wait:190B][clear]
-	Mit der LÃ¤uterung des Fluches[nl]
-	wird auch den KÃ¶rper genesen.
+	Mit der Läuterung des Fluches[nl]
+	wird auch den Körper genesen.
 [stop_scene][SPECIAL_SCENE:06]
 [timer_wait:19F6][clear]
 	Es bleibt kein anderer Weg - [nl]
 	Tilge Draculas Dasein[nl]
-	fÃ¼r immer und ewig. "
+	für immer und ewig."
 [timer_wait:1AF9][SPECIAL_SCENE:00]
 [stop_scene][PLAY_SCENE:woman_disappears_simon_searches]
 [clear][color:20]
@@ -182,12 +182,12 @@
 [timer_wait:1C28][clear]
 [stop_scene][SPECIAL_SCENE:07][PLAY_SCENE:simon_goes_on_journey]
 	Und so beginnt ein neues [nl]
-	Abenteuer fÃ¼r Simon Belmont,[nl]
+	Abenteuer für Simon Belmont,[nl]
 	den Helden, mit fester[nl]
 	Entschlossenheit..
 [timer_wait:1D6A][clear]
-	Es gibt keinen anderen Weg![nl]
-	KÃ¤mpfe, Simon - KÃ¤mpfe![nl]
-	Kehre nach Transsylvanien zurÃ¼ck!
+	Es gibt keinen anderen Weg!![nl]
+	Kämpfe, Simon - Kämpfe!![nl]
+	Kehre nach Transsylvanien zurück!!
 [fadeout]
 [STOP_MUSIC][wait]

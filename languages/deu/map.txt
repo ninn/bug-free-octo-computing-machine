@@ -1,6 +1,6 @@
 // This is our font for map graphics
 // Specified in f@37000 in language/eng_script.txt
-{"charset" : " ABCDEFGHIJKLMNOP'RSTUVYWÃ„Ã–Ãœ",
+{"charset" : " ABCDEFGHIJKLMNOPÄRSTUVYWÖÜ",
  "names" : {
   ///
    "0" :  "Stadt Jova",         // YO-BA
@@ -18,17 +18,17 @@
   "11" :  "Burg Laruba", // RARUBA NO YAKATA
   //
   "12" :  "Sadams Wald",  // ZADAMU
-  "13" :  "WÃ¤lder von Jova",    // YO-BA
-  "14" :  "WÃ¤lder von Veros", // BEROZU
+  "13" :  "Wälder von Jova",    // YO-BA
+  "14" :  "Wälder von Veros", // BEROZU
   "15" :  "Denis Wald", // DENISU NO MORI
   "16" :  "Wald von Aljiba",  // ORUJIBA
   "17" :  "Doras Wald",   // DO-RA. Why is this not forest of Yomi?
-  "18" :  "Verschlagene WÃ¤lder",   // DEBIASU. Debious/Devious woods ("debiazu") includes a river
+  "18" :  "Verschlagene Wälder",   // DEBIASU. Debious/Devious woods ("debiazu") includes a river
   //
-  "19" :  "BrÃ¼cke nach Norden", // Between Jova and Veros 
-  "20" :  "BrÃ¼cke nach SÃ¼den", // Between Doina and Yomi
-  "21" :  "BrÃ¼cke nach Osten",   // Leads to Denis marsh (dead end)
-  "22" :  "BrÃ¼cke nach Westen",  // Leads to ruins
+  "19" :  "Brücke nach Norden", // Between Jova and Veros 
+  "20" :  "Brücke nach Süden", // Between Doina and Yomi
+  "21" :  "Brücke nach Osten",   // Leads to Denis marsh (dead end)
+  "22" :  "Brücke nach Westen",  // Leads to ruins
 
   "23" :  "Friedhof der Strigoi", // STORIGOI BOCHI
   "24" :  "Carmillas Friedhof", // KA-MIRA BOCHI
@@ -36,16 +36,16 @@
 
   "26" :  "Belasco Sumpfland",       // BERASUKO NO NUMA (Note: Bela Lucosi = BERA RUGOJI)
   "27" :  "Joma Sumpf",          // JOMA
-  "28" :  "Denis TÃ¼mpfel", // DENISU
+  "28" :  "Denis Tümpfel", // DENISU
 
   "29" :  "Toter Fluss",     // DEDDORIBA-
 
   "30" :  "Klippen von Deborah",  // DEBORA NO GAKE
-  "31" :  "Jams EinÃ¶de",    // JAMU NO ARECHI
+  "31" :  "Jams Einöde",    // JAMU NO ARECHI
 
-  "32" :  "Dabis HÃ¶hlenweg",   // DABI NO CHIKADOU
-  "33" :  "Uta HÃ¶hlen",   // Does not occur in Japanese
-  "34" :  "BÃ¶ser Graben",  // JAAKU NO MIZO (not in map). Wicked ditch
+  "32" :  "Dabis Höhlenweg",   // DABI NO CHIKADOU
+  "33" :  "Uta Höhlen",   // Does not occur in Japanese
+  "34" :  "Böser Graben",  // JAAKU NO MIZO (not in map). Wicked ditch
 
   "35" :  "Die Ruinen",
   
@@ -54,7 +54,7 @@
 
   "37" :  "Uta Hochweg",
   "38" :  "Der Altar", // Raunioissa
-  "39" :  "Aljiba HÃ¶hle", // Lower road. It's a cave...
+  "39" :  "Aljiba Höhle", // Lower road. It's a cave...
   "40" :  "Yuba See",// Lake of Yuba
   "41" :  "Uta See"
 },
