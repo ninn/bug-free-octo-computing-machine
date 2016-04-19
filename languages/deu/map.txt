@@ -1,5 +1,5 @@
 // This is our font for map graphics
-// Specified in f@37000 in language/eng_script.txt
+// Specified in f@37000 in language/deu/vrom.txt
 {"charset" : " ABCDEFGHIJKLMNO÷‹RSTUVYW",
  "names" : {
   ///

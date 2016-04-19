@@ -31,96 +31,96 @@
    Draculas[nl]Vermächtnis[termFB]
 +006s: ; Best saving (56) with:
    [nl]Ich [termFB]
-+007s: ; Best saving (52) with:
-   Euch[termFB]
-+008s: ; Best saving (52) with:
-   t Ihr[nl][termFB]
-+009s: ; Best saving (50) with:
++007s: ; Best saving (50) with:
    eine[termFB]
-+010s: ; Best saving (42) with:
++008s: ; Best saving (50) with:
+   Euch[termFB]
++009s: ; Best saving (48) with:
+   t Ihr[nl][termFB]
++010s: ; Best saving (36) with:
    en[nl][termFB]
-+021s: ; Best saving (36) with:
-   Ihr [termFB]
-+022s: ; Best saving (34) with:
-   er[nl][termFB]
-+023s: ; Best saving (33) with:
++021s: ; Best saving (35) with:
+   en [termFB]
++022s: ; Best saving (35) with:
+   [nl]Ihr [termFB]
++023s: ; Best saving (32) with:
    er [termFB]
 +042s: ; Best saving (32) with:
-   cht[termFB]
+   er[nl][termFB]
 +043s: ; Best saving (31) with:
    Knoblauch[termFB]
 +045s: ; Best saving (29) with:
-   en [termFB]
+   cht[termFB]
 +046s: ; Best saving (28) with:
    en.
-+039s: ; Best saving (21) with:
++039s: ; Best saving (23) with:
    sch[termFB]
-+040s: ; Best saving (20) with:
++040s: ; Best saving (22) with:
    [nl][60][60][60][termFB]
-+041s: ; Best saving (17) with:
-   ch[nl][termFB]
-+044s: ; Best saving (17) with:
-   erwerben?[termFB]
++041s: ; Best saving (21) with:
+   Verlasst die[nl]Raubersburg[nl]ni[termFB]
++044s: ; Best saving (20) with:
+   [nl]Draculas[nl][termFB]
 +108s: ; Best saving (17) with:
-   Draculas[nl][termFB]
+   ch[nl][termFB]
 +109s: ; Best saving (17) with:
-   [nl]Woll[termFB]
+   erwerben?[termFB]
 +110s: ; Best saving (17) with:
    [4D][4D][4D][termFB]
 +111s: ; Best saving (16) with:
    Seidenbeutel[termFB]
-+112s: ; Best saving (16) with:
-   ist [termFB]
-+113s: ; Best saving (16) with:
-   erlass[termFB]
++112s: ; Best saving (15) with:
+   [nl]Ein Freund[nl]wartet in[termFB]
++113s: ; Best saving (14) with:
+   Fluss[termFB]
 +114s: ; Best saving (14) with:
-   [nl]das[termFB]
+   versteck[termFB]
 +115s: ; Best saving (14) with:
-   nde[termFB]
+   ist [termFB]
 +128s: ; Best saving (14) with:
-   in [termFB]
-+129s: ; Best saving (14) with:
-   erste[termFB]
-+130s: ; Best saving (14) with:
    [nl]Rosenkreuz[termFB]
-+131s: ; Best saving (13) with:
-   n Pflock[nl]aus Eiche[nl][termFB]
-+132s: ; Best saving (12) with:
++129s: ; Best saving (14) with:
+   Friedhof[termFB]
++130s: ; Best saving (14) with:
+   überlass[termFB]
++131s: ; Best saving (14) with:
+   [nl]Woll[termFB]
++132s: ; Best saving (13) with:
    die[termFB]
 +133s: ; Best saving (12) with:
+   [nl]das[termFB]
++134s: ; Best saving (12) with:
+   n Pflock[nl]aus Eiche[termFB]
++135s: ; Best saving (12) with:
    nehmt[nl][termFB]
-+134s: ; Best saving (11) with:
-   in[nl][termFB]
-+135s: ; Best saving (11) with:
-   ristall[termFB]
 +136s: ; Best saving (11) with:
-   riedhof[termFB]
+   nde[termFB]
 +137s: ; Best saving (11) with:
-   wartet [termFB]
-+138s: ; Best saving (9) with:
-   ann[termFB]
-+139s: ; Best saving (9) with:
-   .[nl]Viel Erfolg.
+   in[nl][termFB]
++138s: ; Best saving (11) with:
+   ristall[termFB]
++139s: ; Best saving (11) with:
+   in [termFB]
 +140s: ; Best saving (9) with:
-   ver[termFB]
-+141s: ; Best saving (8) with:
-   Edelst[termFB]
-+142s: ; Best saving (8) with:
-   Aljiba[termFB]
-+143s: ; Best saving (8) with:
-   es [termFB]
-+144s: ; Best saving (8) with:
-   luss[termFB]
-+145s: ; Best saving (8) with:
+   che[termFB]
++141s: ; Best saving (9) with:
    auf[termFB]
++142s: ; Best saving (9) with:
+   .[nl]Viel Erfolg.
++143s: ; Best saving (9) with:
+   ver[termFB]
++144s: ; Best saving (8) with:
+   Edelst[termFB]
++145s: ; Best saving (8) with:
+   Aljiba[termFB]
 +146s: ; Best saving (8) with:
-   hier[termFB]
+   es [termFB]
 +147s: ; Best saving (8) with:
-   Spur[termFB]
+   ann[termFB]
 +148s: ; Best saving (8) with:
-   Lorbe[termFB]
+   hier[termFB]
 +149s: ; Best saving (8) with:
-   besitz[termFB]
+   en.[nl][termFB]
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -184,6 +184,7 @@
    ;   ("maou", literally meaning "king of evil").
    ;   In Chrono Trigger, Magus's name was also "maou".
    ; Comments: Clue 2, in Berkeley Mansion. Hinted by string 80.
+   [nl]
    Gepfählt mit[nl]
    einen Pflock[nl]
    aus Eiche[nl]
@@ -265,7 +266,7 @@
    ;   Yes, the original text just refers to "some" curse, without
    ;   saying which curse in particular. It is not "the" curse.
    ; Comments: Clue 7 in Rover Mansion. Hinted by string 105.
-   [nl][nl]
+   [nl]
    Das Herz[nl]
    des Teufels[nl]
    bannt die[nl]
@@ -279,6 +280,7 @@
    ; Info: The original Japanese text uses the word "sonata" here for "you".
    ;   It is an archaic and very polite word.
    ; Comments: Clue 8, in Rover Mansion. Hinted by string 105.
+   [nl]
    Knoblauch am[nl]
    Friedhof[nl]
    erlegt[nl]
@@ -311,6 +313,7 @@
    ;   Why? Kaze does not mean soul/spirit in Japanese, even though
    ;   in some languages the words for spirit and wind share the same root.
    ; Comments: Clue 10, in Brahm's Mansion. Not hinted.
+   [nl]
    Kniet, und[nl]
    haltet den[nl]
    Rubin gegen[nl]
@@ -359,6 +362,7 @@
    ;   It also offers an explanation for the "weeping" eye of Carmilla.
    ; Comments: Clue 13, in Debious Woods. Not hinted.
    ;***********.
+   [nl]
    Gevatter Tod[nl]
    blendete[nl]
    Carmilla mit[nl]
@@ -554,6 +558,7 @@
    ; Comments: I'm not quite sure of the purpose of this line.
    ; Info: Monk in 1st stair(ground) in town of Ondol
    ;***********.
+   [nl]
    Ich flehe[nl]
    Euch an!![nl][nl]
    Bringt mich[nl]
@@ -563,8 +568,7 @@
    sterben!!
 +075u: ;JA @741D[2:DRQ_MAC2]
    ;ENG: WHEN I WAS/YOUR AGE,/WOMEN LOVED/ME.
-   ;JAP: JIMANJAN
-AIGA/KOREDEMO WASHIHA/MUKASHI ONNANI/YOKU MOTETAMONOJA
+   ;JAP: JIMANJANAIGA/KOREDEMO WASHIHA/MUKASHI ONNANI/YOKU MOTETAMONOJA
    ; Accurate translation: Not to brag, but though you might not believe it from
    ;   how I look now, a long time ago I was very popular with women.
    ; Info: Monk in 3rd stair in town of Ondol
@@ -600,6 +604,7 @@ AIGA/KOREDEMO WASHIHA/MUKASHI ONNANI/YOKU MOTETAMONOJA
    ; Literal translation: Tonight, at 12am, near the river (in the vicinity of the river).
    ; Info: Lady in 3rd stair in town of Aldra
    ; Replaced by 116 in dialog_ext mode after a certain day.
+   [nl]
    Heute.[nl]
    Zu[nl]
    Mitternacht.[nl][nl]
@@ -773,6 +778,7 @@ AIGA/KOREDEMO WASHIHA/MUKASHI ONNANI/YOKU MOTETAMONOJA
    ; Accurate translation: I have heard that the favourite dish of the ferryman at the Dead River is garlic.
    ; Comments: Nonsense, but he would love to see something else.
    ; Info: Man in 1st stair in town of Jova
+   [nl]
    Kennt Ihr den[nl]
    Fährmann am[nl]
    toten Fluss?[nl][nl]
@@ -789,6 +795,7 @@ AIGA/KOREDEMO WASHIHA/MUKASHI ONNANI/YOKU MOTETAMONOJA
    ; Info: Man in 1st stair in town of Jova
    ; Can be replaced with 123, equally nonsense, if dialog_ext is enabled.
    ;***********.
+   [nl]
    Man sagt,[nl]
    die heilige[nl]
    Flamme lodert[nl]
@@ -838,6 +845,7 @@ AIGA/KOREDEMO WASHIHA/MUKASHI ONNANI/YOKU MOTETAMONOJA
    ;   any rib that does it. It has to be the rib _of_Dracula_.
    ; Info: Guy on ground in town of Veros
    ;***********.
+   [nl]
    Draculas[nl]
    Rippe[nl]
    wird Euch[nl]
@@ -994,6 +1002,7 @@ AIGA/KOREDEMO WASHIHA/MUKASHI ONNANI/YOKU MOTETAMONOJA
    ;ENG: THE DEAD/RIVER WAITS/TO BE FREED/FROM THE/CURSE.
    ; Accurate translation: The accursed Dead River. A river that still desperate awaits for the one/the thing that will break the curse.
    ; Info: Lady on 2nd stair in town of Aljiba
+   [nl]
    Dieser[nl]
    verfluchte,[nl]
    tote Fluss!![nl][nl]
