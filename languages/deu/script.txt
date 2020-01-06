@@ -233,12 +233,12 @@
    ;   progress to the area under the lake. At two distinct locations.
    ; Comments: Clue 5, in Aljiba Woods. Hinted by string 103.
    [nl]
-   Wer mit dem[nl]
-   Saphir am[nl]
-   Ufer betet,[nl]
-   der lässt[nl]
-   den See[nl]
-   versickern.
+   Wenn Ihr mit[nl]
+   einem Saphir[nl]
+   am Ufer des[nl]
+   Sees betet,[nl]
+   so versickert[nl]
+   das Wasser.
    
 +092u: ;JA @7321[1:DRQ_MAC1]
    ;ENG: AN OLD GYPSY/HOLDS A/DIAMOND IN/FRONT OF DE-/BORAH CLIFF.
@@ -346,10 +346,10 @@
    ; Comments: Clue 12, in Bodley Mansion. Hinted by string 104.
    [nl]
    ;***********.
-   Ohne[nl]
+   Ohne den[nl]
    veredelten[nl]
    Lorbeer[nl]
-   geht man im[nl]
+   geht Ihr im[nl]
    verfluchten[nl]
    Moor zu[nl]
    Grunde.
@@ -366,7 +366,7 @@
    Gevatter Tod[nl]
    blendete[nl]
    Carmilla mit[nl]
-   seinem[nl]
+   einem[nl]
    versteckten[nl]
    Dolch.
 ;;;; Road signs ;;;;
@@ -396,8 +396,8 @@
    Dabis[nl]
    [60][60][60]Höhlenweg
    [gosubFC:03]
-   Wälder[nl]
-   [60][60][60]von Veros
+   Wälder von[nl]
+   [60][60][60]Veros
 +081u: ;JA @7262[1:DRQ_MAC1]
    ;JAP: MIGI/KAMI-RABOCHI/HIDARI/ORUJIBANO MORI
    ;TURN RIGHT/FOR CAMILLA/CEMETERY,/LEFT FOR THE/ALJIBA WOODS.
@@ -523,11 +523,10 @@
    ; Literal translation: Please take my daughter. Right now I won't ask for anything else.
    ; Info: Monk in 2nd stair in town of Ondol
    ;***********.
-   [nl]
    Bringt[nl]
    meine Tochter[nl]
    weg von hier!![nl]
-   Das sei mein[nl]
+   Das ist mein[nl]
    einziger[nl]
    Wunsch...
 +073u: ;JA @73E2[2:DRQ_MAC2]
@@ -544,13 +543,12 @@
    ;THAT WHO[nl][nl]
    ;SEES[nl][nl]
    ;DEATH.
-   [nl]
-   Wer tot ist,[nl]
+   [nl][nl]
+   Was tot ist,[nl]
    beißt nicht[nl]
    mehr!![nl][nl]
    Lasst die[nl]
-   Toten doch[nl]
-   ruhen.
+   Toten ruhen.
 
 
 +074u: ;JA @73FB[2:DRQ_MAC2]
@@ -598,7 +596,7 @@
    Es sind sehr[nl]
    schlechte[nl]
    Zeiten.[nl][nl]
-   Ich hoffe das[nl]
+   Ich hoffe es[nl]
    endet bald.
 +099u: ;JA @73DF[0:DRQ_MAC0]
    ;ENG: I'LL SEE/YOU AT/MIDNIGHT/ON THE/RIVER BANK.
@@ -608,7 +606,7 @@
    ; Replaced by 116 in dialog_ext mode after a certain day.
    [nl]
    Heute.[nl]
-   Um[nl]
+   Zu[nl]
    Mitternacht.[nl][nl]
    Am Ufer[nl]
    des Flusses.[nl][nl]
@@ -677,9 +675,8 @@
    Seidenbeutel[nl]
    vom Wächter[nl]
    der Strigoi[nl]
-   wird Euer[nl]
-   Leben[nl]
-   verlängern!!
+   verlängert[nl]
+   Euer Leben!!
 
 +098u: ;JA @73D5[0:DRQ_MAC0]
    ;JAP: ANATAGA HOSHII
@@ -771,7 +768,7 @@
    wartet in der[nl]
    Stadt Aldra.[nl]
    Ihr müsst[nl]
-   Ihn unbedingt[nl]
+   Ihn[nl]
    aufsuchen,[nl]
    egal was[nl]
    passiert.
@@ -786,9 +783,9 @@
    Fährmann am[nl]
    toten Fluss?[nl][nl]
    Man erzählt,[nl]
-   dass er[nl]
+   dass er immer[nl]
    Knoblauch[nl]
-   liebt.
+   essen kann.
 +077u: ;JA @731F[0:DRQ_MAC0]
    ;JAP: SEINARUHONOOGA/DENISUNOMORINO/6BANMENO KINOUENI/ARU
    ;ENG: A FLAME IS/ON TOP OF/THE 6TH TREE/IN DENIS/WOODS.
@@ -814,7 +811,7 @@
    ;   Refers to clue 1. Correct.
    ;***********.
    [nl]
-   In der Stadt[nl]
+   In Stadt[nl]
    Veros liegt[nl]
    ein Buch[nl]
    versteckt,[nl]
@@ -897,10 +894,9 @@
    ;***********.
    [nl]
    Gütiger[nl]
-   Himmel!![nl]
-   Seid[nl]
-   Ihr blass!![nl][nl]
-   Bitte ruht[nl]
+   Himmel!! Seid[nl]
+   Ihr blass!![nl]
+   Bitte ruht[nl][nl]
    Euch in der[nl]
    Kirche aus!! 
 +079u: ;JA @7312[2:DRQ_MAC2]
@@ -1740,7 +1736,7 @@
 +161s:
     Brahms Steg
 +162s:
-    Die Flamme
+    Das Feuer
 +163s:
     Das Ufer
 +164s:

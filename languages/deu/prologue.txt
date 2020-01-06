@@ -72,7 +72,7 @@
 [LOAD_fadein_PLAY_SCENE:castle_collapse][timer_wait:01E0][SPECIAL_SCENE:01]
 [clear][color:20]
 	Sieben Jahre sind es nun seit[nl]
-	dem Ende von Castlevania.[nl]
+	Ende von Castlevania.[nl]
 	Erneut beginnt das Schauspiel[nl]
 	- in Transsylvanien...
 [timer_wait:034F][fadeout][SPECIAL_SCENE:00]
