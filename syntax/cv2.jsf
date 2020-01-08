@@ -1,0 +1,304 @@
+-5
+
+=Idle		white  bg_black
+=Comment	green  bg_black
+=Mode		CYAN    bg_black
+=Header		cyan   bg_black
+=Text		fg_350  bg_black
+=Bracket	cyan   bg_black
+=TextLast	yellow bg_black
+=Overflow	fg_500 bg_black
+=BracketedNormal	fg_244 bg_black
+=BracketedKeyword	fg_515 bg_black
+=BracketedCapsword	fg_530 bg_black
+=BracketedParam		fg_314 bg_black underline
+=BracketedCapsParam	fg_321 bg_black
+=CapsTitle	magenta bg_black
+=Numeric 	fg_315
+=FontSep	fg_033
+=FontData	fg_145
+=NonFontData	fg_411
+
+:newline	Idle
+	*		begin_normal noeat recolor=-1
+	""		newline
+	" "		new_indent1
+	"\t"		begin_normal
+	"A-Z"		caps_title recolor=-1
+	"$"		font_numbers recolor=-1
+	":"		font_separator recolor=-1
+
+:new_indent1	Idle
+	*		begin_normal noeat recolor=-1
+	""		newline
+	" "		new_indent2
+	"\t"		begin_normal
+	":"		font_separator recolor=-1
+	
+
+:new_indent2	Idle
+	*		begin_normal noeat recolor=-1
+	""		newline
+	" "		new_indent3
+	"\t"		begin_normal
+	":"		font_separator recolor=-1
+	
+:new_indent3	Idle
+	*		dialog1 noeat recolor=-1
+	""		newline
+	";"		comment recolor=-1
+	" "		new_indent3
+	"\t"		begin_normal
+	":"		font_separator recolor=-1
+
+:begin_normal	Idle
+	*		begin_normal
+	"\n"		newline
+	";"		comment recolor=-1
+	"+"		header  recolor=-1
+	"*"		mode	recolor=-1
+	"["		bracketed recolor=-1
+	":"		font_separator recolor=-1
+
+:bracketed	BracketedNormal
+	*	bracketed_cont
+	"a-zA-Z0-9_" bracketed_keyword buffer noeat
+	"]"	begin_normal
+
+:bracketed_cont	BracketedNormal
+	*	bracketed_cont
+	"]"	begin_normal
+
+:bracketed_param	BracketedParam
+	*	bracketed_cont
+	"a-zA-Z0-9_" bracketed_param
+	"]"	begin_normal
+
+:bracketed_capsparam	BracketedCapsParam
+	*	bracketed_cont
+	"a-zA-Z0-9_" bracketed_capsparam
+	"]"	begin_normal
+
+:bracketed_keyword BracketedNormal
+	*	bracketed_cont noeat istrings
+	"COMMENT"			bracketed_keyword_good_caps
+	"START_MUSIC"			bracketed_keyword_good_caps
+	"LOAD_FADEIN_PLAY_SCENE"	bracketed_keyword_good_caps
+	"PLAY_SCENE"			bracketed_keyword_good_caps
+	"LOAD_SCENE"			bracketed_keyword_good_caps
+	"SPECIAL_SCENE"			bracketed_keyword_good_caps
+	"STOP_MUSIC"	bracketed_keyword_good_caps
+	"fadeout"	bracketed_keyword_good
+	"fadein"	bracketed_keyword_good
+	"reset_palette"	bracketed_keyword_good
+	"stop_scene"	bracketed_keyword_good
+	"timer_begin"	bracketed_keyword_good
+	"timer_wait"	bracketed_keyword_good
+	"clear"		bracketed_keyword_good
+	"color"		bracketed_keyword_good
+	"nl"		bracketed_keyword_good
+	"end"		bracketed_keyword_good
+	"wait"		bracketed_keyword_good
+	"wait_fade"	bracketed_keyword_good
+	"pause"		bracketed_keyword_good
+done
+	"a-zA-Z_0-9" bracketed_keyword
+
+:bracketed_keyword_good BracketedKeyword
+	*	bracketed_cont noeat
+	":"	bracketed_param
+
+:bracketed_keyword_good_caps BracketedCapsword
+	*	bracketed_cont noeat
+	":"	bracketed_capsparam
+
+
+:caps_title	CapsTitle
+	*		caps_title
+	"\n"		newline
+	";"		comment recolor=-1
+	
+
+#:begin		Idle
+#	*		dialog1 noeat recolor=-1
+#	"\n"		newline
+#	";"		comment recolor=-1
+#	" "		indent1
+#
+#:indent1	Idle
+#	*	dialog1 noeat recolor=-1
+#	" "	indent2
+#:indent2	Idle
+#	*	dialog1 noeat recolor=-1
+#	" "	indent3
+#:indent3	Idle
+#	*	dialog1 noeat recolor=-1
+
+:comment	Comment
+	*		comment
+	"\n"		newline
+:header		Header
+	*		header
+	";"		comment recolor=-1
+	"\n"		newline
+:mode		Mode
+	*		mode
+	";"		comment recolor=-1
+	"\n"		newline
+
+:dialog1	Text
+	*	dialog2
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl1
+:excl1		Text
+	*	dialog2 noeat
+	"!"	dialog2
+:dialog2	Text
+	*	dialog3
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl2
+:excl2		Text
+	*	dialog3 noeat
+	"!"	dialog3
+:dialog3	Text
+	*	dialog4
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl3
+:excl3		Text
+	*	dialog4 noeat
+	"!"	dialog4
+:dialog4	Text
+	*	dialog5
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl4
+:excl4		Text
+	*	dialog5 noeat
+	"!"	dialog5
+:dialog5	Text
+	*	dialog6
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl5
+:excl5		Text
+	*	dialog6 noeat
+	"!"	dialog6
+:dialog6	Text
+	*	dialog7
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl6
+:excl6		Text
+	*	dialog7 noeat
+	"!"	dialog7
+:dialog7	Text
+	*	dialog8
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl7
+:excl7		Text
+	*	dialog8 noeat
+	"!"	dialog8
+:dialog8	Text
+	*	dialog9
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl8
+:excl8		Text
+	*	dialog9 noeat
+	"!"	dialog9
+:dialog9	Text
+	*	dialog10
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl9
+:excl9		Text
+	*	dialog10 noeat
+	"!"	dialog10
+:dialog10	Text
+	*	dialog11
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl10
+:excl10		Text
+	*	dialog11 noeat
+	"!"	dialog11
+:dialog11	Text
+	*	dialog12
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl11
+:excl11		Text
+	*	dialog12 noeat
+	"!"	dialog12
+:dialog12	Text
+	*	dialog13 recolor=-1
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl12
+:excl12		Text
+	*	dialog13 noeat
+	"!"	dialog13
+
+:dialog13	Text
+	*	dialog14 recolor=-1
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl13
+:excl13		TextLast
+	*	dialog14 noeat
+	"!"	dialog14
+
+:dialog14	TextLast
+	*	dialog15 recolor=-1
+	"\n"	newline
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+	"!"	excl14
+:excl14		TextLast
+	*	dialog15 noeat
+	"!"	dialog15
+
+
+:dialog15	Overflow
+	*	dialog15 recolor=-1
+	"\n"	newline recolor=-1
+	";"	comment recolor=-1
+	"["	brack1  recolor=-1
+
+:brack1		Bracket
+	*	brack1
+	"]"	dialog1
+	"\n"	newline
+	";"	comment recolor=-1
+
+:font_numbers	Numeric
+	*	font_numbers
+	";"	comment recolor=-1
+	"\n"	newline recolor=-1
+:font_separator	FontSep
+	*	font_data noeat
+:font_data	FontData
+	*	non_font_data recolor=-1
+	" .c#"	font_data
+	";"	comment recolor=-1
+	":"	font_separator recolor=-1
+	"\n"	newline recolor=-1
+:non_font_data	NonFontData
+	*	font_data noeat
