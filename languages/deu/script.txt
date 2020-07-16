@@ -117,10 +117,6 @@
    es [termFB]
 +147s: ; Best saving (8) with:
    ann[termFB]
-+148s: ; Best saving (8) with:
-   hier[termFB]
-+149s: ; Best saving (8) with:
-   en.[nl][termFB]
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -154,7 +150,8 @@
    ; Comments: The night of a nightmare has ended (due to sunrise).
    [nl]
    Der Albtraum[nl][nl]
-   endet mit der[nl][nl]
+   endet[nl][nl]
+   mit der[nl][nl]
    Morgensonne.
 
 
@@ -235,9 +232,10 @@
    [nl]
    Wenn Ihr mit[nl]
    einem Saphir[nl]
-   am Ufer des[nl]
-   Sees betet,[nl]
-   so versickert[nl]
+   am Ufer[nl]
+   des Sees[nl]
+   betet, so[nl]
+   versickert[nl]
    das Wasser.
    
 +092u: ;JA @7321[1:DRQ_MAC1]
@@ -332,7 +330,8 @@
    ; Comments: Clue 11, at Deborah cliff. Not hinted.
    [nl]
    Draculas[nl]
-   Nagel besitzt[nl]
+   Nagel[nl]
+   besitzt[nl]
    die Macht[nl]
    trügerische[nl]
    Wände[nl]
@@ -523,9 +522,9 @@
    ; Literal translation: Please take my daughter. Right now I won't ask for anything else.
    ; Info: Monk in 2nd stair in town of Ondol
    ;***********.
-   Bringt[nl]
-   meine Tochter[nl]
-   weg von hier!![nl]
+   Bringt meine[nl]
+   Tochter weg[nl]
+   von hier!![nl]
    Das ist mein[nl]
    einziger[nl]
    Wunsch...
@@ -651,7 +650,8 @@
    ; Replaced by 116 in dialog_ext mode after a certain day.
    ;***********.
    [nl]
-   Ihr seid eine[nl]
+   Ihr seid[nl]
+   eine[nl]
    Augenweide!![nl][nl]
    Ich sehnte[nl]
    mich nach[nl]
@@ -765,7 +765,8 @@
    ; Info: Monk in 1st stair (ground) in town of Jova
    [nl]
    Ein Freund[nl]
-   wartet in der[nl]
+   wartet[nl]
+   in der[nl]
    Stadt Aldra.[nl]
    Ihr müsst[nl]
    Ihn[nl]
@@ -779,11 +780,13 @@
    ; Comments: Nonsense, but he would love to see something else.
    ; Info: Man in 1st stair in town of Jova
    [nl]
-   Kennt Ihr den[nl]
-   Fährmann am[nl]
-   toten Fluss?[nl][nl]
+   Kennt Ihr[nl]
+   den Fährmann[nl]
+   am toten[nl]
+   Fluss?[nl]
    Man erzählt,[nl]
-   dass er immer[nl]
+   dass er[nl]
+   immer[nl]
    Knoblauch[nl]
    essen kann.
 +077u: ;JA @731F[0:DRQ_MAC0]
@@ -798,8 +801,9 @@
    [nl]
    Man sagt,[nl]
    die heilige[nl]
-   Flamme lodert[nl]
-   in der Krone[nl]
+   Flamme[nl]
+   lodert in[nl]
+   der Krone[nl]
    des sechsten[nl]
    Baumes von[nl]
    Denis Wald.
@@ -943,8 +947,9 @@
    [nl]
    Die[nl]
    Spezialität[nl]
-   unserer Stadt[nl]
-   ist frischer[nl]
+   unserer[nl]
+   Stadt ist[nl]
+   frischer[nl]
    Knoblauch.[nl]
    Holt Euch[nl]
    welchen!!
@@ -978,8 +983,9 @@
    Vermächtnis?[nl]
    [nl]
    In Schloss[nl]
-   Lauber findet[nl]
-   man welche.
+   Lauber[nl]
+   findet man[nl]
+   welche.
 +091u: ;JA @7308[1:DRQ_MAC1]
    ;ENG: A LAUREL /WILL PROTECT/YOU FROM THE/POISON/MARSH.
    ;JAP: GEKKEIJUHA/NUMANODOKUYORI/MIWOMAMORU
@@ -1005,7 +1011,8 @@
    [nl]
    Dieser[nl]
    verfluchte,[nl]
-   tote Fluss!![nl][nl]
+   tote Fluss!![nl]
+   [nl]
    Der Fluss[nl]
    wartet noch[nl]
    sehnsüchtg[nl]
@@ -1047,9 +1054,11 @@
    ; Info: Monk on ground in town of Doina
    [nl]
    Ihr schon[nl]
-   wieder!![nl][nl]
-   Ich hatte so[nl]
-   innig gehofft[nl]
+   wieder!![nl]
+   [nl]
+   Ich hatte[nl]
+   so innig[nl]
+   gehofft[nl]
    Euch nie[nl]
    wieder sehen[nl]
    zu müssen.
@@ -1072,7 +1081,8 @@
    Dank Euch[nl]
    sind die[nl]
    Blutsauger[nl]
-   wieder hier!![nl][nl]
+   wieder hier!![nl]
+   [nl]
    Geht, und[nl]
    kommt nie[nl]
    wieder!!
@@ -1144,6 +1154,7 @@
    ; Accurate translation: Let's guide you to the place where you must go.
    ; Comments: Dialog shown when you talk to ferryman on Belasco Marsh shore whilst showing heart.
    ;***********.
+   [nl]
    Herr,[nl]
    Lasst mich[nl]
    Euch zum[nl]
@@ -1160,9 +1171,10 @@
    [nl]
    Ihr habt es[nl]
    vollendet?[nl]
-   Dann auf, auf[nl]
-   zurück ins[nl]
-   dunkle Moor.[nl]
+   Dann auf,[nl]
+   auf zurück[nl]
+   ins dunkle[nl]
+   Moor.[nl]
    Har Har Har!!
 ;;;; "Friend" ;;;;
 
@@ -1173,7 +1185,8 @@
    [nl]
    Ich besitze[nl]
    einen Saphir!![nl]
-   Ich überlasse[nl]
+   Ich[nl]
+   überlasse[nl]
    ihn Euch[nl]
    gerne im [nl]
    Tausch für[nl]
@@ -1186,7 +1199,8 @@
    [nl]
    Ich besitze[nl]
    einen Rubin!![nl]
-   Ich überlasse[nl]
+   Ich[nl]
+   überlasse[nl]
    ihn Euch[nl]
    gerne im[nl]
    Tausch für[nl]
@@ -1199,11 +1213,12 @@
    [nl]
    Ich biete[nl]
    einen[nl]
-   Edelstein zum[nl]
-   Tausch an.[nl]
-   Aber Ihr habt[nl]
-   kein Juwel[nl]
-   von Interesse[nl]
+   Edelstein[nl]
+   zum Tausch[nl]
+   an. Aber Ihr[nl]
+   habt kein[nl]
+   Juwel, von[nl]
+   Interesse[nl]
    für mich.
 
 ;;;; Acquisitions ;;;;
@@ -1234,12 +1249,13 @@
    ; Info: The guy who gives fire power.
    ;   In dialog_ext mode, replaced with 155 once player has a fire whip.
    [nl]
-   Eure Peitsche[nl]
+   Eure[nl]
+   Peitsche[nl]
    sollte man[nl]
-   herrichten.[nl][nl]
+   herrichten.[nl]
    So wird sie[nl]
-   meinem Zauber[nl]
-   nicht[nl]
+   meinem[nl]
+   Zauber nicht[nl]
    standhalten[nl]
    können.
 
@@ -1266,7 +1282,8 @@
    Bitte nehmt[nl]
    diesen[nl]
    silbernen[nl]
-   Dolch.[nl][nl]
+   Dolch.[nl]
+   [nl]
    Er möge[nl]
    Euch oft den[nl]
    Hals retten.
@@ -1291,7 +1308,8 @@
    Euch von[nl]
    meinen[nl]
    Lorbeer-[nl]
-   Blättern!![nl][nl]
+   Blättern!![nl]
+   [nl]
    Gott segne[nl]
    Euch.
 
@@ -1385,7 +1403,8 @@
    [nl]
    Ruhe Dich[nl]
    hier aus,[nl]
-   mein Sohn.[nl][nl]
+   mein Sohn.[nl]
+   [nl]
    Gottes Segen[nl]
    sei mit Dir.[nl]
    Amen.
@@ -1424,7 +1443,8 @@
    ; In Jova
    [nl]
    Wollt Ihr[nl]
-   meinen weißen[nl]
+   meinen[nl]
+   weißen[nl]
    Bergkristall[nl]
    erstehen?
 +051u: ;JA @7229[0:DRQ_MAC0]
@@ -1456,8 +1476,8 @@
    Der Kopf des[nl]
    Morgensterns[nl]
    ist wuchtig!![nl]
-   Wollt Ihr ihn[nl]
-   erwerben?
+   Wollt Ihr[nl]
+   ihn erwerben?
 +054u: ;JA @724D[2:DRQ_MAC2]
    ;JAP: TANKENWO/KATTEYUKANUKA?
    ;ENG: WILL YOU BUY/A DAGGER?
@@ -1539,6 +1559,7 @@
    ; Info: Given as a replacement for 90, if the player is level 0 or 1.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Delivered by the elder person in Yomi.
+   [nl]
    Unfassbar!![nl]
    Wünscht Ihr[nl]
    Euch den Tod[nl]
@@ -1552,6 +1573,7 @@
    ; Info: Given as a replacement for 90, if the player level is >= 2 but #bodyparts is <2.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Delivered by the elder person in Yomi.
+   [nl]
    Wanderer[nl]
    meiden Yomi.[nl]
    Ihr seid[nl]
@@ -1565,6 +1587,7 @@
    ; Info: Also a replacement for 90 in Yomi. Given if player is fully equipped.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Delivered by the elder person in Yomi.
+   [nl]
    Wollt Ihr[nl]
    wirklich[nl]
    zu den[nl]
@@ -1684,14 +1707,15 @@
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Jump and talk to the ferryman.
    [nl]
-   Man kann hier[nl]
-   nicht mal[nl]
-   mehr fischen.[nl]
+   Man kann[nl]
+   hier nicht[nl]
+   mal mehr[nl]
+   fischen.[nl]
    Ach...[nl]
    Wo ist nur[nl]
-   der Held, auf[nl]
-   den wir alle[nl]
-   warten?
+   der Held,[nl]
+   auf den wir[nl]
+   alle warten?
 
 +157u:
    ; Info: Ferryman chatter en-route, when going to special place.
@@ -1722,6 +1746,30 @@
    ...und nun,[nl]
    jeden Dämon.[nl]
    Arr...
+
++149u:
+   ; Info: Replaces 75 if you show the ring.
+   ; Comments: ADDED DIALOGUE.
+   [nl]
+   That's a[nl]
+   pretty ring[nl]
+   you have[nl]
+   there.[nl]
+   Who made it?[nl]
+   It will sure[nl]
+   catch the[nl]
+   attention[nl]
+   of women.
+
++148u:
+   ; Info: Replaces 67 if you have laurel power active.
+   ; Comments: ADDED DIALOGUE.
+   [nl]
+   Who touched[nl]
+   me!!?[nl]
+   [nl]
+   Show[nl]
+   yourself!!
 
 ; 13 strings: Short names for each clue
 ; No substring compression for these.
