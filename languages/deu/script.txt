@@ -215,6 +215,7 @@
    ;   (i.e. in a territory that never sees sunlight).
    ; Info: In other words, the flame is hidden in a cave.
    ; Comments: Clue 4, in Berkeley Mansion. Hinted by string 80.
+   ; TODO: PUN ABOUT THE FLYING EYES
    [nl]
    Die Heilige[nl]
    Flamme ruht[nl]
