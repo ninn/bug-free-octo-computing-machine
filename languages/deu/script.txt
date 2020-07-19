@@ -924,7 +924,7 @@
    ; Translation: Compare to string 61.
    ; Info: Monk on ground in town of Veros
    [nl]
-   Ein Freund[nl]
+   Ein Kamerad[nl]
    wartet in[nl]
    Aljiba[nl]
    auf Euch.[nl]
@@ -997,12 +997,12 @@
    ;   and 67 (laurels fix a pickle)
    ; Monk on 2nd stair in town of Aljiba
    [nl]
-   Ein[nl]
+   Mit einem[nl]
    Lorbeerblatt[nl]
-   schützt Euch[nl]
-   vor den[nl]
-   bösartigen[nl]
-   Sumpfdämpfen.
+   erträgt man[nl]
+   die Fäulnis[nl]
+   der Sümpfe[nl]
+   
 +088u: ;JA @72B6[1:DRQ_MAC1]
    ;JAP: NOROWARESHI/DEDDORIBA-/IMANAO NOROIWO/TOKUMONO MACHIWABIRU/KAWA
    ;ENG: THE DEAD/RIVER WAITS/TO BE FREED/FROM THE/CURSE.
@@ -1013,7 +1013,7 @@
    verfluchte,[nl]
    tote Fluss!![nl]
    [nl]
-   Der Fluss[nl]
+   Er[nl]
    wartet noch[nl]
    sehnsüchtg[nl]
    auf den Bann[nl]
@@ -1078,13 +1078,13 @@
    ; Info: Monk on 1st stair in town of Doina
    ;***********.
    [nl]
-   Dank Euch[nl]
+   Euretwegen[nl]
    sind die[nl]
    Blutsauger[nl]
-   wieder hier!![nl]
+   erst hier!![nl]
    [nl]
-   Geht, und[nl]
-   kommt nie[nl]
+   Verlasst die[nl]
+   Stadt, geht[nl]
    wieder!!
 +106u: ;JA @73EA[1:DRQ_MAC1]
    ;ENG: THE CROSS IN/LARUBA'S /MANSION MUST/BE FOUND.
@@ -1108,10 +1108,10 @@
    Verlasst die[nl]
    Raubersburg[nl]
    nicht ohne[nl]
-   das[nl]
+   das Heilige[nl]
    Rosenkreuz.[nl]
-   Ihr müsst es[nl]
-   finden!!
+   Ihr sollt es[nl]
+   dort finden!!
 
 
 ;;;; Yomi/Ghulash NPCs ;;;;
@@ -1190,7 +1190,7 @@
    ihn Euch[nl]
    gerne im [nl]
    Tausch für[nl]
-   Euren weißen[nl]
+   Euren[nl]
    Bergkristall.
 +086u: ;JA @7364[0:DRQ_MAC0]
    ;JAP: AOTO AKANO/SUISHOUWO/TORIKAE ANATANI/WATASHINOOMOIWO/TAKUSOU
@@ -1204,7 +1204,7 @@
    ihn Euch[nl]
    gerne im[nl]
    Tausch für[nl]
-   Euren blauen[nl]
+   Euren[nl]
    Saphir.
 +107u: ;JA @682C[0:DRQ_MAC0]
    ;JAP: WATASHITO ANATANO/SUISHOUTO DEHA/KOUKANDEKINU
@@ -1212,14 +1212,14 @@
    ;***********.
    [nl]
    Ich biete[nl]
-   einen[nl]
-   Edelstein[nl]
+   Edelsteine[nl]
    zum Tausch[nl]
-   an. Aber Ihr[nl]
+   an. [nl]
+   Doch Ihr[nl]
    habt kein[nl]
-   Juwel, von[nl]
-   Interesse[nl]
-   für mich.
+   Juwel von[nl]
+   Wert für[nl]
+   mich.
 
 ;;;; Acquisitions ;;;;
 
@@ -1237,7 +1237,7 @@
    die Kraft,[nl]
    Geister zu[nl]
    verbrennen!![nl]
-   Sollen sie[nl]
+   Mögen sie[nl]
    brennen wie[nl]
    Zunder!!
 +117u: ; REWORK  
@@ -1252,9 +1252,9 @@
    Eure[nl]
    Peitsche[nl]
    sollte man[nl]
-   herrichten.[nl]
-   So wird sie[nl]
-   meinem[nl]
+   gut stählen.[nl]
+   Brüchig wird[nl]
+   sie meinem[nl]
    Zauber nicht[nl]
    standhalten[nl]
    können.
@@ -1266,10 +1266,10 @@
    ; Info: Garlic-attracted guy @ downstairs from Sadam Woods (Strigoi cemetery)
    ;   Between Alba & Ondol
    [nl]
-   Ich[nl]
-   überlasse[nl]
+   Herr,[nl]
+   Ich vermache[nl]
    Euch diesen[nl]
-   besonderen[nl]
+   wertvollen[nl]
    Seidenbeutel.
 
 +016u: ;JA @67DB[3:DRQ_E_10]
@@ -1284,8 +1284,8 @@
    silbernen[nl]
    Dolch.[nl]
    [nl]
-   Er möge[nl]
-   Euch oft den[nl]
+   Er möge Euch[nl]
+   stets den[nl]
    Hals retten.
 
 +018u: ;JA @6D6E[9:DRQ_ETC2]
@@ -1296,7 +1296,7 @@
    [nl]
    Ich werde[nl]
    Euch meinen[nl]
-   Diamanten[nl]
+   Rosenstein[nl]
    überlassen.
 +120u: ;JA @6466[4:DRQ_YCOM]
    ;ENG: I BEG OF YOU/TO TAKE/THESE/LAURELS.
@@ -1304,14 +1304,13 @@
    ; Literal translation: Laurels will be gifted/granted/awarded.
    ; Info: In Mansion 5, Laruba
    [nl]
-   Bitte, nehmt[nl]
-   Euch von[nl]
-   meinen[nl]
-   Lorbeer-[nl]
-   Blättern!![nl]
-   [nl]
+   Bitte,[nl]
+   nehmt Euch[nl]
+   soviel[nl]
+   Lorbeerblatt[nl]
+   Ihr könnt.[nl][nl]
    Gott segne[nl]
-   Euch.
+   Euch!!
 
 ;;;; Acquisitions: Dracula's body parts ;;;;
 
@@ -1322,40 +1321,40 @@
    ; Comments: The term "was placed in your hand" commonly occurs in JRPGs,
    ;   and it simply means "you acquired".
    [nl]
-   Ihr besitzt[nl][nl]
-   nun[nl][nl]
+   Ihr verfügt[nl][nl]
+   nun über[nl][nl]
    Draculas[nl][nl]
    Rippe.
 +025u: ;JA @6443[6:DRQ_YK_2]
    ;ENG: YOU NOW/POSSESS/DRACULA'S/HEART.
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/SHINZOUWO/TENIIRETA
    [nl]
-   Ihr besitzt[nl][nl]
-   nun[nl][nl]
+   Ihr verfügt[nl][nl]
+   nun über[nl][nl]
    Draculas[nl][nl]
    Herz.
 +026u: ;JA @63C4[7:DRQ_YK_3]
    ;ENG: YOU NOW/POSSESS/DRACULA'S/EYEBALL.
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/MEDAMAWO/TENIIRETA
    [nl]
-   Ihr besitzt[nl][nl]
-   nun[nl][nl]
+   Ihr verfügt[nl][nl]
+   nun über[nl][nl]
    Draculas[nl][nl]
    Auge.
 +027u: ;JA @6474[8:DRQ_YK_4]
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/TSUMEWO/TENIIRETA
    ;ENG: YOU NOW/POSSESS/DRACULA'S/NAIL.
    [nl]
-   Ihr besitzt[nl][nl]
-   nun[nl][nl]
+   Ihr verfügt[nl][nl]
+   nun über[nl][nl]
    Draculas[nl][nl]
-   Nagel.
+   Kralle.
 +028u: ;JA @6447[4:DRQ_YCOM]
    ;ENG: YOU NOW/POSSESS/DRACULA'S/RING.
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/YUBIWAWO/TENIIRETA
    [nl]
-   Ihr besitzt[nl][nl]
-   nun[nl][nl]
+   Ihr verfügt[nl][nl]
+   nun über[nl][nl]
    Draculas[nl][nl]
    Ring.
 
