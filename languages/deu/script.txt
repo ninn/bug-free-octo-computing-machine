@@ -1498,7 +1498,7 @@
    [nl]
    Wollt Ihr[nl]
    Weihwasser[nl]
-   erwerben?[nl]
+   erstehen?[nl]
    Es wird[nl]
    Euch helfen!!
 
@@ -1512,7 +1512,8 @@
    Oh,verzeiht!![nl][nl]
    Ich dachte,[nl]
    Ihr seid[nl]
-   ein Vampir.
+   einer Vampir.
+
 +121u:
    ; Info: Given as a replacement for 056, if player has a crystal and dialog_ext was enabled
    ; Comments: ADDED DIALOGUE.
@@ -1521,11 +1522,11 @@
    Jeder[nl]
    Edelstein[nl]
    besitzt[nl]
-   Fähigkeiten.[nl]
+   einen Willen.[nl]
    Der Rubin[nl]
-   ist das[nl]
-   stärkste[nl]
-   Juwel.
+   ist der[nl]
+   Stärkste[nl]
+   unter Ihnen.
 +122u:
    ; AUCH NEU
    ; Info: Given as a replacement for 102, if player has the silk bag and dialog_ext was enabled
@@ -1536,9 +1537,9 @@
    die Sümpfe[nl]
    nicht ohne[nl]
    Knoblauch[nl]
-   durchkreuzen.[nl]
+   kreuzen.[nl]
    Zigeuner[nl]
-   lieben ihn[nl]
+   horten ihn[nl]
    deshalb.
    
 +123u:
@@ -1549,10 +1550,10 @@
    ;   If the player has the flame, the guy talks about something else than the flame.
    [nl]
    Draculas[nl]
-   Ring ver.[nl]
-   wandelt den[nl]
-   Träger in[nl]
-   einen Vampir.
+   Ring lässt[nl]
+   Euch hängen[nl]
+   wie ein[nl]
+   Vampir.
 
 +124u:
    ; Info: Given as a replacement for 90, if the player is level 0 or 1.
@@ -1603,12 +1604,12 @@
    ; Meaning: Helpful instruction. Normally the guy talks about garlic.
    ;   If the player already has garlic, he talks about something else.
    [nl]
-   Ihr wollt[nl]
-   Euren Kampf[nl]
-   verbessern?[nl]
-   Kämpft in[nl]
+   Um Art und[nl]
+   Weise zu[nl]
+   verbessern,[nl]
+   Kämpft auf[nl]
    fremden[nl]
-   Gebieten.
+   Boden.
    
 
 +150u:
@@ -1651,7 +1652,7 @@
    Nun, ich bin[nl]
    Gelehrter,[nl]
    Wissender[nl]
-   alten Kodes.[nl]
+   der Gebote.[nl]
    Ich bin[nl]
    hier auf[nl]
    Reise.
@@ -1666,7 +1667,7 @@
    Redet auf[nl]
    jeden Fall[nl]
    mit meiner[nl]
-   Freundin in[nl]
+   Liebsten in[nl]
    Yomi. Sie[nl]
    will helfen.
 
@@ -1705,10 +1706,10 @@
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Jump and talk to the ferryman.
    [nl]
-   Man kann[nl]
-   hier nicht[nl]
-   mal mehr[nl]
-   fischen.[nl]
+   Der Fisch[nl]
+   von hier[nl]
+   schmeckt[nl]
+   nicht mehr.[nl]
    Ach...[nl]
    Wo ist nur[nl]
    der Held,[nl]
@@ -1724,7 +1725,7 @@
    mir so sehr,[nl]
    dass Ihr der[nl]
    Held seid,[nl]
-   der Fluche[nl]
+   der Flüche[nl]
    bannen kann.[nl]
    Ich vermisse[nl]
    es, hier zu[nl]
@@ -1740,9 +1741,9 @@
    wie meine[nl]
    Hosentasche.[nl]
    Jeden Strom,[nl]
-   jeden Wirbel,[nl]
+   jeden Wirbel[nl]
    ...und nun,[nl]
-   jeden Dämon.[nl]
+   die Untiere.[nl]
    Arr...
 
 +149u:
@@ -1753,7 +1754,7 @@
    feiner Ring[nl]
    den Ihr da[nl]
    tragt. Wer[nl]
-   schuf ihn?[nl]
+   schuf Ihn?[nl]
    Der wird den[nl]
    Dirnen wohl[nl]
    rasch ins[nl]
