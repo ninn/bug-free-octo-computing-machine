@@ -1001,7 +1001,7 @@
    Lorbeerblatt[nl]
    erträgt man[nl]
    die Fäulnis[nl]
-   der Sümpfe[nl]
+   der Sümpfe.[nl]
    
 +088u: ;JA @72B6[1:DRQ_MAC1]
    ;JAP: NOROWARESHI/DEDDORIBA-/IMANAO NOROIWO/TOKUMONO MACHIWABIRU/KAWA
@@ -1013,11 +1013,10 @@
    verfluchte,[nl]
    tote Fluss!![nl]
    [nl]
-   Er[nl]
-   wartet noch[nl]
-   sehnsüchtg[nl]
-   auf den Bann[nl]
-   des Fluches.
+   Der Damm[nl]
+   bricht mit[nl]
+   dem Fluch[nl]
+   des Flusses.[nl]
 +087u: ;JA @7284[1:DRQ_MAC1]
    ;ENG: TO RESTORE/YOUR LIFE,/SHOUT IN/FRONT OF/THE CHURCH.
    ;JAP: ARUDORANOMACHINO/KYOUKAINOMAEDE/YOSHIMI!! TOSAKEBUTO/RAIFUGA MANTANNI/NARUYO!!
@@ -1032,15 +1031,18 @@
    ;   I put a different funny sentence in the translation.
    ; Info: Man on 2nd stair in town of Aljiba
    ;***********.
+   ;
+   ;
+   ;
+   ;
+   Au weh.[nl]
+   Die Hand die[nl]
+   einen nährt,[nl]
+   sollte man[nl]
+   nicht beißen!![nl]
    [nl]
-   Es ist gut,[nl]
-   in einer[nl]
-   Kirche[nl]
-   geboren zu[nl]
-   werden, aber[nl]
-   furchtbar[nl]
-   darin zu[nl]
-   sterben.
+   Vermaledeite[nl]
+   Vampire!![nl]
 
 ;;;; Doina/Fetra NPCs ;;;;
 
@@ -1060,8 +1062,8 @@
    so innig[nl]
    gehofft[nl]
    Euch nie[nl]
-   wieder sehen[nl]
-   zu müssen.
+   wieder zu[nl]
+   begegnen.
 
 +100u: ;JA @73C1[1:DRQ_MAC1]
    ;ENG: GET BACK!!
@@ -1108,7 +1110,7 @@
    Verlasst die[nl]
    Raubersburg[nl]
    nicht ohne[nl]
-   das Heilige[nl]
+   das geweihte[nl]
    Rosenkreuz.[nl]
    Ihr sollt es[nl]
    dort finden!!
@@ -1128,8 +1130,8 @@
    Es ist sehr[nl]
    behaglich[nl]
    hier.[nl]
-   Bleibt doch[nl]
-   auch hier. 
+   Setz Dich[nl]
+   doch zu mir. 
 
 ;;;; Ferryman ;;;;
 
@@ -1142,8 +1144,8 @@
    ;***********.
    [nl]
    Freund,...[nl]
-   Ich werde[nl]
-   Euch wohl an[nl]
+   Gewiss werde[nl]
+   ich Dich an[nl]
    einen guten[nl]
    Ort bringen.[nl]
    Har har!!
@@ -1155,12 +1157,11 @@
    ; Comments: Dialog shown when you talk to ferryman on Belasco Marsh shore whilst showing heart.
    ;***********.
    [nl]
-   Herr,[nl]
+   [nl]
    Lasst mich[nl]
-   Euch zum[nl]
-   Ort Eurer[nl]
-   Bestimmung[nl]
-   führen!![nl]
+   Euch auf den[nl]
+   rechten Pfad[nl]
+   lotsen.[nl][nl]
 
 ; Was unused, but now is used.
 +019u: ;JA @6D83[9:DRQ_ETC2]
@@ -1172,9 +1173,9 @@
    Ihr habt es[nl]
    vollendet?[nl]
    Dann auf,[nl]
-   auf zurück[nl]
-   ins dunkle[nl]
-   Moor.[nl]
+   zurück ins[nl]
+   dunkle Moor.[nl]
+   [nl]
    Har Har Har!!
 ;;;; "Friend" ;;;;
 
@@ -1211,10 +1212,10 @@
    ;ENG: I REFUSE TO/EXCHANGE MY/CRYSTAL FOR/YOURS.
    ;***********.
    [nl]
-   Ich biete[nl]
+   Ich bereite[nl]
    Edelsteine[nl]
    zum Tausch[nl]
-   an. [nl]
+   vor.[nl]
    Doch Ihr[nl]
    habt kein[nl]
    Juwel von[nl]
