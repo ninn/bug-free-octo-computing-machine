@@ -1304,13 +1304,13 @@
    ; Literal translation: Laurels will be gifted/granted/awarded.
    ; Info: In Mansion 5, Laruba
    [nl]
-   Bitte,[nl]
-   nehmt Euch[nl]
+   Bitte, Junge,[nl]
+   nimmt Dir[nl]
    soviel[nl]
    Lorbeerblatt[nl]
-   Ihr könnt.[nl][nl]
+   Du kannst.[nl][nl]
    Gott segne[nl]
-   Euch!!
+   Dich!!
 
 ;;;; Acquisitions: Dracula's body parts ;;;;
 
@@ -1367,7 +1367,7 @@
    ; Literal translation: In this instant, the sacred flame was placed in your hand.
    [nl]
    Ihr nehmt[nl][nl]
-   die Heilige[nl][nl]
+   Die Heilige[nl][nl]
    Flamme[nl][nl]
    an Euch.
 +119u: ;JA @6416[7:DRQ_YK_3]
@@ -1378,7 +1378,7 @@
    ;***********.
    [nl]
    Ihr nehmt[nl][nl]
-   das Goldene[nl][nl]
+   Das Goldene[nl][nl]
    Messer[nl][nl]
    an Euch.
 +038u: ;JA @644F[4:DRQ_YCOM]
@@ -1388,7 +1388,7 @@
    ; Dropped by Camilla.
    [nl]
    Ihr nehmt[nl][nl]
-   das[nl][nl]
+   Das[nl][nl]
    Rosenkreuz[nl][nl]
    an Euch.
 
@@ -1400,8 +1400,8 @@
    ;ENG: REST HERE/FOR A WHILE.
    ; Literal translation: Let your body rest here and then go. In the name of Father, Son and Holy Spirit, amen.
    [nl]
-   Ruhe Dich[nl]
-   hier aus,[nl]
+   Weile hier,[nl]
+   bete mit mir[nl]
    mein Sohn.[nl]
    [nl]
    Gottes Segen[nl]
@@ -1412,8 +1412,8 @@
    ;JAP: KASHINOKINOKUIWO/KATTEYUKANUKA?
    ;***********.
    [nl]
-   Benötigt Ihr[nl]
-   einen Pflock[nl]
+   Asche für[nl]
+   den Pflock[nl]
    aus Eiche?
   
 +047u: ;JA @67F6[0:DRQ_MAC0]
@@ -1623,9 +1623,9 @@
    Wer hat Euch[nl]
    das erzählt?[nl]
    Wo ist der[nl]
-   echte Held,[nl]
-   der den Fluch[nl]
-   bannen kann.
+   Held, dessen[nl]
+   Fluch nicht[nl]
+   übel riecht?
 
 +151u:
    ; Info: Replaces 106 if the player is showing the rosary.
@@ -1638,10 +1638,9 @@
    nicht ohne...[nl]
    OH!! Das[nl]
    Rosenkreuz!![nl]
-   Ich hätte[nl]
-   nicht an Euch[nl]
-   zweifeln[nl]
-   dürfen.
+   Ich durfte[nl]
+   an Euch nie[nl]
+   zweifeln.[nl] 
    
 +152u:
    ; Info: This is Bisqwit secret character in Denis Marsh. Number must be &3 = 0.
@@ -1650,10 +1649,10 @@
    Ich? Was ich[nl]
    hier mache?[nl]
    Nun, ich bin[nl]
-   der eine, der[nl]
-   die Schriften[nl]
-   übersetzt[nl]
-   hat. Ich bin[nl]
+   Gelehrter,[nl]
+   Wissender[nl]
+   alten Kodes.[nl]
+   Ich bin[nl]
    hier auf[nl]
    Reise.
 
@@ -1684,7 +1683,7 @@
    gute Arbeit.[nl]
    Nehmt diese[nl]
    Kräuter.[nl]
-   Viel Erfolg.
+   Viel Erfolg!!
 
 +155u:
    ; NEU machen. klingt nicht gut.
@@ -1725,7 +1724,7 @@
    mir so sehr,[nl]
    dass Ihr der[nl]
    Held seid,[nl]
-   der den Fluch[nl]
+   der Fluche[nl]
    bannen kann.[nl]
    Ich vermisse[nl]
    es, hier zu[nl]
