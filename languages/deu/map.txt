@@ -11,7 +11,7 @@
    "5" :  "Dorf Doina",        // DOINA
    "6" :  "Dorf Yomi",         // YOMI
   //
-   "7" :  "Burg Berkley",// BA-KUREI NO YAKATA  (yakata = mansion, small castle)
+   "7" :  "Burg Berkeley",// BA-KUREI NO YAKATA  (yakata = mansion, small castle)
    "8" :  "Schloss Lauber",  // RO-BA- NO YAKATA
    "9" :  "Brahmsburg",  // BURA-MU NO YAKATA
   "10" :  "Burg Bathory", // BADORI- NO YAKATA

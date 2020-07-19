@@ -231,13 +231,13 @@
    ;   progress to the area under the lake. At two distinct locations.
    ; Comments: Clue 5, in Aljiba Woods. Hinted by string 103.
    [nl]
-   Wenn Ihr mit[nl]
+   Betet mit[nl]
    einem Saphir[nl]
    am Ufer[nl]
-   des Sees[nl]
-   betet, so[nl]
-   versickert[nl]
-   das Wasser.
+   des Sees,[nl]
+   wird[nl]
+   das Wasser[nl]
+   versiegen.
    
 +092u: ;JA @7321[1:DRQ_MAC1]
    ;ENG: AN OLD GYPSY/HOLDS A/DIAMOND IN/FRONT OF DE-/BORAH CLIFF.
@@ -249,7 +249,7 @@
    ;   One of them has the gypsy and the other has the whirlwind event.
    ; Comments: Clue 6, in town of Aljiba. Hinted by string 79.
    [nl]
-   Die alte[nl]
+   Die graue[nl]
    Zigeunerin[nl]
    in Jams[nl]
    Einöde wacht[nl]
@@ -267,9 +267,9 @@
    ; Comments: Clue 7 in Rover Mansion. Hinted by string 105.
    [nl]
    Das Herz[nl]
-   des Teufels[nl]
-   bannt die[nl]
-   Geisel des[nl]
+   des Tieres[nl]
+   lotst die[nl]
+   Geiseln des[nl]
    Fluches.
 +033u: ;JA @644C[6:DRQ_YK_2]
    ;ENG: GARLIC IN/THE/GRAVEYARD/SUMMONS A/STRANGER.
@@ -331,7 +331,7 @@
    ; Comments: Clue 11, at Deborah cliff. Not hinted.
    [nl]
    Draculas[nl]
-   Nagel[nl]
+   Kralle[nl]
    besitzt[nl]
    die Macht[nl]
    trügerische[nl]
@@ -394,7 +394,7 @@
    [4D][4D][4D]VEROS[4D][4D][4D][4D]
    [gosubFC:02]
    Dabis[nl]
-   [60][60][60]Höhlenweg
+   [60][60][60]Grottenweg
    [gosubFC:03]
    Wälder von[nl]
    [60][60][60]Veros
@@ -537,7 +537,7 @@
    ;   I recommend not translating it literally. Personally I devised my own proverb for this line.
    ; Info: Elder sitting in house in town of Ondol
    ;***********.
-   [nl]
+   ;[nl]
    ;DEATH[nl][nl]
    ;FOLLOWS[nl][nl]
    ;THAT WHO[nl][nl]
@@ -886,7 +886,7 @@
    Vermächtnis[nl]
    findet Ihr[nl]
    in der Burg[nl]
-   Berkley.
+   Berkeley.
 +080u: ;JA @731F[2:DRQ_MAC2]: DORAKYURANO NAZOWO/TOKU BUNKENGA/BA-KUREINOYAKATANI/NEMURUTO/TSUTAERARETEIRU
    ;JAP: TABINOHITO/KAOIROGA YOKUNAINE/KYOUKAIDE SUKOSHI/YASUMINASAI
    ;ENG: YOU LOOK/PALE,MY SON./YOU MUST/REST IN THE/CHURCH.
@@ -1000,8 +1000,8 @@
    Mit einem[nl]
    Lorbeerblatt[nl]
    erträgt man[nl]
-   die Fäulnis[nl]
-   der Sümpfe.[nl]
+   die Fäule in[nl]
+   den Sümpfen.[nl]
    
 +088u: ;JA @72B6[1:DRQ_MAC1]
    ;JAP: NOROWARESHI/DEDDORIBA-/IMANAO NOROIWO/TOKUMONO MACHIWABIRU/KAWA
@@ -1010,7 +1010,7 @@
    ; Info: Lady on 2nd stair in town of Aljiba
    [nl]
    Dieser[nl]
-   verfluchte,[nl]
+   verdammte,[nl]
    tote Fluss!![nl]
    [nl]
    Der Damm[nl]
