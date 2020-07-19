@@ -523,10 +523,10 @@
    ; Literal translation: Please take my daughter. Right now I won't ask for anything else.
    ; Info: Monk in 2nd stair in town of Ondol
    ;***********.
-   Bringt meine[nl]
-   Tochter weg[nl]
-   von hier!![nl]
-   Das ist mein[nl]
+   Nehmt meine[nl]
+   Tochter an[nl]
+   Euch!![nl]
+   Das sei mein[nl]
    einziger[nl]
    Wunsch...
 +073u: ;JA @73E2[2:DRQ_MAC2]
@@ -626,7 +626,7 @@
    großes Loch[nl]
    schlagt doch[nl]
    Euren Kopf[nl]
-   gegen den[nl]
+   gegen die[nl]
    Felsen von[nl]
    Deborah!!
 +104u: ;JA @7418[0:DRQ_MAC0]
@@ -637,11 +637,10 @@
    ; Info: Lady in 3rd stair in town of Aldra
    ;   Refers to clue 12. Correct.
    [nl]
-   Spuren zu[nl]
    Draculas[nl]
-   Vermächtnis[nl]
-   schlafen in[nl]
-   Burg Bathory.
+   Letzer Wille[nl]
+   weilt in[nl]
+   Burg Bathory.[nl]
 +097u: ;JA @73B4[0:DRQ_MAC0]
    ;ENG: I'VE BEEN/WAITING FOR/A GOOD/LOOKING GUY/LIKE YOU.
    ;JAP: ANATATTE HANSAMUNE/WATASHI/ANATANOYOUNAHITOWO/MATTETANO
@@ -654,10 +653,10 @@
    Ihr seid[nl]
    eine[nl]
    Augenweide!![nl][nl]
-   Ich sehnte[nl]
-   mich nach[nl]
-   einem wie[nl]
-   Euch.
+   Ich sehne[nl]
+   mich so nach[nl]
+   einem Mann[nl]
+   wie Euch.
    
    
 +102u: ;JA @73F1[0:DRQ_MAC0]
@@ -687,8 +686,9 @@
    ;   My text deviates from this meaning for no particular reason.
    ; Info: Lady in 1st stair in town of Aldra
    [nl]
-   Bleibt heute[nl]
-   Nacht hier.[nl][nl]
+   Bitte bleibt[nl]
+   heute Nacht[nl]
+   bei mir.[nl]
    Ich meine es[nl]
    gut mit Euch!!
 +089u: ;JA @72DF[1:DRQ_MAC1]
@@ -717,12 +717,12 @@
    ; Info: Monk in 2nd stair in town of Jova (first person you meet)
    ; In dialog_ext mode, replaced with 121 once player has a crystal.
    [nl]
-   Geht, und[nl]
-   kauft einen[nl]
+   Geht nun,[nl]
+   holt einen[nl]
    Kristall!![nl]
    [nl]
-   So nimmt es[nl]
-   seinen Lauf.
+   So wird es[nl]
+   beginnen.
 +076u: ;JA @72FF[0:DRQ_MAC0]
    ;ENG: A CROOKED/TRADER IS/OFFERING BUM/DEALS IN/THIS TOWN.
    ;JAP: MACHINIHA KAKURETE/SHOUBAIWO SURU/BAININGA IRU
@@ -765,15 +765,14 @@
    ; Comments: Compare to string 57.
    ; Info: Monk in 1st stair (ground) in town of Jova
    [nl]
-   Ein Freund[nl]
-   wartet[nl]
+   Ein Kamerad[nl]
+   wartet schon[nl]
    in der[nl]
-   Stadt Aldra.[nl]
-   Ihr müsst[nl]
-   Ihn[nl]
-   aufsuchen,[nl]
-   egal was[nl]
-   passiert.
+   Stadt Aldra.[nl][nl]
+   Geht zu ihm,[nl]
+   lasst Euch[nl]
+   nicht davon[nl]
+   abhalten.
 +068u: ;JA @72D5[0:DRQ_MAC0]
    ;JAP: DEDDORIBA-NO/SENDOUHA/NINNIKUGA/KOUBUTSUTO/KIITAKOTOGAARU
    ;ENG: RUMOR HAS IT/, THE FERRY-/MAN AT DEAD/RIVER LOVES/GARLIC.
@@ -781,15 +780,15 @@
    ; Comments: Nonsense, but he would love to see something else.
    ; Info: Man in 1st stair in town of Jova
    [nl]
-   Kennt Ihr[nl]
-   den Fährmann[nl]
+   Wisst Ihr,[nl]
+   der Fährmann[nl]
    am toten[nl]
    Fluss?[nl]
    Man erzählt,[nl]
-   dass er[nl]
-   immer[nl]
+   er nähme[nl]
    Knoblauch[nl]
-   essen kann.
+   fuer bare[nl]
+   Münze.
 +077u: ;JA @731F[0:DRQ_MAC0]
    ;JAP: SEINARUHONOOGA/DENISUNOMORINO/6BANMENO KINOUENI/ARU
    ;ENG: A FLAME IS/ON TOP OF/THE 6TH TREE/IN DENIS/WOODS.

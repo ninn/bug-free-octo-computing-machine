@@ -43,7 +43,7 @@
   "30" :  "Felsen von Deborah",  // DEBORA NO GAKE
   "31" :  "Jams Brachland",    // JAMU NO ARECHI
 
-  "32" :  "Dabis Höhlenweg",   //* DABI NO CHIKADOU
+  "32" :  "Dabis Grottenweg",   //* DABI NO CHIKADOU
   "33" :  "Uta Grotte",   // Does not occur in Japanese
   "34" :  "Brandgraben",  // * JAAKU NO MIZO (not in map). Wicked ditch
 
