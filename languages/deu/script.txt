@@ -1749,25 +1749,25 @@
    ; Info: Replaces 75 if you show the ring.
    ; Comments: ADDED DIALOGUE.
    [nl]
-   That's a[nl]
-   pretty ring[nl]
-   you have[nl]
-   there.[nl]
-   Who made it?[nl]
-   It will sure[nl]
-   catch the[nl]
-   attention[nl]
-   of women.
+   Das ist ein[nl]
+   feiner Ring[nl]
+   den Ihr da[nl]
+   tragt. Wer[nl]
+   schuf ihn?[nl]
+   Der wird den[nl]
+   Dirnen wohl[nl]
+   rasch ins[nl]
+   Auge fallen.
 
 +148u:
    ; Info: Replaces 67 if you have laurel power active.
    ; Comments: ADDED DIALOGUE.
    [nl]
-   Who touched[nl]
-   me!!?[nl]
+   Wer berührt[nl]
+   mich!!?[nl]
    [nl]
-   Show[nl]
-   yourself!!
+   Zeige[nl]
+   Dich!!
 
 ; 13 strings: Short names for each clue
 ; No substring compression for these.
