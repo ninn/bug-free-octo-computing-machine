@@ -281,7 +281,7 @@
    Knoblauch am
    Friedhof
    erlegt
-   Dämonen.
+   Dämonen.[nl][nl]
    Jemand wird
    auf Euch
    zukommen.
@@ -509,7 +509,7 @@
    ; Info: Guy in 2nd stair in town of Ondol
    ;***********.
    [nl]
-   Grüß Gott!!
+   Grüß Gott!![nl][nl]
    Nun sagt,
    wie habt Ihr
    es mit Gott?
@@ -523,7 +523,7 @@
    [nl]
    Nehmt meine
    Tochter an
-   Euch!!
+   Euch!![nl][nl]
    Das sei mein
    einziger
    Wunsch...
@@ -544,7 +544,7 @@
    [nl]
    Was tot ist,
    beißt nicht
-   mehr!!
+   mehr!![nl][nl]
    Lasst die
    Toten ruhen.
 
@@ -590,7 +590,7 @@
    ; Info: Lady in 3rd stair in town of Aldra
    ;***********.
    [nl]
-   Vergebung!!
+   Erbarmen!!
    Es sind sehr
    schlechte
    Zeiten.
@@ -603,11 +603,11 @@
    ; Info: Lady in 3rd stair in town of Aldra
    ; Replaced by 116 in dialog_ext mode after a certain day.
    [nl]
-   Heute.
+   Heute.[nl]
    Zu
-   Mitternacht.
+   Mitternacht.[nl]
    Am Ufer
-   des Flusses.
+   des Flusses.[nl]
    Seid dort.
 +093u: ;JA @7370[0:DRQ_MAC0]
    ;ENG: HIT DEBORAH/CLIFF WITH/YOUR HEAD TO/MAKE A HOLE.
@@ -636,8 +636,8 @@
    ;   Refers to clue 12. Correct.
    [nl]
    Draculas
-   Letzer Wille
-   weilt in
+   Vermächtnis
+   ruht in
    Burg Bathory.
 +097u: ;JA @73B4[0:DRQ_MAC0]
    ;ENG: I'VE BEEN/WAITING FOR/A GOOD/LOOKING GUY/LIKE YOU.
@@ -686,7 +686,7 @@
    [nl]
    Bitte bleibt
    heute Nacht
-   bei mir.
+   bei mir.[nl][nl]
    Ich meine es
    gut mit Euch!!
 +089u: ;JA @72DF[1:DRQ_MAC1]
@@ -717,9 +717,10 @@
    [nl]
    Geht nun,
    holt einen
-   Kristall!!
-   So wird es
-   beginnen.
+   Kristall!![nl][nl]
+   So nimmt  
+   Alles seinen
+   Lauf.
 +076u: ;JA @72FF[0:DRQ_MAC0]
    ;ENG: A CROOKED/TRADER IS/OFFERING BUM/DEALS IN/THIS TOWN.
    ;JAP: MACHINIHA KAKURETE/SHOUBAIWO SURU/BAININGA IRU
@@ -1026,7 +1027,7 @@
    ; Info: Man on 2nd stair in town of Aljiba
    ;***********.
    [nl]
-   Au weh.
+   Au weh.[nl][nl]
    Die Hand die
    einen nährt,
    sollte man
@@ -1046,7 +1047,7 @@
    ; Info: Monk on ground in town of Doina
    [nl]
    Ihr schon
-   wieder!!
+   wieder!![nl][nl]
    Ich hatte
    so innig
    gehofft
