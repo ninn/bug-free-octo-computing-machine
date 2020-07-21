@@ -781,7 +781,7 @@
    Wisst Ihr,
    der Fährmann
    am toten
-   Fluss?
+   Fluss?[nl]
    Man erzählt,
    er nähme
    Knoblauch
@@ -864,7 +864,7 @@
    ;   My re-translation, "pickle", means both a broth and a difficult situation.
    ;   I suggest you also do something similar in your language, if possible.
    ; Info: Guy on ground in town of Veros
-   [nl]
+   [nl][nl]
    Lorbeer
    kann im Topf
    und im Kampf
