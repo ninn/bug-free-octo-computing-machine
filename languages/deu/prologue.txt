@@ -113,9 +113,9 @@
 	Die Gestalt näherte sich[nl]
 	Simon und sprach:
 [timer_wait:0B62][clear][color:35]
-	"Ein finsterer Fluch hat von[nl]
-	Eurem Körper Besitz ergriffen.[nl]
-	Euer Tod ist nah, Simon.
+	"Ein düsterer Fluch hat von[nl]
+	Eurem Leib Besitz ergriffen.[nl]
+	Der Tod ist nah, Simon.
 [COMMENT: Note: Cannot use capital "Y" here.]
 [timer_wait:0C56][clear]
 	Doch, besitzt Ihr noch den[nl]
@@ -123,8 +123,8 @@
 	Mächten der Finsternis wieder[nl]
 	die Stirn zu bieten ...
 [timer_wait:0DB7][clear]
-	... Gott würde euch gewiss[nl]
-	die nötige Kraft verleihen.
+	... gewiss, der Herrgot würde[nl]
+	Euch die nötige Kraft verleihen.
 [stop_scene][SPECIAL_SCENE:04]
 [timer_wait:0E97][clear]
 	Seit sieben Jahren, seit dem[nl]
