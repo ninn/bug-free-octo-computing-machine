@@ -377,11 +377,11 @@
    ;***********.
    [4D][4D][4D][4D]JOVA[4D][4D][4D][4D]
    [gosubFC:02]
-   Wälder von[nl]
-   [60][60][60]Jova
+   Brücke[nl]
+   [60][60][60]nach Veros
    [gosubFC:03]
    Belasco[nl]
-   [60][60][60]Moor
+   [60][60][60]Moorland
 +059u: ;JA @7277[2:DRQ_MAC2]
    ;JAP: MIGI/DABINO CHIKADOU/HIDARI/BEROSUNO MORI
    ;ENG: TURN RIGHT/FOR DABI'S/PATH LEFT/FOR THE/VEROS WOODS.
@@ -391,10 +391,10 @@
    [4D][4D][4D]VEROS[4D][4D][4D][4D]
    [gosubFC:02]
    Dabis[nl]
-   [60][60][60]Grottenweg
+   [60][60][60]Klamm
    [gosubFC:03]
-   Wälder von[nl]
-   [60][60][60]Veros
+   Brücke nach[nl]
+   [60][60][60]Jova
 +081u: ;JA @7262[1:DRQ_MAC1]
    ;JAP: MIGI/KAMI-RABOCHI/HIDARI/ORUJIBANO MORI
    ;TURN RIGHT/FOR CAMILLA/CEMETERY,/LEFT FOR THE/ALJIBA WOODS.
@@ -671,8 +671,8 @@
    [nl]
    Der
    Seidenbeutel
-   vom Wächter
-   der Strigoi
+   des Friedhof-
+   Wächters
    verlängert
    Euer Leben!!
 
