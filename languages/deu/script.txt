@@ -682,7 +682,7 @@
    ;   My text deviates from this meaning for no particular reason.
    ; Info: Lady in 1st stair in town of Aldra
    [nl]
-   Bitte bleibt
+   Bleibt doch
    heute Nacht
    bei mir.[nl][nl]
    Ich meine es
@@ -699,7 +699,7 @@
    [nl]
    Draculas
    Auge
-   übersieht
+   durchschaut
    die Zierden
    des Fluches.
 
@@ -728,14 +728,14 @@
    ; Info: Monk in 2nd stair in town of Jova
    ;***********.
    [nl]
-   In der Stadt
-   gibt es
-   Händler, die
-   sich hinter
-   falschen
-   Wänden
-   verstecken.
-
+   Manche
+   Händler 
+   bieten ihre
+   Ware nur
+   mehr im 
+   Verborgenem,
+   unter der
+   Hand, an.
    
 +062u: ;JA @7290[0:DRQ_MAC0]
    ;ENG: 13 CLUES/WILL SOLVE/DRACULA'S/RIDDLE.
@@ -767,7 +767,7 @@
    Stadt Aldra.
    Geht zu ihm,
    lasst Euch
-   nicht davon
+   davon nicht
    abhalten.
 +068u: ;JA @72D5[0:DRQ_MAC0]
    ;JAP: DEDDORIBA-NO/SENDOUHA/NINNIKUGA/KOUBUTSUTO/KIITAKOTOGAARU
@@ -795,14 +795,14 @@
    ; Can be replaced with 123, equally nonsense, if dialog_ext is enabled.
    ;***********.
    [nl]
-   Man sagt,
+   Man sieht
    die heilige
-   Flamme
-   lodert in
+   Flamme in
    der Krone
-   des sechsten
+   des ältesten
    Baumes von
-   Denis Wald.
+   Denis Wald
+   lodern.
 +078u: ;JA @7342[0:DRQ_MAC0]
    ;ENG: CLUES TO/DRACULA'S/RIDDLE ARE/IN THE TOWN/OF VEROS.
    ;JAP: DORAKYURANO NAZOWO/TOKU BUNKENGA/BEROSUNOMACHINI/NEMURUTO/TSUTAERARETEIRU
