@@ -310,14 +310,14 @@
    ;   Why? Kaze does not mean soul/spirit in Japanese, even though
    ;   in some languages the words for spirit and wind share the same root.
    ; Comments: Clue 10, in Brahm's Mansion. Not hinted.
-   Kniet, und betet
-   mit einem 
-   Rubin auf den
+   [nl]Betet mit
+   einem Rubin 
+   gegen die
    Felsen von
    Deborah,
-   so eilt der
-   Wind zu
-   Geleit.
+   so eilt 
+   der Wind
+   zu Geleit.
 +020u: ;JA @6D9C[9:DRQ_ETC2]
    ;ENG: DRACULA'S/NAIL MAY/SOLVE/THE EVIL/MYSTERY.
    ;JAP: MAOUNOTSUMEHA/JAAKUNOKABEWO/UCHIKUDAKU CHIKARAWO/MOTSU
