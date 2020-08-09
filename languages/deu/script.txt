@@ -215,7 +215,9 @@
    ; Comments: Clue 4, in Berkeley Mansion. Hinted by string 80.
    ; TODO: PUN ABOUT THE FLYING EYES
    [nl]
-   Die Heilige
+   Viele Augen
+   suchen, doch 
+   die Heilige
    Flamme ruht
    an einem Ort
    fernab des
@@ -233,7 +235,7 @@
    einem Saphir
    am Ufer
    des Sees,
-   wird
+   so wird
    das Wasser
    versiegen.
    
@@ -253,7 +255,7 @@
    Einöde wacht
    über einen
    mächtigen
-   Edelstein.
+   Stein.
 +034u: ;JA @6478[6:DRQ_YK_2]
    ;ENG: DESTROY THE/CURSE WITH/DRACULA'S/HEART.
    ;JAP: MAOUNOSHINZOUHA/NOROWARESHIMONONO/NOROIWO TOKU
@@ -267,8 +269,7 @@
    Das Herz
    des Tieres
    lotst die
-   Geiseln des
-   Fluches.
+   Verfluchten.
 +033u: ;JA @644C[6:DRQ_YK_2]
    ;ENG: GARLIC IN/THE/GRAVEYARD/SUMMONS A/STRANGER.
    ;JAP: HAKABANI NINNIKUWO/OKUTO MAMONOHA/KIEUSE SONATAWO/MATSUHITOGA ARAWARERU
@@ -282,9 +283,9 @@
    Friedhof
    erlegt
    Dämonen.[nl][nl]
-   Jemand wird
-   auf Euch
-   zukommen.
+   Jemand
+   erwartet
+   Euch schon.
 
 +035u: ;JA @63CC[7:DRQ_YK_3]
    ;ENG: PLACE THE/LAURELS IN A/SILK BAG TO/BRING THEM/TO LIFE.
@@ -299,8 +300,8 @@
    gelagerte
    Kräuter
    leben auf!!
-   Das ist sehr
-   mächtig.
+   Sie halten
+   Dich jung.
 +036u: ;JA @63F1[7:DRQ_YK_3]
    ;ENG: WAIT FOR A/SOUL WITH A/RED CRYSTAL/ON DEBORAH/CLIFF.
    ;JAP: DEBORANOGAKENO/MAEDE/AKASUISHOUWO/KAKAGE/KAZEWOMATE
@@ -309,14 +310,14 @@
    ;   Why? Kaze does not mean soul/spirit in Japanese, even though
    ;   in some languages the words for spirit and wind share the same root.
    ; Comments: Clue 10, in Brahm's Mansion. Not hinted.
-   [nl]
-   Kniet, und
-   haltet den
-   Rubin gegen
-   den Felsen
-   von Deborah.
-   Erwartet den
-   Wirbelsturm.
+   Kniet, und betet
+   mit einem 
+   Rubin auf den
+   Felsen von
+   Deborah,
+   so eilt der
+   Wind zu
+   Geleit.
 +020u: ;JA @6D9C[9:DRQ_ETC2]
    ;ENG: DRACULA'S/NAIL MAY/SOLVE/THE EVIL/MYSTERY.
    ;JAP: MAOUNOTSUMEHA/JAAKUNOKABEWO/UCHIKUDAKU CHIKARAWO/MOTSU
@@ -342,14 +343,13 @@
    ;   The cursed swamp refers to the swamp/poison marsh of Joma, which is very long.
    ; Comments: Clue 12, in Bodley Mansion. Hinted by string 104.
    [nl]
-   ;***********.
-   Ohne den
+   Ohne gut
    veredelten
    Lorbeer
    geht Ihr im
    verfluchten
-   Moor zu
-   Grunde.
+   Moor gewiss
+   zu Grunde.
 +017u: ;JA @67F0[3:DRQ_E_10]
    ;ENG: DRACULA'S/EVIL KNIFE/BLURS/CAMILLA'S/VISION.
    ;JAP: SHINIGAMIGA/KAKUSHIMOTSU NAIFUNI/KAMI-RANO HITOMIHA/KUMORU
@@ -461,7 +461,7 @@
    [4D][4D][4D][4D]YOMI[4D][4D][4D][4D]
    [gosubFC:02]
    Vlads[nl]
-   [60][60][60]Friedhof
+   [60][60][60]Ruhestätte
    [gosubFC:03]
    Doras[nl]
    [60][60][60]Wald
@@ -497,7 +497,7 @@
    Gerücht,
    am Friedhof
    der Strigoi
-   seien auch
+   seien teure
    Edelsteine
    verscharrt.
 +070u: ;JA @7396[2:DRQ_MAC2]
@@ -525,7 +525,7 @@
    Tochter an
    Euch!![nl][nl]
    Das sei mein
-   einziger
+   letzter
    Wunsch...
 +073u: ;JA @73E2[2:DRQ_MAC2]
    ;ENG: DON'T LOOK/INTO THE/DEATH STAR,/OR YOU WILL/DIE.
@@ -544,9 +544,11 @@
    [nl]
    Was tot ist,
    beißt nicht
-   mehr!![nl][nl]
+   mehr!![nl]
    Lasst die
-   Toten ruhen.
+   Toten doch
+   in Frieden 
+   ruhen.
 
 
 +074u: ;JA @73FB[2:DRQ_MAC2]
@@ -556,7 +558,6 @@
    ; Comments: I'm not quite sure of the purpose of this line.
    ; Info: Monk in 1st stair(ground) in town of Ondol
    ;***********.
-   [nl]
    Ich flehe
    Euch an!!
    Bringt mich
@@ -571,7 +572,6 @@
    ;   how I look now, a long time ago I was very popular with women.
    ; Info: Monk in 3rd stair in town of Ondol
    ;***********.
-   [nl]
    Damals
    konnte ich
    Frauenherzen
@@ -589,8 +589,7 @@
    ; Accurate translation: I'm sorry, you see... Now is not a good time; perhaps next time.
    ; Info: Lady in 3rd stair in town of Aldra
    ;***********.
-   [nl]
-   Erbarmen!!
+   [nl]Erbarmen!!
    Es sind sehr
    schlechte
    Zeiten.
@@ -602,13 +601,12 @@
    ; Literal translation: Tonight, at 12am, near the river (in the vicinity of the river).
    ; Info: Lady in 3rd stair in town of Aldra
    ; Replaced by 116 in dialog_ext mode after a certain day.
-   [nl]
    Heute.[nl]
-   Zu
+   Gegen
    Mitternacht.[nl]
    Am Ufer
    des Flusses.[nl]
-   Seid dort.
+   Sei dort.
 +093u: ;JA @7370[0:DRQ_MAC0]
    ;ENG: HIT DEBORAH/CLIFF WITH/YOUR HEAD TO/MAKE A HOLE.
    ;JAP: DEBORANOGAKEWO/ZUTSUKIDE/KIRIHIRAKE SURUTO/OOKINA ANAGA/AKU
@@ -1747,7 +1745,7 @@
 +161s:
     Brahms Steg
 +162s:
-    Das Feuer
+    Feuerstelle
 +163s:
     Das Ufer
 +164s:
