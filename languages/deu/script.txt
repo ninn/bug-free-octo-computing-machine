@@ -134,7 +134,7 @@
    ;   Also, the original text speaks nothing of curse here.
    [nl]
    Eine[nl][nl]
-   furchtbare[nl][nl]
+   finstere[nl][nl]
    Nacht bricht[nl][nl]
    herein.
 
@@ -164,12 +164,12 @@
    ; Info: True. Without the white crystal, the entry to that mansion is difficult, but the crystal reveals a hidden moving platform.
    ; Comments: Clue 1, In town of Veros. Hinted by string 78.
    [nl]
-   Seht durch
-   den Kristall
-   in Burg
-   Berkley und
-   der Steig
-   erscheint.
+   Der Steig 
+   auf Burg 
+   Berkeley ist
+   mit einen 
+   Kristall gut
+   sichtbar.
 +030u: ;JA @64C6[5:DRQ_YK_1]
    ;ENG: A SYMBOL OF/EVIL WILL/APPAER WHEN/YOU STRIKE/THE STAKE.
    ;JAP: KASHINOKINOKUIWO/ARUMONONI UCHIKOMUTOKI/MAOUNO SHOUCHOUHA/ARAWARERU
@@ -182,10 +182,9 @@
    [nl]
    Gepfählt mit
    einen Pflock
-   aus Eiche
-   werden die
-   teuflischen
-   Relikte
+   aus Eiche 
+   wird der 
+   Leibhaftige
    erscheinen.
 +031u: ;JA @64EF[5:DRQ_YK_1]
    ;ENG: DESTROY THE/CURSE AND/YOU'LL RULE/BRAHM'S/MANSION.
@@ -198,12 +197,13 @@
    ;   and he will take you to the coast next to Brahm's mansion that you cannot otherwise access.
    ; Comments: Clue 3, in Berkeley Mansion. Hinted by string 80.
    [nl]
-   Bannt
+   Bannt Ihr
    den Fluch
-   des Flusses
-   um die
+   des Flusses,
+   kann man die 
    Brahmsburg
-   zu erreichen. 
+   wieder
+   erreichen. 
 
 +032u: ;JA @650E[5:DRQ_YK_1]
    ;ENG: A FLAME/FLICKERS/INSIDE THE/RING OF/FIRE.
