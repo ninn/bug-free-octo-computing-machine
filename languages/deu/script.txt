@@ -752,7 +752,7 @@
    könnt Ihr
    folgen, -[nl]
    Jede Spur
-   lüftet ein
+   verrät ein
    Geheimnis.
 +061u: ;JA @726D[0:DRQ_MAC0]
    ;JAP: ARUDORANOMACHINI/SONATANONAKAMAGA IRU/KANARAZU AINASARE
@@ -766,7 +766,7 @@
    in der
    Stadt Aldra.
    Geht zu ihm,
-   lasst Euch
+   laßt Euch
    davon nicht
    abhalten.
 +068u: ;JA @72D5[0:DRQ_MAC0]
@@ -783,7 +783,7 @@
    Man erzählt,
    er nähme
    Knoblauch
-   fuer bare
+   für bare
    Münze.
 +077u: ;JA @731F[0:DRQ_MAC0]
    ;JAP: SEINARUHONOOGA/DENISUNOMORINO/6BANMENO KINOUENI/ARU
@@ -1003,13 +1003,13 @@
    ; Accurate translation: The accursed Dead River. A river that still desperate awaits for the one/the thing that will break the curse.
    ; Info: Lady on 2nd stair in town of Aljiba
    [nl]
-   Dieser
-   verdammte,
-   tote Fluss!!
-   Der Damm
-   bricht mit
-   dem Fluch
-   des Flusses.
+   Grausames
+   geschah mit
+   dem Fluß.
+   Und nun
+   geschieht es
+   auch mit uns.
+
 +087u: ;JA @7284[1:DRQ_MAC1]
    ;ENG: TO RESTORE/YOUR LIFE,/SHOUT IN/FRONT OF/THE CHURCH.
    ;JAP: ARUDORANOMACHINO/KYOUKAINOMAEDE/YOSHIMI!! TOSAKEBUTO/RAIFUGA MANTANNI/NARUYO!!
@@ -1024,14 +1024,13 @@
    ;   I put a different funny sentence in the translation.
    ; Info: Man on 2nd stair in town of Aljiba
    ;***********.
-   [nl]
-   Au weh.[nl][nl]
+   Au weh!!
    Die Hand die
    einen nährt,
    sollte man
    nicht beißen!!
    Vermaledeite
-   Vampire!!
+   Blutsauger!!
 
 ;;;; Doina/Fetra NPCs ;;;;
 
@@ -1071,10 +1070,11 @@
    Euretwegen
    sind die
    Blutsauger
-   erst hier!!
-   Verlasst die
+   doch erst 
+   hier!!
+   Verlaßt die
    Stadt, geht
-   wieder!!
+   zurück!!
 +106u: ;JA @73EA[1:DRQ_MAC1]
    ;ENG: THE CROSS IN/LARUBA'S /MANSION MUST/BE FOUND.
    ;JAP: RARUBANOYAKATADE/ROZARIOWO/KANARAZU/TENIIRERUNJAZO
@@ -1094,12 +1094,12 @@
    ;FAILURE[nl]
    ;IS NOT[nl]
    ;OPTION.
-   Verlasst die
+   Verlaßt die
    Raubersburg
    nicht ohne
-   das geweihte
+   das heilige
    Rosenkreuz.
-   Ihr sollt es
+   Ihr müßt es
    dort finden!!
 
 
@@ -1144,7 +1144,7 @@
    ; Comments: Dialog shown when you talk to ferryman on Belasco Marsh shore whilst showing heart.
    ;***********.
    [nl]
-   Lasst mich
+   Laßt
    Euch auf den
    rechten Pfad
    lotsen.
@@ -1156,11 +1156,11 @@
    ; Comments: Dialog shown when you talk to ferryman on the opposite shore (regardless of what you show).
    ; Info: Can be replaced by 156, 157 or 158, depending on conditions.
    [nl]
-   Ihr habt es
-   vollendet?
-   Dann auf,
-   zurück ins
-   dunkle Moor.
+   Vorüber?
+   Ich bringe
+   Euch ins 
+   Trockene, 
+   Belasco Moor.
    Har Har Har!!
 ;;;; "Friend" ;;;;
 
@@ -1169,14 +1169,13 @@
    ;JAP: SHIROTO AONO/SUISHOUWO/TORIKAE ANATANI/WATASHINOOMOIWO/TAKUSOU
    ; This guy lives in Aljiba / Alba
    [nl]
-   Ich besitze
-   einen Saphir!!
+   Wir tauschen!!
    Ich
-   überlasse
-   ihn Euch
-   gerne im 
-   Tausch für
-   Euren
+   überlaße
+   Euch meinen
+   Saphir
+   gerne 
+   für Euren
    Bergkristall.
 +086u: ;JA @7364[0:DRQ_MAC0]
    ;JAP: AOTO AKANO/SUISHOUWO/TORIKAE ANATANI/WATASHINOOMOIWO/TAKUSOU
@@ -1185,10 +1184,8 @@
    [nl]
    Ich besitze
    einen Rubin!!
-   Ich
-   überlasse
-   ihn Euch
-   gerne im
+   Er ist nun
+   Euer im
    Tausch für
    Euren
    Saphir.
@@ -1196,7 +1193,6 @@
    ;JAP: WATASHITO ANATANO/SUISHOUTO DEHA/KOUKANDEKINU
    ;ENG: I REFUSE TO/EXCHANGE MY/CRYSTAL FOR/YOURS.
    ;***********.
-   [nl]
    Ich bereite
    Edelsteine
    zum Tausch
@@ -1216,7 +1212,6 @@
    ;   the power to burn the wickedness into nothing.
    ; Comment: Shown only when the player is wielding a Morning Star.
    ;***********.
-   [nl]
    Ich verleihe
    Eurem
    Morgenstern
@@ -1225,7 +1220,7 @@
    verbrennen!!
    Mögen sie
    brennen wie
-   Zunder!!
+   Zunderholz!!
 +117u: ; REWORK  
    ;JA @6812[3:DRQ_E_10]
    ;ENG: TO BREAK MY/SPELL, COME/BACK WITH A/POWERFUL/WEAPON.
@@ -1234,7 +1229,6 @@
    ; Comments: Shown when the player wields something other than the Morning Star.
    ; Info: The guy who gives fire power.
    ;   In dialog_ext mode, replaced with 155 once player has a fire whip.
-   [nl]
    Eure
    Peitsche
    sollte man
@@ -1314,34 +1308,34 @@
    ;ENG: YOU NOW/POSSESS/DRACULA'S/HEART.
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/SHINZOUWO/TENIIRETA
    [nl]
-   Ihr verfügt[nl][nl]
+   Ihr verfügt[nl]
    nun über[nl][nl]
-   Draculas[nl][nl]
-   Herz.
+   Draculas[nl]
+   Herz
 +026u: ;JA @63C4[7:DRQ_YK_3]
    ;ENG: YOU NOW/POSSESS/DRACULA'S/EYEBALL.
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/MEDAMAWO/TENIIRETA
    [nl]
-   Ihr verfügt[nl][nl]
+   Ihr verfügt[nl]
    nun über[nl][nl]
-   Draculas[nl][nl]
-   Auge.
+   Draculas[nl]
+   Auge
 +027u: ;JA @6474[8:DRQ_YK_4]
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/TSUMEWO/TENIIRETA
    ;ENG: YOU NOW/POSSESS/DRACULA'S/NAIL.
    [nl]
-   Ihr verfügt[nl][nl]
+   Ihr verfügt[nl]
    nun über[nl][nl]
-   Draculas[nl][nl]
-   Kralle.
+   Draculas[nl]
+   Kralle
 +028u: ;JA @6447[4:DRQ_YCOM]
    ;ENG: YOU NOW/POSSESS/DRACULA'S/RING.
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/YUBIWAWO/TENIIRETA
    [nl]
-   Ihr verfügt[nl][nl]
+   Ihr verfügt[nl]
    nun über[nl][nl]
-   Draculas[nl][nl]
-   Ring.
+   Draculas[nl]
+   Ring
 
 
 ;;;; Acquisitions: From battle & findings ;;;;
@@ -1352,7 +1346,7 @@
    ; Literal translation: In this instant, the sacred flame was placed in your hand.
    [nl]
    Ihr nehmt[nl][nl]
-   Die Heilige[nl][nl]
+   Die Heilige[nl]
    Flamme[nl][nl]
    an Euch.
 +119u: ;JA @6416[7:DRQ_YK_3]
@@ -1363,7 +1357,7 @@
    ;***********.
    [nl]
    Ihr nehmt[nl][nl]
-   Das Goldene[nl][nl]
+   Das Goldene[nl]
    Messer[nl][nl]
    an Euch.
 +038u: ;JA @644F[4:DRQ_YCOM]
@@ -1373,7 +1367,7 @@
    ; Dropped by Camilla.
    [nl]
    Ihr nehmt[nl][nl]
-   Das[nl][nl]
+   Das[nl]
    Rosenkreuz[nl][nl]
    an Euch.
 
@@ -1408,9 +1402,8 @@
    [nl]
    Ich biete
    frischen
-   Knoblauch an.
-   Wollt Ihr
-   welchen?
+   Knoblauch 
+   feil.
 +048u: ;JA @67FC[0:DRQ_MAC0]
    ;JAP: GEKKEIJUWO/KATTEYUKANUKA?
    ;ENG: BUY SOME OF/MY LAURELS?
@@ -1419,24 +1412,22 @@
    [nl]
    Wollt Ihr
    Lorbeer
-   erstehen?
+   nehmen?
 +050u: ;JA @7223[0:DRQ_MAC0]
    ;JAP: SHIROSUISHOUWO/KATTEYUKANUKA?
    ;ENG: BUY A WHITE/CRYSTAL?
    ; In Jova
    [nl]
-   Wollt Ihr
-   meinen
-   weißen
-   Bergkristall
-   erstehen?
+   Kauft meinen
+   Bergkristall.
 +051u: ;JA @7229[0:DRQ_MAC0]
    ;JAP: IBARANO MUCHIWO/KATTEYUKANUKA?
    ;ENG: BUY A THORN/WHIP?
    ; In Jova
    [nl]
    Ich biete
-   diese Dornen-Peitsche an.
+   diese Dornen-
+   Peitsche an.
    Wollt Ihr
    sie erwerben?
  
@@ -1445,7 +1436,8 @@
    ;ENG: PURCHASE A/CHAIN WHIP?
    ; In the small town of Veros.
    [nl]
-   Diese Ketten-Peitsche ist
+   Diese Ketten-
+   Peitsche ist
    ihren Preis
    wert.
    
@@ -1466,9 +1458,9 @@
    ; In the small town of Veros.
    [nl]
    Wollt Ihr
-   Wurf-Dolche
+   Wurfdolche
    von mir
-   erwerben?
+   nehmen?
    ;HERE'S A[nl]
    ;GREAT DAGGER!![nl]
    ;BUY IT,[nl]
@@ -1479,11 +1471,10 @@
    ;ENG: WANT TO BUY/HOLY WATER?
    ;***********.
    [nl]
-   Wollt Ihr
-   Weihwasser
-   erstehen?
+   Kauft
+   Weihwasser!!
    Es wird
-   Euch helfen!!
+   Euch helfen.
 
 +116u:
    ; Info: Replaces 97 and 99 after a certain day if dialog_ext was enabled.
