@@ -1532,7 +1532,7 @@
    ; Info: Given as a replacement for 90, if the player is level 0 or 1.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Delivered by the elder person in Yomi.
-   Unfassbar!!
+   Unfaßbar!!
    Wünscht Ihr
    Euch den Tod
    so sehr?
