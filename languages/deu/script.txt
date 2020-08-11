@@ -1303,7 +1303,7 @@
    Ihr verfügt[nl][nl]
    nun über[nl][nl]
    Draculas[nl][nl]
-   Rippe.
+   Rippe
 +025u: ;JA @6443[6:DRQ_YK_2]
    ;ENG: YOU NOW/POSSESS/DRACULA'S/HEART.
    ;JAP: KONOSHUNKAN/SONATAHA DORAKYURANO/SHINZOUWO/TENIIRETA
@@ -1486,7 +1486,7 @@
    Oh, verzeiht!!
    Ich dachte,
    Ihr seid
-   einer Vampir.
+   ein Vampir.
 
 +121u:
    ; Info: Given as a replacement for 056, if player has a crystal and dialog_ext was enabled
