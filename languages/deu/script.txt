@@ -199,7 +199,7 @@
    [nl]
    Bannt Ihr
    den Fluch
-   des Flusses,
+   des Fluﬂes,
    kann man die 
    Brahmsburg
    wieder
@@ -434,7 +434,7 @@
    ;***********.
    [gosubFC:02]
    Toter[nl]
-   [60][60][60]Fluss
+   [60][60][60]Fluﬂ
    [gosubFC:03]
    Sadams[nl]
    [60][60][60]Wald
@@ -605,7 +605,7 @@
    Gegen
    Mitternacht.[nl]
    Am Ufer
-   des Flusses.[nl]
+   des Fluﬂes.[nl]
    Sei dort.
 +093u: ;JA @7370[0:DRQ_MAC0]
    ;ENG: HIT DEBORAH/CLIFF WITH/YOUR HEAD TO/MAKE A HOLE.
@@ -779,7 +779,7 @@
    Wisst Ihr,
    der F‰hrmann
    am toten
-   Fluss?[nl]
+   Fluﬂ?[nl]
    Man erz‰hlt,
    er n‰hme
    Knoblauch
@@ -1131,7 +1131,7 @@
    ;***********.
    [nl]
    Freund,...
-   Gewiss werde
+   Gewiﬂ werde
    ich Dich an
    einen guten
    Ort bringen.
@@ -1261,7 +1261,7 @@
    [nl]
    Bitte nehmt
    diesen
-   silbernen
+   Silbernen
    Dolch.
    Er mˆge Euch
    stets den
@@ -1693,7 +1693,7 @@
    ; Info: Ferryman chatter en-route, when returning.
    ; Comments: ADDED DIALOGUE.
    ; Meaning: Jump and talk to the ferryman.
-   Ich kenne diesen Fluss wie meine Hosentasche.
+   Ich kenne diesen Fluﬂ wie meine Hosentasche.
    Jeden Strom, jeden Wirbel
    ...und nun, die Untiere. Arr...
 
