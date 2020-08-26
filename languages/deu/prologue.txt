@@ -101,30 +101,29 @@
 [stop_scene][PLAY_SCENE:simon_kneels]
 [timer_wait:0900][clear][wait]
 	Während er über sein Dasein[nl]
-	nachsann ...[nl]
-	... plötzlich, hinter ihm...[nl]
+	nachsann, ... plötzlich[nl]
 [stop_scene][PLAY_SCENE:woman_appears_and_simon_stands_and_looks]
-	Da stand eine Frauengestalt,[nl]
-	umhüllt vom Morgennebel.
+	erschien eine Frauengestalt,[nl]
+	umhüllt von Morgennebel.
 [wait]
 [SPECIAL_SCENE:03]
 [timer_wait:0A8B]
 [clear]
-	Die Gestalt näherte sich[nl]
+	Die Frau näherte sich[nl]
 	Simon und sprach:
 [timer_wait:0B62][clear][color:35]
 	"Ein düsterer Fluch hat von[nl]
 	Eurem Leib Besitz ergriffen.[nl]
-	Der Tod ist nah, Simon.
+	Der Tod ist nahe, Simon.
 [COMMENT: Note: Cannot use capital "Y" here.]
 [timer_wait:0C56][clear]
 	Doch, besitzt Ihr noch den[nl]
 	Willen und die Kühnheit den[nl]
-	Mächten der Finsternis wieder[nl]
-	die Stirn zu bieten ...
+	Mächten der Finsternis erneut[nl]
+	die Stirn zu bieten?
 [timer_wait:0DB7][clear]
-	... gewiss, der Herrgot würde[nl]
-	Euch die nötige Kraft verleihen.
+	Der Herrgott würde Euch gewiß[nl]
+	die nötige Kraft verleihen.
 [stop_scene][SPECIAL_SCENE:04]
 [timer_wait:0E97][clear]
 	Seit sieben Jahren, seit dem[nl]
@@ -138,10 +137,10 @@
 	wieder aufzuerstehen.
 [SPECIAL_SCENE:05]
 [timer_wait:1178][clear]
-	Es sind schon fünf derer[nl]
+	Es sind bereits fünf derer[nl]
 	Überreste erschienen,[nl]
 	verteilt auf das ganze Land.[nl]
-	Jedes davon stärkt den Fluch.
+	Mit jedem erstarkt der Fluch.
 [timer_wait:12A5][fadeout]
 [stop_scene][LOAD_SCENE:berkeley_mansion_pan][wait][SPECIAL_SCENE:02][fadein]
 [clear]
@@ -155,11 +154,11 @@
 [LOAD_fadein_PLAY_SCENE:altar_room]
 [clear]
 	Bringt die Überreste in die[nl]
-	Ruinen von Draculas Schloss,
+	Ruinen von Draculas Schloß,
 [timer_wait:1640][clear]
 	und läutert sie mit Feuer[nl]
 	auf dem verborgenem Altar,[nl]
-	und bannt so den Fluch!!
+	nur so bannt Ihr den Fluch!!
 [timer_wait:1744][fadeout]
 [LOAD_SCENE:family_grave]
 [PLAY_SCENE:family_grave_continued]
@@ -167,26 +166,26 @@
 [clear]
 	Wenn der Fluch gebrochen ist,[nl]
 	wird die Mär von Dracula[nl]
-	endlich ein Ende finden. 
+	endlich sein Ende finden. 
 [timer_wait:190B][clear]
 	Mit dem Bann des Fluches[nl]
 	wird auch Euer Leib genesen.
 [stop_scene][SPECIAL_SCENE:06]
 [timer_wait:19F6][clear]
-	Es bleibt kein anderer Weg - [nl]
-	Tilgt Draculas Dasein[nl]
+	Es bleibt kein anderer Weg.[nl]
+	Tilgt Draculas Dasein nun[nl]
 	für immer und ewig."
 [timer_wait:1AF9][SPECIAL_SCENE:00]
 [stop_scene][PLAY_SCENE:woman_disappears_simon_searches]
 [clear][color:20]
 	Nachdem die Gestalt dies[nl]
-	gesprochen hatte, verschwand[nl]
+	gesprochen hatte, entschwand[nl]
 	sie wieder im Morgennebel.
 [timer_wait:1C28][clear]
 [stop_scene][SPECIAL_SCENE:07][PLAY_SCENE:simon_goes_on_journey]
 	Und so beginnt ein neues[nl]
 	Abenteuer für den Helden[nl]
-	Simon Belmont. Mit neu[nl]
+	Simon Belmont mit neu[nl]
 	gefundener Entschlossenheit.
 [timer_wait:1D6A][clear]
 	Es gibt keinen anderen Weg!![nl]
