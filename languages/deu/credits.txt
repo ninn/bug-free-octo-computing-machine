@@ -1,24 +1,24 @@
 // This configures the secondary ending screen that was added after
 // the normal ending, to compensate for the fact that the USA/PAL
 // releases did away with the staff credits of the Japanese version.
-{"title" : "PROGRAMMED WITH THE
-FOLLOWING CHARACTERISTICS:",
- "after" : "THANKS FOR PLAYING,
-SEE YOU AGAIN! THE END.",
+{"title" : "PROGRAMMIERT MIT
+FOLGENDEN EIGENSCHAFTEN:",
+ "after" : "DANKE FÜR DAS SPIEL,
+BIS BALD! DAS ENDE.",
  "actors" : {
-      "AKAMATSU" : "INVINCIBILITY", // H., design, or maybe programmer
-      "IWASA" : "PERMANENCE",
-      "TOGAKUSHI" : "PHILOSOPHY", // N. 
-      "KAWANISHI" : "MASTERPIECE",
-      "HATANO" : "SENSITIVITY",
-      "TERASHIMA" : "EXCELLENCE", // Possibly Satoe Terashima (composer)
-      "KUWAHARA" : "AMBIVALENCE",
-      "HIGASA" : "FLOURISH",
-      "OHYAMA" : "ADMIRATION",
-      "MATSUOKA" : "WARM-HEART",
-      "MURATA" : "SUPERIORITY",
-      "MATSUBARA" : "SYNCHRONISM", // Kenichi, music
-      "YLILUOMA" : "INSIGHT",
+      "AKAMATSU" : "UNBESIEGBARKEIT", // H., design, or maybe programmer
+      "IWASA" : "BESTÄNDIGKEIT",
+      "TOGAKUSHI" : "PHILOSOPIE", // N. 
+      "KAWANISHI" : "MEISTERSTÜCK",
+      "HATANO" : "EMPFINDSAMKEIT",
+      "TERASHIMA" : "GÜTE", // Possibly Satoe Terashima (composer)
+      "KUWAHARA" : "ZWIESPALT",
+      "HIGASA" : "BLÜTE",
+      "OHYAMA" : "BEWUNDERUNG",
+      "MATSUOKA" : "HERZLICHKEIT",
+      "MURATA" : "ÜBERLEGENHEIT",
+      "MATSUBARA" : "GLEICHLAUF", // Kenichi, music
+      "YLILUOMA" : "VERSTÄNDNIS",
 
       "[F8][21][22][23][24][25][26][27][28][29][2A][2B][F8][F8]
 [30][31][32][33][34][35][2C][2D][2E][2F][42][43][F8][F8]
