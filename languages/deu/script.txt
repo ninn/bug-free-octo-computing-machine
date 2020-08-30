@@ -377,7 +377,7 @@
    ;***********.
    [4D][4D][4D][4D]JOVA[4D][4D][4D][4D]
    [gosubFC:02]
-   Brücke[nl]
+   Weg[nl]
    [60][60][60]nach Veros
    [gosubFC:03]
    Belasco[nl]
@@ -407,7 +407,7 @@
    Carmillas[nl]
    [60][60][60]Friedhof
    [gosubFC:03]
-   Wald von[nl]
+   Wälder von[nl]
    [60][60][60]Aljiba
 +060u: ;JA @7338[2:DRQ_MAC2]
    ;JAP: MIGI/ZADAMUNO MORI/HIDARI/JAMUNO ARECHI
@@ -419,11 +419,11 @@
    ;***********.
    [gosubFC:02]
    Sadams[nl]
-   [60][60][60]Wald
+   [60][60][60]Wälder
    [gosubFC:03]
    Nördliches[nl]
-   [60][60][60]Jam[nl]
-   [60][60][60]Brachland
+   [60][60][60]Brachland[nl]
+   [60][60][60]von Jam
 +082u: ;JA @734D[0:DRQ_MAC0]
    ;JAP: MIGI/DEDDORIBA-/HIDARI/ZADAMUNO MORI
    ;ENG: TURN RIGHT/FOR THE DEAD/RIVER, LEFT/FOR THE /SADAM WOODS.
@@ -437,7 +437,7 @@
    [60][60][60]Fluß
    [gosubFC:03]
    Sadams[nl]
-   [60][60][60]Wald
+   [60][60][60]Wälder
 +083u: ;JA @7385[1:DRQ_MAC1]
    ;JAP: MIGI/KITANO HASHI/HIDARI/JAAKUNO MIZO
    ;ENG: TURN LEFT/FOR THE/WICKED DITCH/, RIGHT TO/GO NORTH.
@@ -447,8 +447,8 @@
    [4D][4D][4D]DOINA[4D][4D][4D][4D]
    ;***********.
    [gosubFC:02]
-   Brücke nach[nl]
-   [60][60][60]Norden
+   Nördliche[nl]
+   [60][60][60]Brücke
    [gosubFC:03]
    Gefährliche[nl]
    [60][60][60]Brandgräben
@@ -460,11 +460,11 @@
    ; Right: Vlad Graveyard, West Bridge, CASTLEVANIA
    [4D][4D][4D][4D]YOMI[4D][4D][4D][4D]
    [gosubFC:02]
-   Vlads[nl]
+   Graf Vlads[nl]
    [60][60][60]Ruhestätte
    [gosubFC:03]
    Doras[nl]
-   [60][60][60]Wald
+   [60][60][60]Wälder
 
 
 ;;;; Ondol/Oldon NPCs ;;;;
@@ -994,8 +994,9 @@
    Mit einem
    Lorbeerblatt
    erträgt man
-   die Fäule in
-   den Sümpfen.
+   die Fäulnis
+   in den 
+   Sümpfen.
    
 +088u: ;JA @72B6[1:DRQ_MAC1]
    ;JAP: NOROWARESHI/DEDDORIBA-/IMANAO NOROIWO/TOKUMONO MACHIWABIRU/KAWA
