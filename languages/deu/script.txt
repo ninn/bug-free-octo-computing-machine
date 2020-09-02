@@ -283,9 +283,9 @@
    Friedhof
    erlegt
    Dämonen.[nl][nl]
-   Jemand
-   erwartet
-   Euch schon.
+   Der Wächter 
+   wird Euch
+   erscheinen.
 
 +035u: ;JA @63CC[7:DRQ_YK_3]
    ;ENG: PLACE THE/LAURELS IN A/SILK BAG TO/BRING THEM/TO LIFE.
@@ -347,8 +347,8 @@
    veredelten
    Lorbeer
    geht Ihr im
-   verfluchten
-   Moor gewiss
+   hiesigen
+   Moor gewiß
    zu Grunde.
 +017u: ;JA @67F0[3:DRQ_E_10]
    ;ENG: DRACULA'S/EVIL KNIFE/BLURS/CAMILLA'S/VISION.
@@ -601,8 +601,9 @@
    ; Literal translation: Tonight, at 12am, near the river (in the vicinity of the river).
    ; Info: Lady in 3rd stair in town of Aldra
    ; Replaced by 116 in dialog_ext mode after a certain day.
+   [nl]   
    Heute.[nl]
-   Gegen
+   Zur
    Mitternacht.[nl]
    Am Ufer
    des Flußes.[nl]
@@ -618,8 +619,8 @@
    ; Info: Lady in 3rd stair in town of Aldra
    ;***********.
    [nl]
-   Für ein
-   großes Loch
+   Für einen
+   Durchgang
    schlagt doch
    Euren Kopf
    gegen die
@@ -729,11 +730,11 @@
    ;***********.
    [nl]
    Diese Tage
-   bieten
+   bieten die
    Händler ihre
    Ware nur
    mehr im 
-   Verborgenem,
+   Verborgenen,
    unter der
    Hand, an.
    
@@ -1046,12 +1047,11 @@
    [nl]
    Ihr schon
    wieder!![nl][nl]
-   Ich hatte
-   so innig
-   gehofft
-   Euch nie
-   wieder zu
-   begegnen.
+   Ich hoffe so, 
+   Ihr geht
+   bald fort und 
+   nehmt den Fluch 
+   mit Euch. 
 
 +100u: ;JA @73C1[1:DRQ_MAC1]
    ;ENG: GET BACK!!
@@ -1218,7 +1218,7 @@
    Morgenstern
    die Kraft,
    Geister zu
-   verbrennen!!
+   entflammen!!
    Mögen sie
    brennen wie
    Zunderholz!!
@@ -1252,7 +1252,9 @@
    Euch diesen
    wertvollen
    Seidenbeutel.
-
+   Möge er
+   Euer Leben 
+   verlängern.
 +016u: ;JA @67DB[3:DRQ_E_10]
    ;JAP: SONATANI/GINNONAIFUWO/SAZUKEYOU
    ;ENG: I'LL GIVE/YOU THIS/SILVER KNIFE/TO SAVE YOUR/NECK.
@@ -1381,7 +1383,7 @@
    ; Literal translation: Let your body rest here and then go. In the name of Father, Son and Holy Spirit, amen.
    [nl]
    Weile hier,
-   bete mit mir
+   bete mit mir,
    mein Sohn.
    Gottes Segen
    sei mit Dir.
