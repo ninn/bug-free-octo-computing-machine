@@ -165,9 +165,9 @@
    ; Comments: Clue 1, In town of Veros. Hinted by string 78.
    [nl]
    Der Steig 
-   auf Burg 
+   in Burg 
    Berkeley ist
-   mit einen 
+   durch einen 
    Kristall gut
    sichtbar.
 +030u: ;JA @64C6[5:DRQ_YK_1]
