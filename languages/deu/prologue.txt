@@ -81,20 +81,20 @@
 	Nachdem Dracula vom Helden[nl]
 	Simon Belmont besiegt wurde,[nl]
 	fiel der Körper des Grafen in[nl]
-	einen tiefen, dunklen Schlaf.
+	einen dunklen Schlaf.
 [wait][PLAY_SCENE:battle_demon]
 [clear]
-	Doch der Preis für diesen[nl]
+	Doch das Opfer für diesen[nl]
 	Sieg war Simon Belmonts[nl]
 	eigene Gesundheit.
 [timer_wait:065C][clear]
 	Sein Körper wurde stetig[nl]
-	schwächer, - er fühlte,[nl]
-	dass sein Tod nahte.
+	schwächer, Simon fühlte[nl]
+	seinen Tod nahen.
 	
 [LOAD_fadein_PLAY_SCENE:family_grave]
 [clear]
-	So begab es sich, dass[nl]
+	So begab es sich, daß[nl]
 	Simon eines Morgens[nl]
 	das Grab seiner Ahnen am[nl]
 	Hügel der Engel aufsuchte.

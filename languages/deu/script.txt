@@ -714,7 +714,7 @@
    ; In dialog_ext mode, replaced with 121 once player has a crystal.
    [nl]
    Geht nun,
-   erwerbt den
+   holt den
    Kristall!![nl]
    So nimmt die  
    Geschichte
@@ -728,9 +728,9 @@
    ; Info: Monk in 2nd stair in town of Jova
    ;***********.
    [nl]
-   Manche
-   Händler 
-   bieten ihre
+   Diese Tage
+   bieten
+   Händler ihre
    Ware nur
    mehr im 
    Verborgenem,
