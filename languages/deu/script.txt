@@ -1934,7 +1934,7 @@
 +35: ;
    [goto:21:6E]BETEN MÜSSEN.[term03]
 +36: ;
-   [goto:20:AE]HIER STEHT EIN GEHEIMER TEXTT.[term04]
+   [goto:20:AE]EIN GEHEIMER TEXT.[term04]
 
 +37: ;
    [goto:20:AE]DER KAMPF MIT[term02]
